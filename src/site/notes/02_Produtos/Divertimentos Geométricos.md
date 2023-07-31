@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/divertimentos-geometricos/","title":"Divertimentos Geométricos","tags":["tcm/materialdidatico"],"created":"2023-07-31 às 16:46","updated":"2023-07-31 às 17:00"}
+{"dg-publish":true,"permalink":"/02-produtos/divertimentos-geometricos/","title":"Divertimentos Geométricos","tags":["tcm/materialdidatico"],"created":"2023-07-31 às 16:46","updated":"2023-07-31 às 18:05"}
 ---
+
+
+
 
 
 ![Logo tem ciência no museu(sem fundo).png](/img/user/XX_Anexos/Logo%20tem%20ci%C3%AAncia%20no%20museu(sem%20fundo).png)
@@ -23,20 +26,38 @@ Fabio Enrique Brochero Martínez
 ___
 ## Sumário
 
--  [[02_Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|Apresentação]]
--  [[02_Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|Sólidos Platônicos]]
+- [[02_Produtos/Divertimentos Geométricos#Este material é um produto do projeto:\|Apresentação]]
+- [[02_Produtos/Divertimentos Geométricos#Sólidos Platônicos\|Sólidos Platônicos]]
 	- [[02_Produtos/Divertimentos Geométricos#Sólidos Platônicos\|1.1 Porque somente 5 Sólidos Perfeitos?]]
-	- [[02_Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|1.2 Construção de “Polígonos de Encaixe”]]
-		- [[02_Produtos/Divertimentos Geométricos#1.2 Construção de “Polígonos de Encaixe”\|1.2.1 Triângulos de encaixe]]
-		- [[02_Produtos/Divertimentos Geométricos#1.2 Construção de “Polígonos de Encaixe”\|1.2.2 Quadrados e Pentágonos de encaixe]]
-	- [[02_Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|1.3 Uma proposta para sala de aula]]
-		- [[02_Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.1. Montando o Tetraedro]]
-		- [[02_Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.2 Montando o Octaedro]]
-		- [[02_Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.3 Montando o Cubo]]
-		- [[02_Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.4 Montando o Icosaedro]]
-		- [[02_Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.5 Montando o Dodecaedro]]
-	- [[02_Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|Referências Bibliográficas]]
-	- [[02_Produtos/Divertimentos Geométricos#<center>Divertimentos Geométricos: </center>\|Moldes]]
+- [[02_Produtos/Divertimentos Geométricos#1.2 Construção de “Polígonos de Encaixe”\|1.2 Construção de “Polígonos de Encaixe”]]
+	- [[02_Produtos/Divertimentos Geométricos#1.2 Construção de “Polígonos de Encaixe”\|1.2.1 Triângulos de encaixe]]
+	- [[02_Produtos/Divertimentos Geométricos#1.2 Construção de “Polígonos de Encaixe”\|1.2.2 Quadrados e Pentágonos de encaixe]]
+- [[02_Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3 Uma proposta para sala de aula]]
+	- [[02_Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.1. Montando o Tetraedro]]
+	- [[02_Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.2 Montando o Octaedro]]
+	- [[02_Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.3 Montando o Cubo]]
+	- [[02_Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.4 Montando o Icosaedro]]
+	- [[02_Produtos/Divertimentos Geométricos#1.3 Uma proposta para sala de aula\|1.3.5 Montando o Dodecaedro]]
+- [[02_Produtos/Divertimentos Geométricos#Referências Bibliográficas\|Referências Bibliográficas]]
+- [[02_Produtos/Divertimentos Geométricos#Moldes\|Moldes]]
+
+
+## Lista de Figuras
+
+- [[02_Produtos/Divertimentos Geométricos#Figura 1: Retrato de Leonhard Paul Euler\|Figura 1: Retrato de Leonhard Paul Euler]]
+- [[02_Produtos/Divertimentos Geométricos#Figura 2: Exemplo de mapa plano\|Figura 2: Exemplo de mapa plano]]
+- [[02_Produtos/Divertimentos Geométricos#Figura 3: Grafo plano\|Figura 3: Grafo plano]]
+- [[02_Produtos/Divertimentos Geométricos#Figura 4: Confeccionando os Triângulos de Encaixe\|Figura 4: Confeccionando os Triângulos de Encaixe]]
+- [[02_Produtos/Divertimentos Geométricos#Figura 5: Construção dos cortes de encaixe\|Figura 5: Construção dos cortes de encaixe]]
+- [[02_Produtos/Divertimentos Geométricos#Figura 6: "Peça Triangular" (a) e Polígono de Reuleaux (b).\|Figura 6: "Peça Triangular" (a) e Polígono de Reuleaux (b).]]
+- [[02_Produtos/Divertimentos Geométricos#Figura 7: “Peças Quadrada e Pentagonal”\|Figura 7: “Peças Quadrada e Pentagonal”]]
+
+
+> Para fazer download deste material escolha seu formato favorito:
+>  [PDF](https://drive.google.com/drive/folders/1lM1HvKTrP5ucGRPYydbEc91FkMhfhXv2?usp=sharing)
+>  [Powerpoint](https://docs.google.com/presentation/d/1Hu3JqAvnjpGC_m0qaIhWt_dPv-xQejty/edit?usp=drive_link&ouid=116292460269441738536&rtpof=true&sd=true)
+>  [Word](https://docs.google.com/document/d/1dYlgMrPmB0qamAPn4_OR8N-12QyvEGi9/edit?usp=drive_link&ouid=116292460269441738536&rtpof=true&sd=true)
+>  [.MD](https://drive.google.com/file/d/1oBw6lkEthX4HgijIz60ToPCnz2TG3-1W/view?usp=drive_link)
 
 ***
 
@@ -434,5 +455,6 @@ O Dodecaedro possui 12 faces pentagonais, 30 arestas e 20 vértices, no qual cad
 ***
 Material disponibilizado digitalmente no âmbito do Projeto Educação científica em museus: desenvolvimento do pensamento científico, crítico e criativo na imersão dos acervos universitários da UFMG em jul/23.
 
+Versão elaborada em markdown e mathjax.
 
 ![Design sem nome.png](/img/user/XX_Anexos/Design%20sem%20nome.png)
