@@ -9,7 +9,24 @@ body {
         text-indent: 1.25cm;
         hyphens: auto;
     }
+    a:link, a:visited, a { /* Links. */
+        color: #60a7d8;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    a:hover {
+        color: #afcc74;
+    }
+
+         b, strong {
+        color: #afcc74;
+        font-weight: bold;
+    }
     
+    i, em {
+        color: #ed8743;
+        font-weight: italic;
+    }
     h1, h2, h3, h4, h5, h6{
         font-family: "Baloo" !important;
         color: #183d4c;
@@ -98,7 +115,6 @@ body {
         border-width: 0px 0px 0px 0px;
         border-color: darkgray;
         line-height: 0;
-        text-align: center;
     }
     code {
         font-family: "Fira Code Retina";
