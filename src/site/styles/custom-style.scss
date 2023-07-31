@@ -18,7 +18,7 @@ body {
         color: #afcc74;
     }
 
-         b, strong {
+    b, strong {
         color: #afcc74;
         font-weight: bold;
     }
@@ -108,21 +108,21 @@ body {
     }
 
     /* Code and math blocks. --------------------------------------------------------------- */
-    pre { /* background and border of block. */
+    pre { /* background and border of block. 
         background-color: transparent;
         border-style: dashed;
         border-radius: 0px;
         border-width: 0px 0px 0px 0px;
         border-color: darkgray;
         line-height: 0;
-    }
+    }*/
     code {
         font-family: "Fira Code Retina";
         font-size: 12pt;
         color: #292929;
     }
     mjx-math {
-        font-size: 100%;
+        font-size: 90%;
         text-align: inline;
     }
     math-block {
@@ -211,9 +211,8 @@ body {
     }
      /* Horizontal separator. --------------------------------------------------------------- */
      hr { /* Manual page-break using "---". */
-        border: none !important;
-        border-top: 0px dashed !important;
-        page-break-after: always !important;
+        border: 2px dashed !important;
+
     }
 
     /* Additional settings. ---------------------------------------------------------------- */
