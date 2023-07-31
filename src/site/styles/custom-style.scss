@@ -261,5 +261,30 @@ body {
         color: #292929 !important;
     }
 
+
+.parallax {
+  /* Defina a imagem de fundo que deseja fixar */
+  background-image: url('https://imgur.com/a/yZ1MJlm');
+
+  /* Defina a altura da div parallax para ocupar toda a tela */
+  height: 100vh;
+
+  /* Crie o efeito de paralaxe ajustando o posicionamento do plano de fundo */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content {
+  /* Defina uma largura máxima para o conteúdo para facilitar a leitura */
+  max-width: 800px;
+  margin: 0 auto; /* Centralize o conteúdo na página */
+}
+
+
+
+
+        
 }
 
