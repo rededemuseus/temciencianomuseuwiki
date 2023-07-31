@@ -1,13 +1,240 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+/* Header styling and automatic numbering. --------------------------------------------- */
+    h1, h2, h3, h4, h5, h6{
+        font-family: "Baloo" !important;
+        color: #183d4c;
+        page-break-after: avoid;
+        page-break-inside: avoid;
+        text-align: left;
+        font-size: 12pt;
+        line-height: 1.2;
+        margin-bottom: 1.5em;
+        margin-top: 1.5em;
+        padding-bottom: 0;
+        font-weight: normal;
+        text-decoration: none !important;
+    }
+    h1 { /* Title. */
+        font-family: "Baloo" !important;
+        color: #183d4c !important; 
+        text-align: center;
+        font-size: 30pt !important ;
+        font-weight: normal;
+        margin-bottom: 2em;
+        margin-top: 0px;
+        text-decoration: none !important;
+        font-weight: normal !important;
+    }
+    h6 { /* Subtitle. */
+        font-family: "Nunito Sans Light" !important;
+        text-align: center;
+        font-size: 10pt !important;
+        font-weight: normal;
+        margin-bottom: 6px;
+        margin-top: 0px;
+        text-decoration: none !important;
+        font-weight: normal !important;
+    }
+    h2 {
+        font-family: "Baloo" !important;
+        color: #ed8743 !important;
+        font-size: 25pt;
+        margin-top: -0.5em;
+        margin-bottom: 1.5em;
+        text-decoration: none !important;
+        font-weight: normal !important;
+    }
+    h3 {
+        font-family: "Baloo" !important;
+        color: #afcc74 !important;
+        font-size: 20pt;
+        margin-bottom: 1.5em;
+        margin-top: 1.5em;
+        text-decoration: none !important;
+        font-weight: normal !important;}
+    h4 {
+        font-family: "Baloo" !important;
+        color: #60a7d8 !important;
+        font-size: 18pt;
+        line-height: 1;
+        padding-bottom: -2cm;
+        margin: none;
+        text-decoration: none !important;
+        font-weight: normal !important;
+    }
+    h5 {
+        font-family: "Baloo" !important;
+        color: #fac841 !important;
+        font-size: 15pt;
+        text-decoration: none !important;
+        font-weight: normal !important;
+    }
+
+    /* Credits. ---------------------------------------------------- */
+    del { /* Credits, i.e. author information. */
+        font-family: "Nunito Sans Light";
+        display: block;
+        text-align: center;
+        font-size: 10pt;
+        text-decoration: none;
+        margin-top: 8px;
+        padding-bottom: 10px;
+    }
+
+    /* Code and math blocks. --------------------------------------------------------------- */
+    pre { /* background and border of block. */
+        background-color: transparent;
+        border-style: dashed;
+        border-radius: 0px;
+        border-width: 0px 0px 0px 0px;
+        border-color: darkgray;
+        line-height: 0;
+        text-align: center;
+    }
+    code {
+        font-family: "Fira Code Retina";
+        font-size: 12pt;
+        color: #292929;
+    }
+    mjx-math {
+        font-size: 100%;
+        text-align: inherit;
+    }
+    math-block {
+        page-break-before: avoid;
+    }
+
+    /* Figures. ---------------------------------------------------------------------------- */
+    svg, img {
+        display: block;
+        page-break-inside: avoid;
+        page-break-after: avoid;
+        margin: 10px auto 5px;
+    }
+    figcaption {
+        font-family: "Nunito Sans Light";
+        text-align: center;
+        margin-bottom: 16px;
+        font-size: 10pt;
+    }
+
+    /* Tables. ----------------------------------------------------------------------------- */
+    table, pre {
+
+        border: transparent !important;
+        box-shadow: none !important;
+        background-color: transparent !important;
+        font-family: "Nunito Sans Light";
+    }
+    table {
+        font-family: "Nunito Sans Light";
+        font-size: 12pt;
+        text-align: center bottom !important;
+        margin: 10px auto 5px;
+        border-top: 0px solid #183d4c;
+        border-bottom: 0px solid #183d4c;
+        background-color: transparent;
+    }
+    th { /* Table headers. */
+        color: black;
+        font-weight: normal !important;
+        border: transparent !important;
+        padding: 2px 5px;
+        align-items: center bottom !important;
+    }
+    td {
+        border: transparent !important;
+        padding: 2px 5px;
+        text-align: justify;
+        align-items: center bottom !important;
+    }
+
+    table tr:nth-child(2) {
+        background-color: transparent;
+    }
+
+    /* Lists ------------------------------------------------------------------------------- */
+    ul, ol, dl {
+        page-break-before: avoid;
+        font-family: "Nunito Sans Light"!important;
+        font-size: 12pt;
+        line-height: 1.5;
+        margin-top: 0px;
+        padding-top: 0px;
+        text-indent: 1.25em;
+        text-align: justify;
+    }
+    ul li { /* Adjusts size of bullet points. */
+        list-style-type: none !important;
+        position: relative !important;
+    }
+    ul li::before {
+        content: '•' !important;
+        color:#60a7d8;
+        position: absolute !important;
+        left: -1.20em !important;
+        top: -0.05em !important;
+        font-size: 1.1em !important;
+    }
+
+    ol li::before {
+        color: #afcc74;
+        position: absolute !important;
+        left: -1.20em !important;
+        top: -0.05em !important;
+        font-size: 1.1em !important;
+    }
+     /* Horizontal separator. --------------------------------------------------------------- */
+     hr { /* Manual page-break using "---". */
+        border: none !important;
+        border-top: 0px dashed !important;
+        page-break-after: always !important;
+    }
+
+    /* Additional settings. ---------------------------------------------------------------- */
+    /*blockquote {
+        display: block !important;
+        text-align: center !important;
+        font-size: 12pt !important;
+        padding: 15px 15px 15px 15px !important;
+        margin: 5px 5px 5px 5px !important;
+        background-color: transparent !important;
+        border-width: 2px !important;
+        border-style: dashed !important;
+        border-color: #fac841 !important;
+        border-radius: 10% !important;
+        text-indent: none !important;
+        align-items: center !important;
+        align-content: center !important;
+    } */
+
+    blockquote {
+        display: block;
+        text-align: center;
+        font-size: 12pt;
+        padding: 15px !important;
+        margin: 5px;
+        background-color: transparent !important;
+        border-width: 2px !important;
+        border-style: dashed !important;
+        border-color: #fac841 !important;
+        border-radius: 10%;
+        text-indent: 0em ;
+        page-break-inside: avoid;
+        /* Centralizar horizontal e verticalmente */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    blockquote ol{        
+        text-indent: 0 ;}
+
+
+
+    .mermaid { /* Inline diagrams. */
+        color: #292929 !important;
+    }
+
+}
 }
