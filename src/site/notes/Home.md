@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2023-07-31 às 16:23","updated":"2023-07-31 às 18:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2023-07-31 às 16:23","updated":"2023-07-31 às 18:13"}
 ---
 
 
@@ -15,11 +15,23 @@ O público-alvo  do  projeto  inclui  a  comunidade  em  geral  e, espec
   
 A longo prazo, o projeto aspira criar uma cultura de visitação a museus e espaços de ciência, promovendo o prazer do aprendizado e a alfabetização cientíﬁca na sociedade.
 
-[Saiba mais sobre o desenrolar deste e outros projetos no site da Rede de Museus, contribua com relatos do uso deste material nas nossas redes e](https://www.ufmg.br/rededemuseus) não [perca nenhuma atividade, ﬁcando de olho na nossa Agenda Cientíﬁco- Cultural!](https://www.ufmg.br/rededemuseus/index.php/agenda-eventos/)
+Saiba mais sobre o desenrolar deste e outros projetos no [site da Rede de Museus](https://www.ufmg.br/rededemuseus), contribua com relatos do uso deste material nas nossas redes e não perca nenhuma atividade, ﬁcando de olho na nossa [Agenda Cientíﬁco- Cultural!](https://www.ufmg.br/rededemuseus/index.php/agenda-eventos/)
 
 Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
-![Design sem nome 1.png](/img/user/XX_Anexos/Design%20sem%20nome%201.png)
+
 
 
 ## Navegação:
+
 - [[Materiais didáticos\|Materiais didáticos]]
+- [[Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
+
+
+## Agenda:
+
+**Clique nos eventos para saber mais ou adicionar à sua agenda!**
+<iframe src="https://calendar.google.com/calendar/embed?src=df7ace29b2d09f0663adbbbbfccb5833c369ae3ffbc867d1dbab5c5fe699cc8f%40group.calendar.google.com&ctz=America%2FSao_Paulo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+***
+![Design sem nome 1.png](/img/user/XX_Anexos/Design%20sem%20nome%201.png)
