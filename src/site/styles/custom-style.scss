@@ -1,13 +1,23 @@
 body {
 /* Header styling and automatic numbering. --------------------------------------------- */
+        p {
+        font-family: "Nunito Sans Light"!important;
+        font-size: 1em;
+        text-align: justify;
+        line-height: 1.5;
+        margin: 0px;
+        text-indent: 1.25cm;
+        hyphens: auto;
+    }
+    
     h1, h2, h3, h4, h5, h6{
         font-family: "Baloo" !important;
         color: #183d4c;
         page-break-after: avoid;
         page-break-inside: avoid;
         text-align: left;
-        font-size: 12pt;
-        line-height: 1.2;
+        font-size: 1em;
+        line-height: 1.2em;
         margin-bottom: 1.5em;
         margin-top: 1.5em;
         padding-bottom: 0;
@@ -18,8 +28,7 @@ body {
         font-family: "Baloo" !important;
         color: #183d4c !important; 
         text-align: center;
-        font-size: 30pt !important ;
-        font-weight: normal;
+        font-size: 2.5em !important ;
         margin-bottom: 2em;
         margin-top: 0px;
         text-decoration: none !important;
@@ -28,7 +37,7 @@ body {
     h6 { /* Subtitle. */
         font-family: "Nunito Sans Light" !important;
         text-align: center;
-        font-size: 10pt !important;
+        font-size: 0.8em !important;
         font-weight: normal;
         margin-bottom: 6px;
         margin-top: 0px;
@@ -38,8 +47,8 @@ body {
     h2 {
         font-family: "Baloo" !important;
         color: #ed8743 !important;
-        font-size: 25pt;
-        margin-top: -0.5em;
+        font-size: 2em;
+        margin-top: 1.5em;
         margin-bottom: 1.5em;
         text-decoration: none !important;
         font-weight: normal !important;
@@ -47,7 +56,7 @@ body {
     h3 {
         font-family: "Baloo" !important;
         color: #afcc74 !important;
-        font-size: 20pt;
+        font-size: 1.6em;
         margin-bottom: 1.5em;
         margin-top: 1.5em;
         text-decoration: none !important;
@@ -55,7 +64,7 @@ body {
     h4 {
         font-family: "Baloo" !important;
         color: #60a7d8 !important;
-        font-size: 18pt;
+        font-size: 1.2em;
         line-height: 1;
         padding-bottom: -2cm;
         margin: none;
@@ -65,7 +74,7 @@ body {
     h5 {
         font-family: "Baloo" !important;
         color: #fac841 !important;
-        font-size: 15pt;
+        font-size: 1em;
         text-decoration: none !important;
         font-weight: normal !important;
     }
@@ -98,7 +107,7 @@ body {
     }
     mjx-math {
         font-size: 100%;
-        text-align: inherit;
+        text-align: inline;
     }
     math-block {
         page-break-before: avoid;
