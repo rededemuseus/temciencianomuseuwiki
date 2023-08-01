@@ -26,6 +26,7 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 - [[Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
 - [[Materiais didáticos\|Materiais didáticos]]
 - [[Espaços\|Espaços]]
+- [[Equipe\|Equipe]]
 
 { .block-language-dataview}
 
