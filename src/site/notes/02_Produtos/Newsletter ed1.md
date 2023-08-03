@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/newsletter-ed1/","tags":["tcm/newsletter"],"created":"2023-08-03 às 17:38","updated":"2023-08-03 às 19:53"}
+{"dg-publish":true,"permalink":"/02-produtos/newsletter-ed1/","tags":["tcm/newsletter"],"created":"2023-08-03 às 17:38","updated":"2023-08-03 às 19:54"}
 ---
+
+
+# Em produção
 
 ## Indice
 - [[06_Calendario/+ 2023-08-03  -  🎥️ Con(fiar) T2 EP 1 - Dá licença\|+ 2023-08-03  -  🎥️ Con(fiar) T2 EP 1 - Dá licença]]: manifestações da cultura e da religiosidade negras
