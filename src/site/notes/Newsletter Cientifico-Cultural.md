@@ -5,5 +5,6 @@
 
 # Confira as edições da nossa newsletter
 - [[02_Produtos/Newsletter ed0\|Newsletter ed0]]: julho
+- [[02_Produtos/Newsletter ed1\|Newsletter ed1]]: agosto
 
 { .block-language-dataview}
