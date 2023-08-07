@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/flyer-herbario/","created":"2023-08-07 às 12:15","updated":"2023-08-07 às 12:22"}
+{"dg-publish":true,"permalink":"/02-produtos/flyer-herbario/","tags":["tcm/materialdidatico"],"created":"2023-08-07 às 12:15","updated":"2023-08-07 às 12:32"}
 ---
 
 
