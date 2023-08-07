@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/apresentacao-do-projeto-para-professores/","tags":["mdc"],"created":"2023-08-07 às 10:33","updated":"2023-08-07 às 11:50"}
+{"dg-publish":true,"permalink":"/02-produtos/apresentacao-do-projeto-para-professores/","tags":["mdc"],"created":"2023-08-07 às 10:33","updated":"2023-08-07 às 12:11"}
 ---
 
 ## A.1.1 Objetivo
@@ -26,13 +26,13 @@
 
 ```mermaid 
 graph TB
-A(Promover a divulgação das ações do projeto a grupos, público geral ou estudantes, com interesse sobre ciência e método científico, ou sobre áreas específicas do saber, como exatas, biológicas, saúde e humanas);
+A(Promover a divulgação das ações do projeto a grupos, público geral</br> ou estudantes, com interesse sobre ciência</br>  e método científico, ou sobre áreas específicas do saber, como</br>  exatas, biológicas, saúde e humanas);
 
-B(Acessar públicos que comumente não se interessam por ciência, atraindo novos visitantes à experiência imersiva dos museus);
+B(Acessar públicos que comumente não se</br>  interessam por ciência, atraindo novos</br>  visitantes à experiência imersiva dos museus);
 
-C(Dar publicidade ao projeto e suas ações e agendas e atrair escolas,professores e estudantes da educação básica dos municípios da região metropolitana de Belo Horizonte e de Montes Claros);
+C(Dar publicidade ao projeto e suas ações e agendas</br>  e atrair escolas,professores</br>  e estudantes da educação básica dos municípios da região</br>  metropolitana de Belo Horizonte e de Montes Claros);
 
-D(Dar ampla visibilidade aos espaços que integram a Rede de Museus UFMG, visando transformar esses acervos em centros de referência para a popularização da ciência.)
+D(Dar ampla visibilidade aos espaços que integram</br>  a Rede de Museus UFMG, visando transformar</br>  esses acervos em centros de referência</br>  para a popularização da ciência.)
 
 A -.- B
 B -.- C
@@ -84,7 +84,7 @@ Q[Mapear mais claramente este processo]:::nope
 
 
 subgraph A2 [ ]
-direction 
+direction TB
 	id4 .- id3 
 	id3 ---> id2
 	id3 --> id1
