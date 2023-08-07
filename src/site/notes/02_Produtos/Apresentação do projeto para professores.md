@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/apresentacao-do-projeto-para-professores/","tags":["mdc"],"created":"2023-08-07 às 10:33","updated":"2023-08-07 às 11:40"}
+{"dg-publish":true,"permalink":"/02-produtos/apresentacao-do-projeto-para-professores/","tags":["mdc"],"created":"2023-08-07 às 10:33","updated":"2023-08-07 às 11:50"}
 ---
 
 ## A.1.1 Objetivo
