@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2023-07-31 às 16:23","updated":"2023-08-07 às 12:35"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2023-07-31 às 16:23","updated":"2023-08-07 às 12:38"}
 ---
 
 
@@ -25,8 +25,9 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 - [[Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
 - [[Espaços\|Espaços]]
 - [[Equipe\|Equipe]]
-- [[02_Produtos/Apresentação do projeto para professores\|Apresentação do projeto para professores]]
 - [[Materiais didáticos\|Materiais didáticos]]
+- [[02_Produtos/Plano de Comunicação\|Plano de Comunicação]]
+- [[02_Produtos/Apresentação do projeto para professores\|Apresentação do projeto para professores]]
 
 { .block-language-dataview}
 
@@ -43,7 +44,7 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 **Clique nos eventos para saber mais ou adicionar à sua agenda!**
 <iframe src="https://calendar.google.com/calendar/embed?src=df7ace29b2d09f0663adbbbbfccb5833c369ae3ffbc867d1dbab5c5fe699cc8f%40group.calendar.google.com&ctz=America%2FSao_Paulo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-
+%%
 ***
 ## Estatísticas desde Agosto/2023
 
@@ -54,7 +55,7 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 	-  Numero de materiais didáticos disponibilizados: 
 
 
-%%
+
 - 🔖 Marcado como: **agora**
  `$=dv.list(dv.pages('#agora').sort(f=>f.file.name,"desc").limit(4).file.link)
  
