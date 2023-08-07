@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/apresentacao-do-projeto-para-professores/","tags":["mdc"],"created":"2023-08-07 às 10:33","updated":"2023-08-07 às 11:05"}
+{"dg-publish":true,"permalink":"/02-produtos/apresentacao-do-projeto-para-professores/","tags":["mdc"],"created":"2023-08-07 às 10:33","updated":"2023-08-07 às 11:08"}
 ---
 
 ## A.1.1 Objetivo
-
-  
 
 1. Promover a **divulgação das ações do projeto a grupos, público geral ou estudantes**, com **interesse sobre ciência e método científico, ou sobre áreas específicas do saber,** como exatas, biológicas, saúde e humanas; </br>
 
@@ -27,7 +25,7 @@
    
 
 ```mermaid 
-  graph TB
+graph TB
 A(Promover a divulgação das ações do projeto a grupos, público geral ou estudantes, com interesse sobre ciência e método científico, ou sobre áreas específicas do saber, como exatas, biológicas, saúde e humanas);
 
 B(Acessar públicos que comumente não se interessam por ciência, atraindo novos visitantes à experiência imersiva dos museus);
@@ -39,7 +37,6 @@ D(Dar ampla visibilidade aos espaços que integram a Rede de Museus UFMG, visand
 A -.- B
 B -.- C
 C -.- D
-
 ```
 
 ***
@@ -53,10 +50,8 @@ O projeto atuará em **duas frentes: população em geral**, que busca lazer e c
 ```mermaid 
 graph TB
 accTitle: Desenho de publico alvo
-accDescr {O projeto atuará em **duas frentes: população em geral**, que busca lazer e conhecimento nos museus; e **estudantes e professores do ensino básico nos municípios da região metropolitana de Belo Horizonte e de Montes Claros.**}
-
+accDescr {O projeto atuará em duas frentes: população em geral, que busca lazer e conhecimento nos museus; e estudantes e professores do ensino básico nos municípios da região metropolitana de Belo Horizonte e de Montes Claros.}
 O{{Publico alvo}}:::publicoAlvo
-
 O --> id3{{População Geral}}:::publico
 O --> id6{{Ensino básico}}
 id7[ Municípios da região metropolitana<br> de Belo Horizonte e de Montes Claros.] 
@@ -64,15 +59,10 @@ id6 --> id8{{Estudante}}:::publico
 id6 --> id9{{Professor}}:::publico
 id3 -.- id4[\lazer\]
 id3 -.- id5[\conhecimento\]
-
 id8 --> id10[Tem também demandas <br>especificas por faixa etária]
 id9 --> id11[Tem também demandas<br> didáticas/pedagógicas]
-
-
-
 classDef publicoAlvo stroke:#ed8743,stroke-width:2px, color:#ed8743
 classDef publico stroke:#ed8743,stroke-width:2px, 
-
 ```
 ___
 
