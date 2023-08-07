@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/apresentacao-do-projeto-para-professores/","tags":["mdc"],"created":"2023-08-07 às 10:33","updated":"2023-08-07 às 11:01"}
+{"dg-publish":true,"permalink":"/02-produtos/apresentacao-do-projeto-para-professores/","tags":["mdc"],"created":"2023-08-07 às 10:33","updated":"2023-08-07 às 11:05"}
 ---
 
 ## A.1.1 Objetivo
@@ -50,8 +50,8 @@ C -.- D
 
 O projeto atuará em **duas frentes: população em geral**, que busca lazer e conhecimento nos museus; e **estudantes e professores do ensino básico nos municípios da região metropolitana de Belo Horizonte e de Montes Claros.**
 
-  ```mermaid 
-  graph TB
+```mermaid 
+graph TB
 accTitle: Desenho de publico alvo
 accDescr {O projeto atuará em **duas frentes: população em geral**, que busca lazer e conhecimento nos museus; e **estudantes e professores do ensino básico nos municípios da região metropolitana de Belo Horizonte e de Montes Claros.**}
 
@@ -73,7 +73,7 @@ id9 --> id11[Tem também demandas<br> didáticas/pedagógicas]
 classDef publicoAlvo stroke:#ed8743,stroke-width:2px, color:#ed8743
 classDef publico stroke:#ed8743,stroke-width:2px, 
 
-  ```
+```
 ___
 
 ## A.1.3 Atividades previstas
@@ -81,7 +81,7 @@ ___
 ### Promoção de **divulgação das diferentes fases do projeto em mídias sociais e veículos de comunicação, destacando sua implementação, vínculo com escolas e agenda de exposições**; 
 
 ```mermaid
-graph 
+graph TB
 accTitle: planos de trabalho voltados para divulgação das ações e agendas do projeto e contato com o público
 
 subgraph legenda [Legenda]
@@ -212,8 +212,8 @@ classDef emExecucao stroke:#60a7d8,stroke-width:2px, color:#60a7d8
 
 
 Divulgação dos materiais didático-pedagógicos produzidos.
-  ```mermaid 
-  graph 
+```mermaid 
+graph TB
 accTitle: Fluxo de Disponibilização e divulgação da agenda e dos roteiros de visitas às escolas no começo de cada semestre
 accDescr { Apresentação visual de várias etapas e sugestões para produção da newsletter}
 subgraph legenda [Legenda]
@@ -252,7 +252,7 @@ classDef atividadesPrevistas stroke:#afcc74,stroke-width:2px, color:#afcc74
 classDef ferramenta stroke:#60a7d8,stroke-width:2px, color:#60a7d8
 classDef publicoAlvo stroke:#ed8743,stroke-width:2px, color:#ed8743
 classDef meta stroke:#fac841,stroke-width:2px, color:#fac841
-  ```
+```
 
 ***
 ## A.1.4 Metas
