@@ -24,10 +24,10 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 ## Navegação:
 
 - [[Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
-- [[Materiais didáticos\|Materiais didáticos]]
 - [[Espaços\|Espaços]]
 - [[Equipe\|Equipe]]
 - [[02_Produtos/Apresentação do projeto para professores\|Apresentação do projeto para professores]]
+- [[Materiais didáticos\|Materiais didáticos]]
 
 { .block-language-dataview}
 
