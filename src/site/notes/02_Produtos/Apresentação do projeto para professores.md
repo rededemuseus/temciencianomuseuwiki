@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/apresentacao-do-projeto-para-professores/","tags":["mdc"],"created":"2023-08-07 às 10:33","updated":"2023-08-07 às 11:08"}
+{"dg-publish":true,"permalink":"/02-produtos/apresentacao-do-projeto-para-professores/","tags":["mdc"],"created":"2023-08-07 às 10:33","updated":"2023-08-07 às 11:09"}
 ---
 
 ## A.1.1 Objetivo
@@ -47,10 +47,10 @@ C -.- D
 
 O projeto atuará em **duas frentes: população em geral**, que busca lazer e conhecimento nos museus; e **estudantes e professores do ensino básico nos municípios da região metropolitana de Belo Horizonte e de Montes Claros.**
 
+
 ```mermaid 
 graph TB
 accTitle: Desenho de publico alvo
-accDescr {O projeto atuará em duas frentes: população em geral, que busca lazer e conhecimento nos museus; e estudantes e professores do ensino básico nos municípios da região metropolitana de Belo Horizonte e de Montes Claros.}
 O{{Publico alvo}}:::publicoAlvo
 O --> id3{{População Geral}}:::publico
 O --> id6{{Ensino básico}}
