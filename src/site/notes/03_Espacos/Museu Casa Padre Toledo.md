@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-espacos/museu-casa-padre-toledo/","tags":["espaço"],"created":"2023-07-14 às 14:29","updated":"2023-08-03 às 19:36"}
+{"dg-publish":true,"permalink":"/03-espacos/museu-casa-padre-toledo/","tags":["espaço"],"created":"2023-07-14T14:29:00.142-03:00","updated":"2023-08-03T19:36:30.505-03:00"}
 ---
 
 

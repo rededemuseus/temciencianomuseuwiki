@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newsletter-cientifico-cultural/","created":"2023-07-31 às 18:08","updated":"2023-07-31 às 20:43"}
+{"dg-publish":true,"permalink":"/newsletter-cientifico-cultural/","created":"2023-07-31T18:08:35.566-03:00","updated":"2023-07-31T20:43:13.817-03:00"}
 ---
 
 

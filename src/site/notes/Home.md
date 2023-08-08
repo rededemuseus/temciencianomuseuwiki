@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2023-07-31 às 16:23","updated":"2023-08-07 às 12:55"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2023-07-31T16:23:52.958-03:00","updated":"2023-08-07T12:55:10.716-03:00"}
 ---
 
 
@@ -24,10 +24,11 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 
 - [[Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
 - [[Espaços\|Espaços]]
-- [[Equipe\|Equipe]]
-- [[Materiais didáticos\|Materiais didáticos]]
 - [[02_Produtos/Plano de Comunicação\|Plano de Comunicação]]
 - [[02_Produtos/Apresentação do projeto para professores\|Apresentação do projeto para professores]]
+- [[Equipe\|Equipe]]
+- [[Materiais didáticos\|Materiais didáticos]]
+- [[Comunicação interna\|Comunicação interna]]
 
 { .block-language-dataview}
 ***

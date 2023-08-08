@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/exemplos-de-material-cemenf/","tags":["tcm/materialdidatico"],"created":"2023-08-07 às 12:17","updated":"2023-08-07 às 12:32"}
+{"dg-publish":true,"permalink":"/02-produtos/exemplos-de-material-cemenf/","tags":["tcm/materialdidatico"],"created":"2023-08-07T12:17:33.732-03:00","updated":"2023-08-07T12:32:08.577-03:00"}
 ---
 
 

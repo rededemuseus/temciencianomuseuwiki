@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/divertimentos-geometricos/","title":"Divertimentos Geométricos","tags":["tcm/materialdidatico"],"created":"2023-07-31 às 16:46","updated":"2023-07-31 às 18:05"}
+{"dg-publish":true,"permalink":"/02-produtos/divertimentos-geometricos/","title":"Divertimentos Geométricos","tags":["tcm/materialdidatico"],"created":"2023-07-31T16:46:08.862-03:00","updated":"2023-07-31T18:05:07.810-03:00"}
 ---
 
 
