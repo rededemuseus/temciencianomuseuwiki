@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2023-07-31T16:23:52.958-03:00","updated":"2023-08-07T12:55:10.716-03:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2023-07-31T16:23:52.958-03:00","updated":"2023-08-08T18:24:10.533-03:00"}
 ---
 
 
@@ -34,6 +34,7 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 ***
 ## Tópicos recentes:
 
+- A bióloga e escritora infantojuvenil Nina Nazario publicou digital e gratuitamente um livro sobre as formigas saúva, incentivamos professores a [conferirem o material](https://www.canva.com/design/DAFWoYWscCU/q3QkCF1oGd3aN6_JrTep_g/edit?utm_content=DAFWoYWscCU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR2MFAIpjon8myZn5jxg0f1XZUK4Pca1HWvv0F_-dgoChmT_oGifDRyxNNA) ou a [saberem mais sobre a autora](http://www.ninanazario.com.br). Solicite você também a [divulgação de seus materiais de divulgação cientifica através deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSeNKZ_U6ywNNVByhaBzw8VaOIKK-uhwLv3Y4t4wipQguQr_7A/viewform)!
 - Você conhece o Museu Casa Padre Toledo em Tiradentes, Minas Gerais? Explore a riqueza cultural e arquitetônica dessa testemunha do século XVIII, num **tour virtual autoguiado**. Com uma restauração meticulosa e uma expografia renovada, você poderá mergulhar na fascinante história da Inconfidência Mineira e conhecer detalhes únicos do cotidiano da Vila de São José.<br> <i class="fa-regular fa-hand-point-right fa-lg" style="color: #183c4d;" title="Temas centrais"></i> [Visita Virtual do Museu Casa Padre Toledo](https://temciencianomuseuwiki.vercel.app/03-espacos/museu-casa-padre-toledo/#:~:text=campustiradentes/2023/06/-,Visita%20Virtual,-Connected%20Pages)
 - Venha se encantar com a cultura e tradição do Congado no curta documental "*Dá Licença*", [disponível no Youtube](https://www.youtube.com/watch?v=l7vQ-55XAzg), que nos apresenta a história e memórias do Mestre Prego, Capitão do Congado Nossa Senhora do Rosário e Escrava Anastácia, em sua luta pela preservação dessa manifestação afro-brasileira em Minas Gerais. Descubra a beleza das festas e celebrações que mantêm viva a cultura negra no estado, recriando histórias de resistência e fé no que é o começo da segunda temporada do projeto Con(fiar) do Campus Cultural UFMG.<br> <i class="fa-regular fa-hand-point-right fa-lg" style="color: #183c4d;" title="Ver"></i>[ Con(fiar) T2 EP 1 - Dá licença](https://www.youtube.com/watch?v=l7vQ-55XAzg)</br><i class="fa-regular fa-hand-point-right fa-lg" style="color: #183c4d;" title="Ver"></i> [Playlist da primeira temporada](https://www.youtube.com/watch?v=erNxwEKjz0I&list=PL4BhydPh0a30ZzDXcC0zxnY1fjUsqcuOO)
 
