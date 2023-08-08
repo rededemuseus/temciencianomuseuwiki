@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/comunicacao-interna/","contentClasses":"cards","created":"2023-08-08T12:30:22.213-03:00","updated":"2023-08-08T13:23:47.851-03:00"}
+{"dg-publish":true,"permalink":"/comunicacao-interna/","contentClasses":"cards","created":"2023-08-08T12:30:22.213-03:00","updated":"2023-08-08T16:50:44.873-03:00"}
 ---
 
 

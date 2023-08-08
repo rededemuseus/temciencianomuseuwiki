@@ -25,10 +25,10 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 - [[Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
 - [[Espaços\|Espaços]]
 - [[02_Produtos/Plano de Comunicação\|Plano de Comunicação]]
-- [[02_Produtos/Apresentação do projeto para professores\|Apresentação do projeto para professores]]
 - [[Equipe\|Equipe]]
 - [[Materiais didáticos\|Materiais didáticos]]
 - [[Comunicação interna\|Comunicação interna]]
+- [[02_Produtos/Agenda Cientifico-Cultural\|Agenda Cientifico-Cultural]]
 
 { .block-language-dataview}
 ***
