@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/newsletter-ed0/","tags":["tcm/newsletter"],"created":"2023-07-31 às 18:06","updated":"2023-07-31 às 18:18"}
+{"dg-publish":true,"permalink":"/02-produtos/newsletter-ed0/","tags":["tcm/newsletter"],"created":"2023-07-31T18:06:57.830-03:00","updated":"2023-07-31T18:18:16.958-03:00"}
 ---
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
