@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/newsletter-ed1/","tags":["tcm/newsletter"],"created":"2023-08-03 às 17:38","updated":"2023-08-03 às 19:54"}
+{"dg-publish":true,"permalink":"/02-produtos/newsletter-ed1/","tags":["tcm/newsletter"],"created":"2023-08-03T17:38:10.633-03:00","updated":"2023-08-03T19:54:17.246-03:00"}
 ---
 
 
