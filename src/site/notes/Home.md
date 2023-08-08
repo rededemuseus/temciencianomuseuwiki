@@ -27,8 +27,8 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 - [[02_Produtos/Plano de Comunicação\|Plano de Comunicação]]
 - [[Equipe\|Equipe]]
 - [[Materiais didáticos\|Materiais didáticos]]
-- [[Comunicação interna\|Comunicação interna]]
 - [[02_Produtos/Agenda Cientifico-Cultural\|Agenda Cientifico-Cultural]]
+- [[Comunicação interna\|Comunicação interna]]
 
 { .block-language-dataview}
 ***
