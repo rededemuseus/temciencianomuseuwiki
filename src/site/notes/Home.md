@@ -22,13 +22,13 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 ***
 ## Navegação:
 
+- [[Materiais didáticos\|Materiais didáticos]]
 - [[Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
 - [[Espaços\|Espaços]]
-- [[02_Produtos/Plano de Comunicação\|Plano de Comunicação]]
 - [[Equipe\|Equipe]]
-- [[Materiais didáticos\|Materiais didáticos]]
-- [[02_Produtos/Agenda Cientifico-Cultural\|Agenda Cientifico-Cultural]]
 - [[Comunicação interna\|Comunicação interna]]
+- [[02_Produtos/Plano de Comunicação\|Plano de Comunicação]]
+- [[02_Produtos/Agenda Cientifico-Cultural\|Agenda Cientifico-Cultural]]
 
 { .block-language-dataview}
 ***
