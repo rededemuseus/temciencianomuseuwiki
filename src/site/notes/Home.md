@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2023-07-31T16:23:52.958-03:00","updated":"2023-08-17T12:25:39.428-03:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2023-07-31T16:23:52.958-03:00","updated":"2023-08-17T12:31:20.311-03:00"}
 ---
 
 
@@ -14,7 +14,7 @@ O público-alvo  do  projeto  inclui  a  comunidade  em  geral  e, espec
 
 A longo prazo, o projeto aspira criar uma cultura de visitação a museus e espaços de ciência, promovendo o prazer do aprendizado e a alfabetização cientíﬁca na sociedade.
 
-Saiba mais sobre o desenrolar deste e outros projetos no [site da Rede de Museus](https://www.ufmg.br/rededemuseus), contribua com [sugestões]() ou [relatos de visitas ou de uso de algum destes materiais](https://www.menti.com/al35t98c8ytc) nas nossas redes e não perca nenhuma atividade, ﬁcando de olho na nossa [[Home#Agenda\|Agenda Cientifico-Cultural]]!
+Saiba mais sobre o desenrolar deste e outros projetos no [site da Rede de Museus](https://www.ufmg.br/rededemuseus), contribua com [sugestões](https://www.menti.com/alo3cowakwfd) ou [relatos de visitas ou de uso de algum destes materiais](https://www.menti.com/al35t98c8ytc) nas nossas redes e não perca nenhuma atividade, ﬁcando de olho na nossa [[Home#Agenda\|Agenda Cientifico-Cultural]]!
 
 Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 
