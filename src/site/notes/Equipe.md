@@ -14,6 +14,7 @@
 | [[04_Pessoas/Gabriela Guerra\|Gabriela Guerra]]       | Museologia                                                                       | Bolsista BDCTI–VI/FAPEMIG |
 | [[04_Pessoas/Frederico Santana\|Frederico Santana]]   | Museologia                                                                       | Bolsista BDCTI–VI/FAPEMIG |
 | [[04_Pessoas/Fernanda Couto\|Fernanda Couto]]         | Biblioteconomia                                                                  | Bolsista BDCTI–VI/FAPEMIG |
+| [[04_Pessoas/Raphael Odonto\|Raphael Odonto]]         | Odontologia                                                                      | Bolsista CEDOC-FAE        |
 | [[04_Pessoas/Ana Cláudia Avelar\|Ana Cláudia Avelar]] | Educação                                                                         | Bolsista CEDOC-FAE        |
 
 { .block-language-dataview}
