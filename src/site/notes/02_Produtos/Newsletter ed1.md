@@ -8,6 +8,7 @@
 ## Indice
 - [[!_Inbox/=2023-08-18 -  Cemef retorna\|=2023-08-18 -  Cemef retorna]]: \-
 - [[!_Inbox/=2023-08-18 -  Jornada de Estudos do GEPTED - Grupo de Estudos sobre Pragmática Texto e Discurso\|=2023-08-18 -  Jornada de Estudos do GEPTED - Grupo de Estudos sobre Pragmática Texto e Discurso]]: \-
+- [[!_Inbox/=2023-08-18 -  Apoio Pedagógico da FALE divulga relação de minicursos\|=2023-08-18 -  Apoio Pedagógico da FALE divulga relação de minicursos]]: \-
 - [[01_Agenda/2023-08-08\|2023-08-08]]: \-
 - [[01_Agenda/2023-08-18\|2023-08-18]]: \-
 - [[03_Espacos/Museu Casa Padre Toledo\|Museu Casa Padre Toledo]]: arquitetura, museu, visita virtual, expografia renovada
@@ -21,6 +22,7 @@
 - 📚 Adentrando Discussões Críticas - O grupo de estudos mensal do Cemef está de volta!
 
 - Estão abertas as inscrições para a participação de ouvintes na **III Jornada de Estudos do GEPTED - Grupo de Estudos sobre Pragmática, Texto e Discurso**, evento online, que acontecerá no dia 28 de setembro de 2023. Inscrições ocorrem gratuitamente e de forma online até o dia 31 de agosto, [saiba mais no site da FALE-UFMG](http://www.letras.ufmg.br/site/pt-BR/noticiass/13-noticias-comuns/2334-abertas-as-inscricoes-de-ouvintes-para-a-iii-jornada-de-estudos-gepted).
+- O **Apoio Pedagógico do Núcleo Comum do Curso de Letras** tem a oferta de 13 minicursos. Saiba [mais sobre como participar](http://www.letras.ufmg.br/site/pt-BR/noticiass/13-noticias-comuns/2343-apoio-pedagogico-da-fale-divulga-relacao-de-minicursos-oferecidos-no-segundo-semestre-de-2023) ![Pasted image 20230818184736.png](/img/user/Pasted%20image%2020230818184736.png)
 - A bióloga e escritora infantojuvenil Nina Nazario publicou digital e gratuitamente um livro sobre as formigas saúva, incentivamos professores a [conferirem o material](https://www.canva.com/design/DAFWoYWscCU/q3QkCF1oGd3aN6_JrTep_g/edit?utm_content=DAFWoYWscCU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton&fbclid=IwAR2MFAIpjon8myZn5jxg0f1XZUK4Pca1HWvv0F_-dgoChmT_oGifDRyxNNA) ou a [saberem mais sobre a autora](http://www.ninanazario.com.br). Solicite você também a [divulgação de seus materiais de divulgação cientifica através deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSeNKZ_U6ywNNVByhaBzw8VaOIKK-uhwLv3Y4t4wipQguQr_7A/viewform)! #produçãoexterna
 - - Mediadores de público de diversos Espaços Rede de Museus participaram de um treinamento do Núcleo de Acessibilidade e Inclusão UFMG, com foco no atendimento a pessoas com deficiência neste ultimo dia 10. O evento, organizado pela Rede de Museus através do projeto Tem Ciência no Museu, rendeu bastante dialogo e promoveu uma nova perspectiva sobre as potencialidades da mediação com viés inclusivo. Agradecemos às Terapeutas Ocupacionais Bárbara Cabral e Bruna Silva pela didática e disponibilidade!
 - ![IMG_20230810_143500 1.jpg|IMG_20230810_143500 1.jpg](/img/user/IMG_20230810_143500%201.jpg)
