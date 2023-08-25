@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/agenda-cientifico-cultural/","tags":["mdc"],"created":"2023-08-08T16:50:58.541-03:00","updated":"2023-08-08T17:49:12.552-03:00"}
+{"dg-publish":true,"permalink":"/02-produtos/agenda-cientifico-cultural/","tags":["mdc"],"created":"2023-08-08T16:50:58.541-03:00","updated":"2023-08-23T14:53:00.974-03:00"}
 ---
 
 
