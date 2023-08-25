@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/manuais-de-comunicacao-online/","tags":["acessibilidade comunicacional"],"created":"2023-08-11T15:07:41.397-03:00","updated":"2023-08-18T16:59:46.442-03:00"}
+{"dg-publish":true,"permalink":"/inbox/manuais-de-comunicacao-online/","tags":["acessibilidade comunicacional"],"created":"2023-08-11T15:07:41.397-03:00","updated":"2023-08-23T14:53:25.343-03:00"}
 ---
 
 ## Fase de desenvolvimento: pesquisa bibliografica
