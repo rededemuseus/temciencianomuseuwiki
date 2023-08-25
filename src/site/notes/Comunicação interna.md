@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/comunicacao-interna/","contentClasses":"cards","created":"2023-08-08T12:30:22.213-03:00","updated":"2023-08-08T18:20:28.434-03:00"}
+{"dg-publish":true,"permalink":"/comunicacao-interna/","contentClasses":"cards","created":"2023-08-08T12:30:22.213-03:00","updated":"2023-08-23T14:53:02.128-03:00"}
 ---
 
 
@@ -23,8 +23,8 @@
 
 ***
 ### Todas as comunicações
-- [[05_Produção/Certificados e agradecimento NAI\|Certificados e agradecimento NAI]]: 2023-08-18 às 15:55
 - [[05_Produção/Mapeamento de rota acessível\|Mapeamento de rota acessível]]: 2023-08-08 às 17:50
 - [[05_Produção/Convite treinamento NAI\|Convite treinamento NAI]]: 2023-08-08 às 12:28
+- [[05_Produção/Certificados e agradecimento NAI\|Certificados e agradecimento NAI]]: 2023-08-18 às 15:55
 
 { .block-language-dataview}
