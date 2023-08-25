@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-produtos/plano-de-comunicacao/","tags":["mdc"],"created":"2023-08-07T12:43:01.240-03:00","updated":"2023-08-07T12:53:35.910-03:00"}
+{"dg-publish":true,"permalink":"/02-produtos/plano-de-comunicacao/","tags":["mdc"],"created":"2023-08-07T12:43:01.240-03:00","updated":"2023-08-23T14:52:44.601-03:00"}
 ---
 
 
