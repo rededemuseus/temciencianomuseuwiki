@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-producao/mapeamento-de-rota-acessivel/","tags":["interno/ações"],"created":"2023-08-08T17:50:43.512-03:00","updated":"2023-08-08T18:11:58.884-03:00"}
+{"dg-publish":true,"permalink":"/05-producao/mapeamento-de-rota-acessivel/","tags":["interno/ações"],"created":"2023-08-08T17:50:43.512-03:00","updated":"2023-08-23T14:53:01.759-03:00"}
 ---
 
 
