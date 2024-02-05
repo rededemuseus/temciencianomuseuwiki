@@ -5,16 +5,7 @@
 
 # Equipe ativa
 
-| File                                                     | Campo do Saber                                                                   | Função                    |
-| -------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------- |
-| [[04_Pessoas/Marta Safaneta\|Marta Safaneta]]         | Conservação e Restauração de Bens <br> Culturais Móveis \| Divulgação Científica | Bolsista BDCTI–II/FAPEMIG |
-| [[04_Pessoas/Sofia Andrade\|Sofia Andrade]]           | Museologia                                                                       | Bolsista BDCTI–VI/FAPEMIG |
-| [[04_Pessoas/Lorena Moreira\|Lorena Moreira]]         | Museologia                                                                       | Bolsista BDCTI–VI/FAPEMIG |
-| [[04_Pessoas/Iolanda Soares\|Iolanda Soares]]         | Museologia                                                                       | Bolsista BDCTI–VI/FAPEMIG |
-| [[04_Pessoas/Gabriela Guerra\|Gabriela Guerra]]       | Museologia                                                                       | Bolsista BDCTI–VI/FAPEMIG |
-| [[04_Pessoas/Frederico Santana\|Frederico Santana]]   | Museologia                                                                       | Bolsista BDCTI–VI/FAPEMIG |
-| [[04_Pessoas/Fernanda Couto\|Fernanda Couto]]         | Biblioteconomia                                                                  | Bolsista BDCTI–VI/FAPEMIG |
-| [[04_Pessoas/Raphael Odonto\|Raphael Odonto]]         | Odontologia                                                                      | Bolsista CEDOC-FAE        |
-| [[04_Pessoas/Ana Cláudia Avelar\|Ana Cláudia Avelar]] | Educação                                                                         | Bolsista CEDOC-FAE        |
+| File | Campo do Saber | Função |
+| ---- | -------------- | ------ |
 
 { .block-language-dataview}
