@@ -1,22 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/arquivo-de-demandas-gerais/completas/2024-01-17-inspiracao-de-dc/","tags":["💼/📝️/🟩️"],"created":"2024-02-05T11:59:47.530-03:00","updated":"2024-02-05T11:46:08.784-03:00"}
+{"dg-publish":true,"permalink":"/arquivo-de-demandas-gerais/completas/2024-01-17-inspiracao-de-dc/","tags":["💼/📝️/🟩️"],"created":"2024-02-05T11:59:47.530-03:00","updated":"2024-02-05T13:12:34.306-03:00"}
 ---
 
 
->[!multi-column]
->>[!Info]
->> - Tags: `INPUT[suggester(defaultValue(💼/📝️/🟥️),option(💼/📝️/🟥️, 🟥️), option(💼/📝️/🟧️, 🟧️), option(💼/📝️/🟨️, 🟨️), option(💼/📝️/🟩️, 🎆 Arquivar)):tags]`
->
->>[!tldr]
->> ```meta-bind
-INPUT[multiSelect(class(multiselect), option(🟩️), option(🟨️), option(🟧️), option(🟥️), option(⛔)):status]
->> ```
->
->> [!warning]+ 📍 Espaço
->> ```meta-bind
-INPUT[multiSelect(class(multiselect), option([[Herbário Norte Mineiro]], | MCCA |), option([[Centro de Memória da Escola de Enfermagem]], | CEMENF |), option([[CEMEMOR]], | CEMEMOR |), option([[Centro de Memória da Odontologia]], | CMO |), option([[Centro de Pesquisa, Memória e Documentação da Faculdade de Educação]], | CEDOC-FaE |), option([[Museu da Matemática]], | MuMat |), option([[Núcleo Técnico Científico da Rede]], | Rede |), option([[GT Divulgação Científica]], | GEDIC |)):espaco]
->>```
->
+ 
 
 
 >[!multi-column]
