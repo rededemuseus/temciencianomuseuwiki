@@ -15,8 +15,8 @@
 - [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]
 - [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]] | [[Portfólio online/Espaços/GT Divulgação Científica\|GEDIC]]
 
-- [[Divertimentos Geométricos\|Divertimentos Geométricos]]
-- [[Exemplos de material CEMENF\|Exemplos de material CEMENF]]
 - [[Flyer Herbário\|Flyer Herbário]]
+- [[Exemplos de material CEMENF\|Exemplos de material CEMENF]]
+- [[Divertimentos Geométricos\|Divertimentos Geométricos]]
 
 { .block-language-dataview}
