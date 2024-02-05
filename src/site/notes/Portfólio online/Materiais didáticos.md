@@ -7,9 +7,9 @@
 
 | File                                                            | Temas                                                                                |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [[Divertimentos Geométricos\|Divertimentos Geométricos]]     | <ul><li>matemática</li><li>sólidos platónicos</li><li>material didático</li></ul>    |
-| [[Exemplos de material CEMENF\|Exemplos de material CEMENF]] | <ul><li>CEMENF</li><li>enfermagem</li><li>material didático</li></ul>                |
 | [[Flyer Herbário\|Flyer Herbário]]                           | <ul><li>flora e fauna</li><li>sólidos platónicos</li><li>material didático</li></ul> |
+| [[Exemplos de material CEMENF\|Exemplos de material CEMENF]] | <ul><li>CEMENF</li><li>enfermagem</li><li>material didático</li></ul>                |
+| [[Divertimentos Geométricos\|Divertimentos Geométricos]]     | <ul><li>matemática</li><li>sólidos platónicos</li><li>material didático</li></ul>    |
 
 { .block-language-dataview}
 
