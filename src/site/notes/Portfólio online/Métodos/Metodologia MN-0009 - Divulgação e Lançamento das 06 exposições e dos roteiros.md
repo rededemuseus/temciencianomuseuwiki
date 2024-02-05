@@ -15,8 +15,8 @@
 - [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]
 - [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]] | [[Portfólio online/Espaços/GT Divulgação Científica\|GEDIC]]
 
-- [[Links/2024-01-25/2024-01 - Google Drive\|2024-01 - Google Drive]]
-- [[Links/2024-01-25/Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google\|Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google]]
 - [[Links/2024-01-25/Roteiro Circuito - Centro de Memória da Escola de Enfermagem.docx - Documentos Google\|Roteiro Circuito - Centro de Memória da Escola de Enfermagem.docx - Documentos Google]]
+- [[Links/2024-01-25/Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google\|Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google]]
+- [[Links/2024-01-25/2024-01 - Google Drive\|2024-01 - Google Drive]]
 
 { .block-language-dataview}
