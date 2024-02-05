@@ -4,7 +4,7 @@
 
 
 # Confira as edições da nossa newsletter
-- [[Newsletter ed0\|Newsletter ed0]]: julho
 - [[Newsletter ed1\|Newsletter ed1]]: agosto
+- [[Newsletter ed0\|Newsletter ed0]]: julho
 
 { .block-language-dataview}
