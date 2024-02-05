@@ -1,13 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.171-03:00","updated":"2024-02-05T10:50:59.392-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.171-03:00","updated":"2024-02-05T13:12:34.368-03:00"}
 ---
 
 
->[!keywords]-
-> - Status: `INPUT[suggester(defaultValue(💼/📝️/🟥️),option(💼/📝️/🟥️, 🟥️), option(💼/📝️/🟧️, 🟧️), option(💼/📝️/🟨️, 🟨️), option(💼/📝️/🟩️, 🎆 Arquivar)):tags]`
-> 
-> - Quem? 
-> 	- `VIEW[{quem}]`
+ 
 
 # APQ-02923-22 - Educação científica em museus
 
