@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/portfolio-online/metas/meta-11-divulgacao-agenda-c-c/","tags":["💼/🎯"],"created":"2024-02-05T11:59:48.708-03:00","updated":"2024-02-05T11:30:34.320-03:00"}
+---
+
+
+# Meta 11 - Divulgação Agenda C-C
+
+## Divulgação semanal da Agenda Científico-Cultural da Rede de Museus, com informações sobre todas as atividades abertas ao público nos 24 espaços da Rede
+
+- [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]] | [[Portfólio online/Espaços/GT Divulgação Científica\|GEDIC]]
