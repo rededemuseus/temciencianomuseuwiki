@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.171-03:00","updated":"2024-02-05T13:12:34.368-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.171-03:00","updated":"2024-02-05T13:16:16.971-03:00"}
 ---
 
 
@@ -25,7 +25,7 @@
 - Status Atividade em desenvolvimento
 - **Data de início:** ~~01/10/2022~~ 11/04/2023 (prorrogação)
 - **~~Data término:** 01/04/2024~~
-- **Previsão de término** 11/04/2028^[SISTEMA DE INFORMAÇÃO DA EXTENSÃO. **Projeto - 404699 - Educação científica em museus**. UFMG, , [s.d.], p.1 Disponível em: [[https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#](https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#)](<app://obsidian.md/%5Bhttps://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#%5D(https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#>)). Acesso em: 16 jan. 2024]
+- **Previsão de término** 11/04/2028^[SISTEMA DE INFORMAÇÃO DA EXTENSÃO. **Projeto - 404699 - Educação científica em museus**. UFMG, , [s.d.], p.1 Disponível em: https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#. Acesso em: 16 jan. 2024]
 - **Unidade/Órgão de execução:** Faculdade de Odontologia 
 - **Departamento/Setor de execução**: [Departamento de Clínica, Patologia e Cirurgia Odontológica ](https://www.odonto.ufmg.br/cpc/)
 - **Programa vinculado:** [Rede de Museus e Espaços de Ciências e Cultura da UFMG ](https://www.ufmg.br/rededemuseus/#)
