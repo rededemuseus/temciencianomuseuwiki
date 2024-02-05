@@ -43,8 +43,8 @@ Grupo com encontros e produção asincrona e remota.
 - [[Portfólio online/Metas/Meta 10 - Montagem do estande\|Meta 10 - Montagem do estande]]
 - [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
 - [[Arquivo de Demandas Gerais/Completas/2024-01-17 - inspiração de DC\|2024-01-17 - inspiração de DC]]
-- [[Arquivo de Demandas Gerais/Completas/2024-01-24 - Publico 2023 - Dados cruzados\|2024-01-24 - Publico 2023 - Dados cruzados]]
 - [[Sobre o projeto\|Sobre o projeto]]
+- [[Arquivo de Demandas Gerais/Completas/2024-01-24 - Publico 2023 - Dados cruzados\|2024-01-24 - Publico 2023 - Dados cruzados]]
 
 
 { .block-language-dataview}
