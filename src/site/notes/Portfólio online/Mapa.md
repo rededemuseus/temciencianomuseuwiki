@@ -11,11 +11,11 @@
 
 ## Produtos pretendidos
 
-- [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
-- [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
 - [[Produtos/Oficinas para professores\|Oficinas para professores]]
 - [[Produtos/Experiências de Sucesso\|Experiências de Sucesso]]
 - [[Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
+- [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
+- [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
 - [[Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]
 - [[Produtos/Atendimento ao público\|Atendimento ao público]]
 - [[Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]
@@ -102,10 +102,10 @@
 
 ## Espaços envolvidos
 
-- [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]]
 - [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
-- [[Portfólio online/Espaços/Herbário Norte Mineiro\|Herbário Norte Mineiro]]
+- [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]]
 - [[Portfólio online/Espaços/GT Divulgação Científica\|GT Divulgação Científica]]
+- [[Portfólio online/Espaços/Herbário Norte Mineiro\|Herbário Norte Mineiro]]
 - [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]
 - [[Portfólio online/Espaços/Centro de Memória da Odontologia\|Centro de Memória da Odontologia]]
 - [[Portfólio online/Espaços/Centro de Memória da Medicina\|Centro de Memória da Medicina]]
