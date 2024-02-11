@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metas/meta-16-videopitches/","tags":["💼/🎯"],"created":"2024-02-05T11:59:48.749-03:00","updated":"2024-02-05T11:30:06.410-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metas/meta-16-videopitches/","tags":["💼/🎯"],"created":"2024-02-05T11:59:48.749-03:00","updated":"2024-02-06T16:34:05.692-03:00"}
 ---
 
 
