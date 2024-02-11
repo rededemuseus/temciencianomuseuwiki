@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/espacos/acervo-curt-lange/","tags":["💼/📍"],"created":"2024-02-05T11:59:48.328-03:00","updated":"2024-02-05T11:46:49.264-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/espacos/acervo-curt-lange/","tags":["💼/📍"],"created":"2024-02-05T11:59:48.328-03:00","updated":"2024-02-05T19:10:07.648-03:00"}
 ---
 
 
 ![curt](/img/user/XX_Anexos/curt.jpg)
 
-Bem vindo (a) à nova página do Acervo Curt Lange, na Universidade Federal de Minas Gerais – UFMG.  
+Bem vindo (a) à nova página do Acervo Curt Lange, na Universidade Federal de Minas Gerais – UFMG.
+
 O arquivo pessoal do musicólogo teuto-uruguaio Francisco Curt Lange ([Eilenburg](http://www.eilenburg.de/), 1903 – [Montevideo](http://www.montevideo.gub.uy/), 1997) resultou de sua intensa e variada atividade professional, pela qual se acumulou significativa diversidade documental. Seus documentos registram aspectos do cotidiano da vida musical e cultural latino-americana ao longo de praticamente todo o século vinte, atestando sua importância enquanto fontes de pesquisa.  Seu conjunto de documentos foi integrado à Universidade Federal de Minas Gerais em 1995, recebendo então a denominação de Acervo Curt Lange – UFMG (ACL-UFMG).
 
 ---
