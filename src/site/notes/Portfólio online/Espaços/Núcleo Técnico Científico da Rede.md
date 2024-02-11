@@ -33,8 +33,6 @@
 - [[Arquivo de Demandas Gerais/Completas/Pedido interpretes\|Pedido interpretes]]
 - [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]
 - [[Produtos/Oficinas para professores\|Oficinas para professores]]
-- [[Arquivo de Demandas Gerais/Semana Nacional de Museus 2024\|Semana Nacional de Museus 2024]]
-- [[Portfólio online/APQ-02923-22 - Educação científica em museus\|APQ-02923-22 - Educação científica em museus]]
 - [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
 - [[Portfólio online/Métodos/Metodologia MN-0002 - Circuito\|Metodologia MN-0002 - Circuito]]
 - [[Portfólio online/Métodos/Metodologia MN-0003 - atividades educativas e roteiros expositivos\|Metodologia MN-0003 - atividades educativas e roteiros expositivos]]
@@ -45,8 +43,10 @@
 - [[Portfólio online/Métodos/Metodologia MN-0011 - Elaboração e oferta de de 05 oficinas para docentes da educação básica\|Metodologia MN-0011 - Elaboração e oferta de de 05 oficinas para docentes da educação básica]]
 - [[Portfólio online/Métodos/Metodologia MN-0013 - Estande viajantes\|Metodologia MN-0013 - Estande viajantes]]
 - [[Portfólio online/Métodos/Metodologia MN-0014 - Videopitches\|Metodologia MN-0014 - Videopitches]]
-- [[Portfólio online/Métodos/Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação\|Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação]]
 - [[Portfólio online/Métodos/Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica\|Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica]]
+- [[Arquivo de Demandas Gerais/Semana Nacional de Museus 2024\|Semana Nacional de Museus 2024]]
+- [[Portfólio online/APQ-02923-22 - Educação científica em museus\|APQ-02923-22 - Educação científica em museus]]
+- [[Portfólio online/Métodos/Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação\|Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação]]
 
 
 { .block-language-dataview}
