@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0016-reunioes-de-planejamento-monitoramento-e-a-avaliacao/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:49.095-03:00","updated":"2024-02-10T15:28:43.401-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0016-reunioes-de-planejamento-monitoramento-e-a-avaliacao/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:49.095-03:00","updated":"2024-02-11T11:18:07.157-03:00"}
 ---
 
 
 # Metodologia MN-0016 - Reuniões de planejamento, monitoramento e a avaliação
 
-## Reuniões de planejamento, monitoramento e a avaliação das atividades do projeto[^1]  
-[^1]:SISTEMA DE INFORMAÇÃO DA EXTENSÃO. **Projeto - 404699 - Educação científica em museus**. UFMG, s.d., p.2 Disponível em: <https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#>. Acesso em: 16 jan. 2024]
+## Reuniões de planejamento, monitoramento e a avaliação das atividades do projeto   
+- SISTEMA DE INFORMAÇÃO DA EXTENSÃO. **Projeto - 404699 - Educação científica em museus**. UFMG, s.d., p.2 Disponível em: <https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#>. Acesso em: 16 jan. 2024]
 
 - [[Portfólio online/Espaços/Centro de Memória da Escola de Enfermagem\|Centro de Memória da Escola de Enfermagem]]
 - [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
