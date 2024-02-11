@@ -22,11 +22,14 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 ## Navegação:
 
 - [[Sobre o projeto\|Sobre o projeto]]
+- [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
 - [[Portfólio online/Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
 - [[Portfólio online/Materiais didáticos\|Materiais didáticos]]
 - [[Portfólio online/Espaços\|Espaços]]
+- [[Portfólio online/Artefatos produzidos\|Artefatos produzidos]]
 - [[Portfólio online/Equipe\|Equipe]]
 - [[Portfólio online/Comunicação interna\|Comunicação interna]]
+- [[Portfólio online/Agenda Cientifico-Cultural\|Agenda Cientifico-Cultural]]
 - [[Plano de Comunicação\|Plano de Comunicação]]
 - [[Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
 - [[Materiais didáticos\|Materiais didáticos]]
@@ -39,6 +42,9 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 ## Tópicos recentes:
 
 - Você conhece o Museu Casa Padre Toledo em Tiradentes, Minas Gerais? Explore a riqueza cultural e arquitetônica dessa testemunha do século XVIII, num **tour virtual autoguiado**. Com uma restauração meticulosa e uma expografia renovada, você poderá mergulhar na fascinante história da Inconfidência Mineira e conhecer detalhes únicos do cotidiano da Vila de São José.<br> <i class="fa-regular fa-hand-point-right fa-lg" style="color: #183c4d;" title="Temas centrais"></i> [Visita Virtual do Museu Casa Padre Toledo](https://temciencianomuseuwiki.vercel.app/03-espacos/museu-casa-padre-toledo/#:~:text=campustiradentes/2023/06/-,Visita%20Virtual,-Connected%20Pages)
+- \-
+- \-
+- \-
 - \-
 - \-
 - \-
