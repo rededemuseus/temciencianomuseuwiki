@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.171-03:00","updated":"2024-02-11T10:59:44.266-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.171-03:00","updated":"2024-02-11T11:12:01.883-03:00"}
 ---
 
 
@@ -65,7 +65,7 @@ Serão ofertados os seguintes roteiros de visitas:
 
 #divulgaçãocientífica #educaçãomuseal #educaçãocientífica #museus #acervosuniversitários
 
-### Apresentação[^1]
+### Apresentação
 
 A educação científica visa dar meios para que as pessoas possam interpretar o mundo de acordo com o olhar científico, mobilizando os conceitos, leis e procedimentos da ciência para solucionar problemas do cotidiano. O desenvolvimento científico, ou seja, a capacidade de produção de conhecimento científico relevante é determinante para o avanço e a autonomia de uma nação. Entretanto, as discussões e práticas científicas não podem estar desconectadas da realidade social ou restritas ao ambiente acadêmico e escolar.
 
@@ -238,7 +238,7 @@ não se aplica
 
 LOPES FERREIRA, MÔNICA ; VIEIRA DA SILVA, GUILHERME ; ALMEIDA, ADRIANA MORTARA. Comunicação pública da ciência por meio da exposição -Plataforma Zebrafish: a construção de uma red-. Journal of Science Communication América Latina, v. 02, p. 1-22, 2019. DOI: <https://doi.org/10.22323/3.02020201> SEGANTINI, VERONA
 
-CAMPOS. Como tomar as exposições como objeto para a história e para a museologia? Modos de exibição e o engendramento de uma espacialidade para o Museu Nacional. In: Emanuela Sousa Ribeiro, Bruno Melo de Araújo, Marcus Granato. (Org.). Cadernos do patrimônio da ciência e tecnologia [recurso eletrônico] : epistemologia e políticas.
+CAMPOS. Como tomar as exposições como objeto para a história e para a museologia? Modos de exibição e o engendramento de uma espacialidade para o Museu Nacional. In: Emanuela Sousa Ribeiro, Bruno Melo de Araújo, Marcus Granato. (Org.). Cadernos do patrimônio da ciência e tecnologia [recurso eletrônico]-  epistemologia e políticas.
 
 1ed.Recife: UFPE, 2020, v. 1, p. 213-237. Julião, LETÍCIA. O Desafio da Comunicação nos Museus Universitários. Revista Museologia & Interdisciplinaridade, v. v. 9 n., p. 13-23, 2020.
 
@@ -343,5 +343,3 @@ Fontes:
 
 
 { .block-language-dataview}
-
-[^1]: idem, p.3.
