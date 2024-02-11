@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0009-divulgacao-e-lancamento-das-06-exposicoes-e-dos-roteiros/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:49.002-03:00","updated":"2024-02-05T11:35:18.395-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0009-divulgacao-e-lancamento-das-06-exposicoes-e-dos-roteiros/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:49.002-03:00","updated":"2024-02-10T15:28:43.002-03:00"}
 ---
 
 
 # Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros
 
-## Divulgação e Lançamento das 06 exposições e dos roteiros para público amplo e da Educação Básica^[SISTEMA DE INFORMAÇÃO DA EXTENSÃO. **Projeto - 404699 - Educação científica em museus**. UFMG, s.d., p.2 Disponível em: <https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#>. Acesso em: 16 jan. 2024]
+## Divulgação e Lançamento das 06 exposições e dos roteiros para público amplo e da Educação Básica[^1]  
+[^1]:SISTEMA DE INFORMAÇÃO DA EXTENSÃO. **Projeto - 404699 - Educação científica em museus**. UFMG, s.d., p.2 Disponível em: <https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#>. Acesso em: 16 jan. 2024]
 
 - [[Portfólio online/Espaços/Centro de Memória da Escola de Enfermagem\|Centro de Memória da Escola de Enfermagem]]
 - [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
