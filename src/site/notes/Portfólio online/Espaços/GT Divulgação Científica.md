@@ -43,8 +43,6 @@ Grupo com encontros e produção asincrona e remota.
 - [[Arquivo de Demandas Gerais/Completas/2024-01-17 - inspiração de DC\|2024-01-17 - inspiração de DC]]
 - [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
 - [[Sobre o projeto\|Sobre o projeto]]
-- [[Newsletter - Produção\|Newsletter - Produção]]
-- [[Portfólio online/Biblioteca/Agenda C-C/Agenda - Oficina “Fases da Lua”\|Agenda - Oficina “Fases da Lua”]]
 - [[Portfólio online/Biblioteca/Artefatos - Redes Sociais/Dia Nacional de Luta dos Povos Indígenas\|Dia Nacional de Luta dos Povos Indígenas]]
 - [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
 - [[Portfólio online/Métodos/Metodologia MN-0002 - Circuito\|Metodologia MN-0002 - Circuito]]
@@ -59,8 +57,10 @@ Grupo com encontros e produção asincrona e remota.
 - [[Portfólio online/Métodos/Metodologia MN-0013 - Estande viajantes\|Metodologia MN-0013 - Estande viajantes]]
 - [[Portfólio online/Métodos/Metodologia MN-0014 - Videopitches\|Metodologia MN-0014 - Videopitches]]
 - [[Portfólio online/Métodos/Metodologia MN-0015 - Produção DC\|Metodologia MN-0015 - Produção DC]]
-- [[Portfólio online/Métodos/Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação\|Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação]]
 - [[Portfólio online/Métodos/Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica\|Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica]]
+- [[Newsletter - Produção\|Newsletter - Produção]]
+- [[Portfólio online/Biblioteca/Agenda C-C/Agenda - Oficina “Fases da Lua”\|Agenda - Oficina “Fases da Lua”]]
+- [[Portfólio online/Métodos/Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação\|Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação]]
 
 
 { .block-language-dataview}
