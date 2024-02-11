@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/espacos/acervo-imagens-de-minas/","tags":["💼/📍"],"created":"2024-02-05T11:59:48.340-03:00","updated":"2024-02-05T11:42:54.689-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/espacos/acervo-imagens-de-minas/","tags":["💼/📍"],"created":"2024-02-05T11:59:48.340-03:00","updated":"2024-02-05T18:55:47.676-03:00"}
 ---
 
 
