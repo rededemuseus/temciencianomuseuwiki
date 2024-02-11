@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metas/meta-1-circuito/","tags":["💼/🎯"],"created":"2024-02-05T11:59:48.681-03:00","updated":"2024-02-05T11:30:49.226-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metas/meta-1-circuito/","tags":["💼/🎯"],"created":"2024-02-05T11:59:48.681-03:00","updated":"2024-02-06T17:08:16.035-03:00"}
 ---
 
 
