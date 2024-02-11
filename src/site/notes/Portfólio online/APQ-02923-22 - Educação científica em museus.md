@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.171-03:00","updated":"2024-02-06T19:16:04.478-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.171-03:00","updated":"2024-02-10T15:28:42.390-03:00"}
 ---
 
 
- 
+>[!keywords]-
+> - Status: `INPUT[suggester(defaultValue(💼/📝️/🟥️),option(💼/📝️/🟥️, 🟥️), option(💼/📝️/🟧️, 🟧️), option(💼/📝️/🟨️, 🟨️), option(💼/📝️/🟩️, 🎆 Arquivar)):tags]`
+>
+> - Quem?
+> 	- `VIEW[{quem}]`
 
 # APQ-02923-22 - Educação científica em museus
 
@@ -20,60 +24,70 @@
 ### Dados da Proposta
 
 - **Título:** Educação científica em museus: desenvolvimento do pensamento científico, crítico e criativo na imersão dos acervos universitários da UFMG
-- Registro 404699 
-- Aprovado pelo CENEX 19/04/2023 - Faculdade de Odontologia 
+- Registro 404699
+- Aprovado pelo CENEX 19/04/2023 - Faculdade de Odontologia
 - Status Atividade em desenvolvimento
 - **Data de início:** ~~01/10/2022~~ 11/04/2023 (prorrogação)
 - **~~Data término:** 01/04/2024~~
-- **Previsão de término** 11/04/2028[^1]
-- **Unidade/Órgão de execução:** Faculdade de Odontologia 
+- **Previsão de término** 11/04/2028[^1]  
+[^1]:SISTEMA DE INFORMAÇÃO DA EXTENSÃO. **Projeto - 404699 - Educação científica em museus**. UFMG,, [s.d.], p.1 Disponível em: [[https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#](https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#)](<app://obsidian.md/%5Bhttps://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#%5D(https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#>)). Acesso em: 16 jan. 2024]
+- **Unidade/Órgão de execução:** Faculdade de Odontologia
 - **Departamento/Setor de execução**: [Departamento de Clínica, Patologia e Cirurgia Odontológica ](https://www.odonto.ufmg.br/cpc/)
 - **Programa vinculado:** [Rede de Museus e Espaços de Ciências e Cultura da UFMG ](https://www.ufmg.br/rededemuseus/#)
-- **Área Temática de Extensão**: Cultura
-- **Linha de Extensão**: Patrimônio Cultural, Histórico e Natural e Imaterial
-- **Grande Área do Conhecimento**: Ciências da Saúde
+- **Área Temática de Extensão**: Cultura[^1]  
+[^1]:idem]
+- **Linha de Extensão**: Patrimônio Cultural, Histórico e Natural e Imaterial[^1]  
+[^1]:idem]
+- **Grande Área do Conhecimento**: Ciências da Saúde[^1]  
+[^1]:idem]
 - **Área de conhecimento:** MUSEOLOGIA
 - **Sub-área de conhecimento:** MUSEOLOGIA
-[^1]:SISTEMA DE INFORMAÇÃO DA EXTENSÃO. **Projeto - 404699 - Educação científica em museus**. UFMG, , [s.d.], p.1 Disponível em: https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#. Acesso em: 16 jan. 2024]
 - **Origem do público de interesse:** Interno e Externo
 - **Caracterização do público de interesse:** Estudantes e professores da Educação Básica. Estudantes e Professores do Ensino Superior da UFMG e outras Instituições de ensino superior; Comunidade em geral;
 - **Público estimado** 30.000
-- divulgação científica,; museus. educação museal; acervos universitários; educação científica" 
-- Site <https://www.ufmg.br/rededemuseus> 
+- divulgação científica,; museus. educação museal; acervos universitários; educação científica"
+- Site <https://www.ufmg.br/rededemuseus>
 - Instagram rededemuseusufmg
 
 ### Resumo da Proposta:
 
-Essa proposta consiste em um conjunto de atividades articuladas de caráter interdisciplinar, cujo objetivo geral é promover a educação e o treinamento científico para visitantes da comunidade em geral, professores e estudantes da educação básica, por meio de experiências imersivas nos diversificados acervos da [Rede de Museus da UFMG](https://www.ufmg.br/rededemuseus/#). 
+Essa proposta consiste em um conjunto de atividades articuladas de caráter interdisciplinar, cujo objetivo geral é promover a educação e o treinamento científico para visitantes da comunidade em geral, professores e estudantes da educação básica, por meio de experiências imersivas nos diversificados acervos da [Rede de Museus da UFMG](https://www.ufmg.br/rededemuseus/#).
 
-Essa proposta visa implementar ações inovadoras no campo da DC na Rede, favorecendo o desenvolvimento do pensamento crítico e do método científico aos visitantes. Serão ofertadas exposições temáticas e roteiros de visitação variados a fim de se demonstrar a multiplicidade e o valor histórico científico dos acervos. 
+Essa proposta visa implementar ações inovadoras no campo da DC na Rede, favorecendo o desenvolvimento do pensamento crítico e do método científico aos visitantes. Serão ofertadas exposições temáticas e roteiros de visitação variados a fim de se demonstrar a multiplicidade e o valor histórico científico dos acervos.
 
 Escolas parceiras serão convidadas para participar do processo criativo das atividades pedagógicas e da extroversão museológica. Seis espaços serão os responsáveis pela constituição do [[GT Divulgação Científica (DC)\|GT Divulgação Científica (DC)]] na Rede de Museus. Essa articulação visa o desenvolvimento em rede e de forma integrada dos materiais, abordagens, práticas pedagógicas, roteiros e oferta de oficinas a professores e estudantes.
 
-Serão ofertados os seguintes roteiros de visitas: 
-1) Exposições temporárias temáticas de cada espaço, capazes de interagir com temas atuais, conhecimentos de sala de aula e vivências dos estudantes; 
-2) Visitas no modelo: “Um dia de Cientista”, planejada para o estudante pensar sobre um fato científico, delinear e executar pequenos experimentos.com emissão de certificado de cientista ao fim do treinamento; 
-3) Visitas no modelo: “Mergulho nas Ciências dos Museus, planejada para conhecer as histórias, métodos e atualidade da área da ciência representada naquele espaço, com formatos adaptados para a visita prévia do professor e a visita com a turma de estudantes; 
+Serão ofertados os seguintes roteiros de visitas:
+
+1) Exposições temporárias temáticas de cada espaço, capazes de interagir com temas atuais, conhecimentos de sala de aula e vivências dos estudantes;
+
+2) Visitas no modelo: “Um dia de Cientista”, planejada para o estudante pensar sobre um fato científico, delinear e executar pequenos experimentos.com emissão de certificado de cientista ao fim do treinamento;
+
+3) Visitas no modelo: “Mergulho nas Ciências dos Museus, planejada para conhecer as histórias, métodos e atualidade da área da ciência representada naquele espaço, com formatos adaptados para a visita prévia do professor e a visita com a turma de estudantes;
+
 4) Oficinas para professores sobre educação do futuro nos roteiros dos Museus e Acervos: práticas pedagógicas e científicas. Além disso, será elaborado um estande “A Ciência dos Museus na Escola, que será uma exposição itinerante,
 
 #divulgaçãocientífica #educaçãomuseal #educaçãocientífica #museus #acervosuniversitários
 
-### Apresentação
+### Apresentação[^1]  
+[^1]:idem, p.3]
 
-A educação científica visa dar meios para que as pessoas possam interpretar o mundo de acordo com o olhar científico, mobilizando os conceitos, leis e procedimentos da ciência para solucionar problemas do cotidiano. O desenvolvimento científico, ou seja, a capacidade de produção de conhecimento científico relevante é determinante para o avanço e a autonomia de uma nação. Entretanto, as discussões e práticas científicas não podem estar desconectadas da realidade social ou restritas ao ambiente acadêmico e escolar. 
-A utilização de espaços não formais para a educação científica, com práticas pedagógicas ativas e participativas, estimula a capacidade reflexiva e a metacognição. No caso brasileiro, as Universidades públicas assumiram essa dupla atribuição. Neste contexto, a UFMG estabeleceu as diretrizes para a Política de Divulgação Científica (2021) e um dos seus objetivos é o aprimoramento da divulgação científica nos museus, centros de memória e centros culturais da UFMG. 
+A educação científica visa dar meios para que as pessoas possam interpretar o mundo de acordo com o olhar científico, mobilizando os conceitos, leis e procedimentos da ciência para solucionar problemas do cotidiano. O desenvolvimento científico, ou seja, a capacidade de produção de conhecimento científico relevante é determinante para o avanço e a autonomia de uma nação. Entretanto, as discussões e práticas científicas não podem estar desconectadas da realidade social ou restritas ao ambiente acadêmico e escolar.
 
-A Rede de Museus e Espaços de Ciências e Cultura criada em 2000 é constituída por 24 espaços autônomos situados nos municípios de Belo Horizonte, Montes Claros e Tiradentes. A heterogeneidade dos espaços da Rede de Museus, associada ao caráter transdisciplinar e interprofissional, a torna um campo fértil para a prática científica em diferentes áreas do saber. A observação e o estudo dos acervos podem gerar teorias, estimular a emergência de vocações científicas e formar cidadãos capazes de compreender e usar a ciência no cotidiano. 
+A utilização de espaços não formais para a educação científica, com práticas pedagógicas ativas e participativas, estimula a capacidade reflexiva e a metacognição. No caso brasileiro, as Universidades públicas assumiram essa dupla atribuição. Neste contexto, a UFMG estabeleceu as diretrizes para a Política de Divulgação Científica (2021) e um dos seus objetivos é o aprimoramento da divulgação científica nos museus, centros de memória e centros culturais da UFMG.
 
-Para tanto, os museus devem set explorados de forma articulada com os embasamentos teóricos, intercruzando o saber científico com os saberes e vivências dos visitantes, sejam estudantes, famílias ou grupos de amigos. As características únicas das coleções museológicas trazem afetividade e outras emoções aos visitantes, promovendo o prazer do aprendizado marcante, muitas vezes inesquecível. As experiências vivenciadas devem set capazes de despertar curiosidades, paixões, possibilitar situações investigadoras. 
+A Rede de Museus e Espaços de Ciências e Cultura criada em 2000 é constituída por 24 espaços autônomos situados nos municípios de Belo Horizonte, Montes Claros e Tiradentes. A heterogeneidade dos espaços da Rede de Museus, associada ao caráter transdisciplinar e interprofissional, a torna um campo fértil para a prática científica em diferentes áreas do saber. A observação e o estudo dos acervos podem gerar teorias, estimular a emergência de vocações científicas e formar cidadãos capazes de compreender e usar a ciência no cotidiano.
 
-Os ambientes museais propiciam a diversidade pedagógica, com a transposição didática, por meio de práticas que exploram os diferentes sentidos, transmitidas pela cultura oral em vez da escrita, pela sensação tátil, pelas visões e cheiros, emoções e sensações que desafiam as palavras. Cada roteiro, exposição ou tour mediado, precisa set planejado para construir uma narrativa pedagógica funcional, lúdica e inovadora, adaptada ao perfil do visitante, para que cada atividade colabore para a experiência desejada, pois são momentos muito valiosos, muitas vezes a oportunidade única daquele visitante. 
+Para tanto, os museus devem set explorados de forma articulada com os embasamentos teóricos, intercruzando o saber científico com os saberes e vivências dos visitantes, sejam estudantes, famílias ou grupos de amigos. As características únicas das coleções museológicas trazem afetividade e outras emoções aos visitantes, promovendo o prazer do aprendizado marcante, muitas vezes inesquecível. As experiências vivenciadas devem set capazes de despertar curiosidades, paixões, possibilitar situações investigadoras.
 
-Com o retorno das atividades presenciais, identifica-se que uma grande demanda social tem sido a geração de oportunidades para a comunidade e a população escolar usufruir de laser, cultura e ciência. Essas oportunidades podem advir do estímulo a ações que promovam a retomada das atividades presencias nos espaços da Rede de Museus, ampliando o uso desses espaços formativos para a educação científica da população. 
+Os ambientes museais propiciam a diversidade pedagógica, com a transposição didática, por meio de práticas que exploram os diferentes sentidos, transmitidas pela cultura oral em vez da escrita, pela sensação tátil, pelas visões e cheiros, emoções e sensações que desafiam as palavras. Cada roteiro, exposição ou tour mediado, precisa set planejado para construir uma narrativa pedagógica funcional, lúdica e inovadora, adaptada ao perfil do visitante, para que cada atividade colabore para a experiência desejada, pois são momentos muito valiosos, muitas vezes a oportunidade única daquele visitante.
 
-Essa proposta se configura como uma oportunidade para implementar ações de aprimoramento da divulgação científica já realizada nos espaços da Rede de Museus da UFMG , considerando que esses espaços são mantenedores e geradores de conhecimentos científicos e de cientistas e que podem atuar como ambientes de estímulo e treinamento do pensamento crítico e do método científico a visitantes pertencentes a comunidade em geral e a professores e estudantes da Educação Básica em diferentes municípios do Estado de Minas Gerais."
+Com o retorno das atividades presenciais, identifica-se que uma grande demanda social tem sido a geração de oportunidades para a comunidade e a população escolar usufruir de laser, cultura e ciência. Essas oportunidades podem advir do estímulo a ações que promovam a retomada das atividades presencias nos espaços da Rede de Museus, ampliando o uso desses espaços formativos para a educação científica da população.
 
-#### Objetivos
+Essa proposta se configura como uma oportunidade para implementar ações de aprimoramento da divulgação científica já realizada nos espaços da Rede de Museus da UFMG, considerando que esses espaços são mantenedores e geradores de conhecimentos científicos e de cientistas e que podem atuar como ambientes de estímulo e treinamento do pensamento crítico e do método científico a visitantes pertencentes a comunidade em geral e a professores e estudantes da Educação Básica em diferentes municípios do Estado de Minas Gerais."
+
+#### Objetivos[^1]  
+[^1]:idem, p.2]
 
 - [[Gerar oportunidades de roteiros temáticos atrativos à comunidade em geral e aos professores e estudantes do ensino básico \|Gerar oportunidades de roteiros temáticos atrativos à comunidade em geral e aos professores e estudantes do ensino básico ]]
 - [[Portfólio online/Objetivos/Estimular o desenvolvimento cognitivo, a capacidade crítica, criativa, inventiva e a autonomia dos visitantes\|Estimular o desenvolvimento cognitivo, a capacidade crítica, criativa, inventiva e a autonomia dos visitantes]];
@@ -85,15 +99,15 @@ Essa proposta se configura como uma oportunidade para implementar ações de apr
 - [[Portfólio online/Objetivos/Produzir em conjunto com professores do ensino básico roteiros, visitas, exposições e experiências pensadas para a aprendizagem marcante nos estudantes\|Produzir em conjunto com professores do ensino básico roteiros, visitas, exposições e experiências pensadas para a aprendizagem marcante nos estudantes]]
 - [[Portfólio online/Objetivos/Elaborar e testar práticas pedagógicas imersivas inovadoras\|Elaborar e testar práticas pedagógicas imersivas inovadoras]]
 - [[Portfólio online/Objetivos/Realizar monitoramento e avaliação dos processos e resultados\|Realizar monitoramento e avaliação dos processos e resultados]]
-	
 
-#### Metodologia
+#### Metodologia[^1]  
+[^1]:idem, p.2]
 
 - [[Portfólio online/Métodos/Metodologia MN-0001 - Visitas técnicas\|Metodologia MN-0001 - Visitas técnicas]];
 - [[Portfólio online/Métodos/Metodologia MN-0002 - Circuito\|Metodologia MN-0002 - Circuito]]
 - [[Portfólio online/Métodos/Metodologia MN-0003 - atividades educativas e roteiros expositivos\|Metodologia MN-0003 - atividades educativas e roteiros expositivos]]
 - [[Portfólio online/Métodos/Metodologia MN-0004 - Visitas técnicas dos professores\|Metodologia MN-0004 - Visitas técnicas dos professores]]
-- [[Portfólio online/Métodos/Metodologia MN-0005 - Materiais Didático-Pedagógicos\|Metodologia MN-0005 - Materiais Didático-Pedagógicos]]; 
+- [[Portfólio online/Métodos/Metodologia MN-0005 - Materiais Didático-Pedagógicos\|Metodologia MN-0005 - Materiais Didático-Pedagógicos]];
 - [[Portfólio online/Métodos/Metodologia MN-0006 - treinamento e capacitação dos estudantes da UFMG para a mediação de educação científica em museus\|Metodologia MN-0006 - treinamento e capacitação dos estudantes da UFMG para a mediação de educação científica em museus]]
 - [[Portfólio online/Métodos/Metodologia MN-0008 - Criação e divulgação semanal da Agenda Científico-Cultural\|Metodologia MN-0008 - Criação e divulgação semanal da Agenda Científico-Cultural]], com informações sobre todas as atividades abertas ao público nos 24 espaços da Rede de Museus por meio das mídias digitais e por Newsletter para banco de e-mails de escolas dos municípios
 - [[Portfólio online/Métodos/Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros\|Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros]]
@@ -109,9 +123,10 @@ Essa proposta se configura como uma oportunidade para implementar ações de apr
 ### Indicadores de avaliação
 
 Os indicadores de avaliação da ação de Extensão serão:
-- total de público participante por categoria (público amplo e da Educação Básica); 
-- resultados das avaliações sobre as atividades realizadas por todos os sujeitos envolvidos (público, estudantes, docentes e colaboradores) por meio de aplicação de instrumentos padronizados; 
-- cumprimento das metas de acordo com o cronograma , 
+
+- total de público participante por categoria (público amplo e da Educação Básica);
+- resultados das avaliações sobre as atividades realizadas por todos os sujeitos envolvidos (público, estudantes, docentes e colaboradores) por meio de aplicação de instrumentos padronizados;
+- cumprimento das metas de acordo com o cronograma,
 - desenvolvimento, elaboração, utilização e avaliação dos produtos propostos.
 
 ### Instituições
@@ -126,19 +141,30 @@ Instituição Gestora: Fundação de Apoio ao Ensino, Pesquisa e Extensão - [FE
 
 ### Produtos Pretendidos
 
-| File                                                                                   | qtde  | produto                                    |
-| -------------------------------------------------------------------------------------- | ----- | ------------------------------------------ |
-| [[Produtos/Oficinas para professores\|Oficinas para professores]]                   | 150   | CAPACITAÇÃO DE PESSOAL                     |
-| [[Produtos/Experiências de Sucesso\|Experiências de Sucesso]]                       | 2     | TRABALHOS COMPLETOS EM ANAIS DE CONGRESSOS |
-| [[Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]       | 6     | PITCH                                      |
-| [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]       | 1     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
-| [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]           | 74    | OUTROS                                     |
-| [[Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]       | 12    | OUTROS                                     |
-| [[Produtos/Atendimento ao público\|Atendimento ao público]]                         | 30000 | OUTROS                                     |
-| [[Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]] | 2     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
-| [[Produtos/Apresentação de Resumos\|Apresentação de Resumos]]                       | 6     | APRESENTAÇÃO DE TRABALHOS EM CONGRESSOS    |
-| [[Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]           | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
-| [[Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]       | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
+| File                                                                                                    | qtde  | produto                                    |
+| ------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------ |
+| [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]                            | 74    | OUTROS                                     |
+| [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]                        | 1     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
+| [[Produtos/Oficinas para professores\|Oficinas para professores]]                                    | 150   | CAPACITAÇÃO DE PESSOAL                     |
+| [[Produtos/Experiências de Sucesso\|Experiências de Sucesso]]                                        | 2     | TRABALHOS COMPLETOS EM ANAIS DE CONGRESSOS |
+| [[Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]                        | 6     | PITCH                                      |
+| [[Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]                        | 12    | OUTROS                                     |
+| [[Produtos/Atendimento ao público\|Atendimento ao público]]                                          | 30000 | OUTROS                                     |
+| [[Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]                  | 2     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
+| [[Produtos/Apresentação de Resumos\|Apresentação de Resumos]]                                        | 6     | APRESENTAÇÃO DE TRABALHOS EM CONGRESSOS    |
+| [[Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]                            | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
+| [[Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]                        | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
+| [[Portfólio online/Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]           | 74    | OUTROS                                     |
+| [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]                   | 150   | CAPACITAÇÃO DE PESSOAL                     |
+| [[Portfólio online/Produtos/Experiências de Sucesso\|Experiências de Sucesso]]                       | 2     | TRABALHOS COMPLETOS EM ANAIS DE CONGRESSOS |
+| [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]       | 1     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
+| [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]       | 6     | PITCH                                      |
+| [[Portfólio online/Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]       | 12    | OUTROS                                     |
+| [[Portfólio online/Produtos/Atendimento ao público\|Atendimento ao público]]                         | 30000 | OUTROS                                     |
+| [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]] | 2     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
+| [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]                       | 6     | APRESENTAÇÃO DE TRABALHOS EM CONGRESSOS    |
+| [[Portfólio online/Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]           | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
+| [[Portfólio online/Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]       | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
 
 { .block-language-dataview}
 
@@ -314,7 +340,8 @@ Os investimentos da Rede de Museus vão gerar impactos continuados, mesmo após 
 </div></div>
 
 
-Fontes: 
+Fontes:
+
 - [[& 2024-01-16 Projeto - 404699 - Educação científica em museus\|& 2024-01-16 Projeto - 404699 - Educação científica em museus]]
 - [[& 2024-01-16 Plano de Trabalho_APQ-02923-22\|& 2024-01-16 Plano de Trabalho_APQ-02923-22]]
 - Link: <https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586>#>
