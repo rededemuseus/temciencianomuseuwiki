@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.171-03:00","updated":"2024-02-10T15:28:42.390-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.171-03:00","updated":"2024-02-11T10:59:44.266-03:00"}
 ---
 
 
@@ -29,17 +29,13 @@
 - Status Atividade em desenvolvimento
 - **Data de início:** ~~01/10/2022~~ 11/04/2023 (prorrogação)
 - **~~Data término:** 01/04/2024~~
-- **Previsão de término** 11/04/2028[^1]  
-[^1]:SISTEMA DE INFORMAÇÃO DA EXTENSÃO. **Projeto - 404699 - Educação científica em museus**. UFMG,, [s.d.], p.1 Disponível em: [[https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#](https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#)](<app://obsidian.md/%5Bhttps://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#%5D(https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#>)). Acesso em: 16 jan. 2024]
+- **Previsão de término** 11/04/2028
 - **Unidade/Órgão de execução:** Faculdade de Odontologia
 - **Departamento/Setor de execução**: [Departamento de Clínica, Patologia e Cirurgia Odontológica ](https://www.odonto.ufmg.br/cpc/)
 - **Programa vinculado:** [Rede de Museus e Espaços de Ciências e Cultura da UFMG ](https://www.ufmg.br/rededemuseus/#)
-- **Área Temática de Extensão**: Cultura[^1]  
-[^1]:idem]
-- **Linha de Extensão**: Patrimônio Cultural, Histórico e Natural e Imaterial[^1]  
-[^1]:idem]
-- **Grande Área do Conhecimento**: Ciências da Saúde[^1]  
-[^1]:idem]
+- **Área Temática de Extensão**: Cultura[
+- **Linha de Extensão**: Patrimônio Cultural, Histórico e Natural e Imaterial
+- **Grande Área do Conhecimento**: Ciências da Saúde
 - **Área de conhecimento:** MUSEOLOGIA
 - **Sub-área de conhecimento:** MUSEOLOGIA
 - **Origem do público de interesse:** Interno e Externo
@@ -69,8 +65,7 @@ Serão ofertados os seguintes roteiros de visitas:
 
 #divulgaçãocientífica #educaçãomuseal #educaçãocientífica #museus #acervosuniversitários
 
-### Apresentação[^1]  
-[^1]:idem, p.3]
+### Apresentação[^1]
 
 A educação científica visa dar meios para que as pessoas possam interpretar o mundo de acordo com o olhar científico, mobilizando os conceitos, leis e procedimentos da ciência para solucionar problemas do cotidiano. O desenvolvimento científico, ou seja, a capacidade de produção de conhecimento científico relevante é determinante para o avanço e a autonomia de uma nação. Entretanto, as discussões e práticas científicas não podem estar desconectadas da realidade social ou restritas ao ambiente acadêmico e escolar.
 
@@ -86,8 +81,7 @@ Com o retorno das atividades presenciais, identifica-se que uma grande demanda s
 
 Essa proposta se configura como uma oportunidade para implementar ações de aprimoramento da divulgação científica já realizada nos espaços da Rede de Museus da UFMG, considerando que esses espaços são mantenedores e geradores de conhecimentos científicos e de cientistas e que podem atuar como ambientes de estímulo e treinamento do pensamento crítico e do método científico a visitantes pertencentes a comunidade em geral e a professores e estudantes da Educação Básica em diferentes municípios do Estado de Minas Gerais."
 
-#### Objetivos[^1]  
-[^1]:idem, p.2]
+#### Objetivos
 
 - [[Gerar oportunidades de roteiros temáticos atrativos à comunidade em geral e aos professores e estudantes do ensino básico \|Gerar oportunidades de roteiros temáticos atrativos à comunidade em geral e aos professores e estudantes do ensino básico ]]
 - [[Portfólio online/Objetivos/Estimular o desenvolvimento cognitivo, a capacidade crítica, criativa, inventiva e a autonomia dos visitantes\|Estimular o desenvolvimento cognitivo, a capacidade crítica, criativa, inventiva e a autonomia dos visitantes]];
@@ -100,8 +94,7 @@ Essa proposta se configura como uma oportunidade para implementar ações de apr
 - [[Portfólio online/Objetivos/Elaborar e testar práticas pedagógicas imersivas inovadoras\|Elaborar e testar práticas pedagógicas imersivas inovadoras]]
 - [[Portfólio online/Objetivos/Realizar monitoramento e avaliação dos processos e resultados\|Realizar monitoramento e avaliação dos processos e resultados]]
 
-#### Metodologia[^1]  
-[^1]:idem, p.2]
+#### Metodologia
 
 - [[Portfólio online/Métodos/Metodologia MN-0001 - Visitas técnicas\|Metodologia MN-0001 - Visitas técnicas]];
 - [[Portfólio online/Métodos/Metodologia MN-0002 - Circuito\|Metodologia MN-0002 - Circuito]]
@@ -143,8 +136,8 @@ Instituição Gestora: Fundação de Apoio ao Ensino, Pesquisa e Extensão - [FE
 
 | File                                                                                                    | qtde  | produto                                    |
 | ------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------ |
-| [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]                            | 74    | OUTROS                                     |
 | [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]                        | 1     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
+| [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]                            | 74    | OUTROS                                     |
 | [[Produtos/Oficinas para professores\|Oficinas para professores]]                                    | 150   | CAPACITAÇÃO DE PESSOAL                     |
 | [[Produtos/Experiências de Sucesso\|Experiências de Sucesso]]                                        | 2     | TRABALHOS COMPLETOS EM ANAIS DE CONGRESSOS |
 | [[Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]                        | 6     | PITCH                                      |
@@ -154,10 +147,10 @@ Instituição Gestora: Fundação de Apoio ao Ensino, Pesquisa e Extensão - [FE
 | [[Produtos/Apresentação de Resumos\|Apresentação de Resumos]]                                        | 6     | APRESENTAÇÃO DE TRABALHOS EM CONGRESSOS    |
 | [[Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]                            | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
 | [[Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]                        | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
+| [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]       | 1     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
 | [[Portfólio online/Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]           | 74    | OUTROS                                     |
 | [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]                   | 150   | CAPACITAÇÃO DE PESSOAL                     |
 | [[Portfólio online/Produtos/Experiências de Sucesso\|Experiências de Sucesso]]                       | 2     | TRABALHOS COMPLETOS EM ANAIS DE CONGRESSOS |
-| [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]       | 1     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
 | [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]       | 6     | PITCH                                      |
 | [[Portfólio online/Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]       | 12    | OUTROS                                     |
 | [[Portfólio online/Produtos/Atendimento ao público\|Atendimento ao público]]                         | 30000 | OUTROS                                     |
@@ -350,3 +343,5 @@ Fontes:
 
 
 { .block-language-dataview}
+
+[^1]: idem, p.3.
