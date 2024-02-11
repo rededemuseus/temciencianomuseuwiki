@@ -11,17 +11,28 @@
 
 ## Produtos pretendidos
 
+- [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
+- [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
 - [[Produtos/Oficinas para professores\|Oficinas para professores]]
 - [[Produtos/Experiências de Sucesso\|Experiências de Sucesso]]
 - [[Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
-- [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
-- [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
 - [[Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]
 - [[Produtos/Atendimento ao público\|Atendimento ao público]]
 - [[Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]
 - [[Produtos/Apresentação de Resumos\|Apresentação de Resumos]]
 - [[Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]
 - [[Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]
+- [[Portfólio online/Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
+- [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]
+- [[Portfólio online/Produtos/Experiências de Sucesso\|Experiências de Sucesso]]
+- [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
+- [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
+- [[Portfólio online/Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]
+- [[Portfólio online/Produtos/Atendimento ao público\|Atendimento ao público]]
+- [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]
+- [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]
+- [[Portfólio online/Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]
+- [[Portfólio online/Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]
 
 { .block-language-dataview}
 
@@ -29,7 +40,7 @@
 
 - [[Portfólio online/Metas/Meta 1 - Circuito\|Meta 1 - Circuito]]: 
     - [[Links/2024-01-25/Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google\|Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google]]
-    - [[Links/2024-01-25/Roteiro Circuito - Centro de Memória da Escola de Enfermagem.docx - Documentos Google\|Roteiro Circuito - Centro de Memória da Escola de Enfermagem.docx - Documentos Google]]
+    - [[Arquivo de Demandas Gerais/Roteiro Circuito - CEMENF\|Roteiro Circuito - CEMENF]]
     - [[Arquivo de Demandas Gerais/Roteiros TCM\|Roteiros TCM]]
 
 - [[Portfólio online/Metas/Meta 2 - Estande\|Meta 2 - Estande]]: 
@@ -59,7 +70,7 @@
 - [[Portfólio online/Metas/Meta 9 - Formação para professores\|Meta 9 - Formação para professores]]: \-
 - [[Portfólio online/Metas/Meta 10 - Montagem do estande\|Meta 10 - Montagem do estande]]: \-
 - [[Portfólio online/Metas/Meta 11 - Divulgação Agenda C-C\|Meta 11 - Divulgação Agenda C-C]]: 
-    - [[05. Projetos/RededeMuseus/Arquivo de Demandas Gerais/Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
+    - [[Portfólio online/Newsletter Cientifico-Cultural painel\|Newsletter Cientifico-Cultural painel]]
     - [[Arquivo de Demandas Gerais/Completas/Agenda newsletter reuniao\|Agenda newsletter reuniao]]
     - [[Links/2024-01-25/Agenda CC para rs - Zapier\|Agenda CC para rs - Zapier]]
 
@@ -68,7 +79,7 @@
     - [[Arquivo de Demandas Gerais/Estande TCM\|Estande TCM]]
 
 - [[Portfólio online/Metas/Meta 16 - Videopitches\|Meta 16 - Videopitches]]: 
-    - [[Links/2024-01-25/Roteiro Videopitch - CEMENF_15.12.23.docx - Documentos Google\|Roteiro Videopitch - CEMENF_15.12.23.docx - Documentos Google]]
+    - [[Arquivo de Demandas Gerais/Roteiro Videopitch - CEMENF\|Roteiro Videopitch - CEMENF]]
 
 - [[Portfólio online/Metas/Meta 17 - Divulgação semanal Agenda C-C\|Meta 17 - Divulgação semanal Agenda C-C]]: \-
 - [[Portfólio online/Metas/Meta 18 - DC de conhecimentos\|Meta 18 - DC de conhecimentos]]: \-
@@ -102,10 +113,10 @@
 
 ## Espaços envolvidos
 
-- [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
 - [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]]
-- [[Portfólio online/Espaços/GT Divulgação Científica\|GT Divulgação Científica]]
+- [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
 - [[Portfólio online/Espaços/Herbário Norte Mineiro\|Herbário Norte Mineiro]]
+- [[Portfólio online/Espaços/GT Divulgação Científica\|GT Divulgação Científica]]
 - [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]
 - [[Portfólio online/Espaços/Centro de Memória da Odontologia\|Centro de Memória da Odontologia]]
 - [[Portfólio online/Espaços/Centro de Memória da Medicina\|Centro de Memória da Medicina]]
