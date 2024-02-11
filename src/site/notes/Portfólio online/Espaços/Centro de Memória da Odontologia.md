@@ -38,8 +38,8 @@
 - [[Portfólio online/Métodos/Metodologia MN-0012 - Preparação do estande\|Metodologia MN-0012 - Preparação do estande]]
 - [[Portfólio online/Métodos/Metodologia MN-0013 - Estande viajantes\|Metodologia MN-0013 - Estande viajantes]]
 - [[Portfólio online/Métodos/Metodologia MN-0014 - Videopitches\|Metodologia MN-0014 - Videopitches]]
-- [[Portfólio online/Métodos/Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação\|Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação]]
 - [[Portfólio online/Métodos/Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica\|Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica]]
+- [[Portfólio online/Métodos/Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação\|Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação]]
 
 
 { .block-language-dataview}
