@@ -11,8 +11,8 @@
 
 ## Produtos pretendidos
 
-- [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
 - [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
+- [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
 - [[Produtos/Oficinas para professores\|Oficinas para professores]]
 - [[Produtos/Experiências de Sucesso\|Experiências de Sucesso]]
 - [[Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
@@ -22,10 +22,10 @@
 - [[Produtos/Apresentação de Resumos\|Apresentação de Resumos]]
 - [[Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]
 - [[Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]
+- [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
 - [[Portfólio online/Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
 - [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]
 - [[Portfólio online/Produtos/Experiências de Sucesso\|Experiências de Sucesso]]
-- [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
 - [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
 - [[Portfólio online/Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]
 - [[Portfólio online/Produtos/Atendimento ao público\|Atendimento ao público]]
