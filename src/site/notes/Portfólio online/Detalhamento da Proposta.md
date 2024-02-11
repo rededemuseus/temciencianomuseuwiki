@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/detalhamento-da-proposta/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.195-03:00","updated":"2024-02-05T11:24:07.678-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/detalhamento-da-proposta/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.195-03:00","updated":"2024-02-11T11:18:05.748-03:00"}
 ---
 
 
@@ -71,7 +71,7 @@ não se aplica
 
 LOPES FERREIRA, MÔNICA ; VIEIRA DA SILVA, GUILHERME ; ALMEIDA, ADRIANA MORTARA. Comunicação pública da ciência por meio da exposição -Plataforma Zebrafish: a construção de uma red-. Journal of Science Communication América Latina, v. 02, p. 1-22, 2019. DOI: <https://doi.org/10.22323/3.02020201> SEGANTINI, VERONA
 
-CAMPOS. Como tomar as exposições como objeto para a história e para a museologia? Modos de exibição e o engendramento de uma espacialidade para o Museu Nacional. In: Emanuela Sousa Ribeiro, Bruno Melo de Araújo, Marcus Granato. (Org.). Cadernos do patrimônio da ciência e tecnologia [recurso eletrônico] : epistemologia e políticas.
+CAMPOS. Como tomar as exposições como objeto para a história e para a museologia? Modos de exibição e o engendramento de uma espacialidade para o Museu Nacional. In: Emanuela Sousa Ribeiro, Bruno Melo de Araújo, Marcus Granato. (Org.). Cadernos do patrimônio da ciência e tecnologia [recurso eletrônico]-  epistemologia e políticas.
 
 1ed.Recife: UFPE, 2020, v. 1, p. 213-237. Julião, LETÍCIA. O Desafio da Comunicação nos Museus Universitários. Revista Museologia & Interdisciplinaridade, v. v. 9 n., p. 13-23, 2020.
 
