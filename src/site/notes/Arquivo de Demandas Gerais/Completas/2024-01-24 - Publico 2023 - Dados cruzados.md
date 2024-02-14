@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arquivo-de-demandas-gerais/completas/2024-01-24-publico-2023-dados-cruzados/","tags":["💼/📝️/🟩️"],"created":"2024-02-05T11:59:47.544-03:00","updated":"2024-02-05T11:46:24.000-03:00"}
+{"dg-publish":true,"permalink":"/arquivo-de-demandas-gerais/completas/2024-01-24-publico-2023-dados-cruzados/","tags":["💼/📝️/🟩️"],"created":"2024-02-14T12:36:16.690-03:00","updated":"2024-02-05T11:46:24.000-03:00"}
 ---
 
 
@@ -81,4 +81,4 @@ source: XX. Anexos/publico2023.csv
 |[[10ª Feira de Ciências do Norte de Minas Gerais e Vales do Jequitinhonha e Mucuri\|10ª Feira de Ciências do Norte de Minas Gerais e Vales do Jequitinhonha e Mucuri]]|
 |[[Domingo no Campus\|Domingo no Campus]]|
 |[[Centro Pedagógico Capelo Gaivota\|Centro Pedagógico Capelo Gaivota]]|
-|[[Portfólio online/Publico/1ª FEIRA DE PROFISSÕES + TÉCNICA DA CIDADE DOS MENINOS SÃO VICENTE DE PAULO\|1ª FEIRA DE PROFISSÕES + TÉCNICA DA CIDADE DOS MENINOS SÃO VICENTE DE PAULO]]|
+|[[Arquivo de Demandas Gerais/1ª FEIRA DE PROFISSÕES + TÉCNICA DA CIDADE DOS MENINOS SÃO VICENTE DE PAULO\|1ª FEIRA DE PROFISSÕES + TÉCNICA DA CIDADE DOS MENINOS SÃO VICENTE DE PAULO]]|
