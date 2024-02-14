@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/agenda-cientifico-cultural/","tags":["mdc"],"created":"2024-02-05T11:59:48.159-03:00","updated":"2024-02-07T00:30:09.337-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/agenda-cientifico-cultural/","tags":["mdc"],"created":"2024-02-14T12:36:17.051-03:00","updated":"2024-02-07T00:30:09.337-03:00"}
 ---
 
 
