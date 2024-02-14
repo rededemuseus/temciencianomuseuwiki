@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metas/meta-6-divulgacao-e-lancamento-estande/","tags":["💼/🎯"],"created":"2024-02-05T11:59:48.848-03:00","updated":"2024-02-05T11:28:40.323-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metas/meta-6-divulgacao-e-lancamento-estande/","tags":["💼/🎯"],"created":"2024-02-14T12:36:19.476-03:00","updated":"2024-02-05T11:28:40.323-03:00"}
 ---
 
 
