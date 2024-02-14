@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/artefatos-produzidos/","tags":["mdc"],"created":"2024-02-10T15:31:12.827-03:00","updated":"2024-02-05T19:21:15.147-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/artefatos-produzidos/","tags":["mdc"],"created":"2024-02-14T12:36:17.164-03:00","updated":"2024-02-05T19:21:15.147-03:00"}
 ---
 
 
