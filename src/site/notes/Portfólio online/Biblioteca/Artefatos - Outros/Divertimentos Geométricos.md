@@ -3,7 +3,7 @@
 ---
 
 
-![[Logo tem ciência no museu(sem fundo).png\|Logo tem ciência no museu(sem fundo).png]]
+![Logo tem ciência no museu(sem fundo).png](/img/user/Anexos/Logo%20tem%20ci%C3%AAncia%20no%20museu(sem%20fundo).png)
 
 # Divertimentos Geométricos
 
@@ -56,7 +56,7 @@ ___
 
 ## Educação científica em museus: desenvolvimento do pensamento científico, crítico e criativo na imersão dos acervos universitários da UFMG
 
-![[Logo tem ciência no museu(sem fundo).png\|200]]
+![Logo tem ciência no museu(sem fundo).png|200](/img/user/Anexos/Logo%20tem%20ci%C3%AAncia%20no%20museu(sem%20fundo).png)
 
 O projeto visa promover a educação científica e o treinamento científico para visitantes da comunidade em geral, professores e estudantes da educação básica, por meio de experiências imersivas nos acervos da Rede de Museus da UFMG (Universidade Federal de Minas Gerais), com o apoio da FAPEMIG. A justificativa para a realização do projeto é a importância da divulgação científica e da utilização de espaços não formais, como museus e centros culturais, para a educação científica da população.
 
@@ -70,7 +70,7 @@ Saiba mais sobre o desenrolar deste e outros projetos no site da Rede de Museus,
 
 Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 
-![[Design sem nome.png\|Design sem nome.png]]
+![Design sem nome.png](/img/user/Anexos/Design%20sem%20nome.png)
 
 ***
 
@@ -417,7 +417,7 @@ O Dodecaedro possui 12 faces pentagonais, 30 arestas e 20 vértices, no qual cad
 
 ## Moldes
 
-![[Material didático - DivirtaseComOsSolidos 2_Página_20.png\|Moldes]]
+![Material didático - DivirtaseComOsSolidos 2_Página_20.png|Moldes](/img/user/Anexos/Material%20did%C3%A1tico%20-%20DivirtaseComOsSolidos%202_P%C3%A1gina_20.png)
 
 ***
 
@@ -425,4 +425,4 @@ Material disponibilizado digitalmente no âmbito do Projeto Educação científi
 
 Versão elaborada em markdown e mathjax.
 
-![[Design sem nome.png\|Design sem nome.png]]
+![Design sem nome.png](/img/user/Anexos/Design%20sem%20nome.png)
