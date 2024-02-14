@@ -21,8 +21,10 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 ***
 ## Navegação:
 
-- [[Portfólio online/Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
+- [[Sobre o projeto\|Sobre o projeto]]
+- [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
 - [[Portfólio online/Materiais didáticos\|Materiais didáticos]]
+- [[Portfólio online/Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
 - [[Portfólio online/Espaços\|Espaços]]
 - [[Portfólio online/Equipe\|Equipe]]
 - [[Portfólio online/Comunicação interna\|Comunicação interna]]
@@ -34,8 +36,6 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 - [[Espaços\|Espaços]]
 - [[Equipe\|Equipe]]
 - [[Comunicação interna\|Comunicação interna]]
-- [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
-- [[Sobre o projeto\|Sobre o projeto]]
 
 { .block-language-dataview}
 ***
