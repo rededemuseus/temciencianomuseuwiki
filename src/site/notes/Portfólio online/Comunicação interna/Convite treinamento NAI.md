@@ -5,7 +5,7 @@
 
 ## Convite treinamento NAI
 
-![[Convite Treinamento NAI (2).png\|Convite Treinamento NAI (2).png]]
+![Convite Treinamento NAI (2).png](/img/user/Anexos/Convite%20Treinamento%20NAI%20(2).png)
 
 A convidamos bolsistas dos diversos espaços que integram a Rede de Museus e Espaços de Cultura para Treinamento e Capacitação do Núcleo de Acessibilidade e Inclusão da UFMG!
 
