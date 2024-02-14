@@ -20,11 +20,13 @@
 - [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]
 - [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]
 - [[Portfólio online/Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]
+- [[00_Configuracoes/Produto Pretendido\|Produto Pretendido]]
 
 { .block-language-dataview}
 
 ### Metas
 
+- [[00_Configuracoes/MetaTCM\|MetaTCM]]: \-
 - [[Portfólio online/Metas/Meta 1 - Circuito\|Meta 1 - Circuito]]: 
     - [[Arquivo de Demandas Gerais/Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google\|Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google]]
     - [[Arquivo de Demandas Gerais/Roteiro Circuito - CEMENF\|Roteiro Circuito - CEMENF]]
@@ -88,6 +90,7 @@
 - [[Portfólio online/Métodos/Metodologia MN-0015 - Produção DC\|Metodologia MN-0015 - Produção DC]]: \-
 - [[Portfólio online/Métodos/Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação\|Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação]]: \-
 - [[Portfólio online/Métodos/Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica\|Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica]]: \-
+- [[00_Configuracoes/MetodologiasTCM\|MetodologiasTCM]]: \-
 
 { .block-language-dataview}
 
