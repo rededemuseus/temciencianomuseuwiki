@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0001-visitas-tecnicas/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:48.914-03:00","updated":"2024-02-05T11:28:03.424-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0001-visitas-tecnicas/","tags":["💼/🎯/🛠️"],"created":"2024-02-14T12:36:19.821-03:00","updated":"2024-02-05T11:28:03.424-03:00"}
 ---
 
 
