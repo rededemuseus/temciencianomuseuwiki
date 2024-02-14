@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/produtos/capacitacao-de-recursos-humanos/","tags":["💼/🔍"],"created":"2024-02-10T15:31:15.075-03:00","updated":"2024-02-05T10:50:50.093-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/produtos/capacitacao-de-recursos-humanos/","tags":["💼/🔍"],"created":"2024-02-14T12:36:20.501-03:00","updated":"2024-02-05T10:50:50.093-03:00"}
 ---
 
 
