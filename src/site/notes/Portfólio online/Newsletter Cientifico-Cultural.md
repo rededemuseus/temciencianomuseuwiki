@@ -5,6 +5,7 @@
 
 # Confira as edições da nossa newsletter
 
+- [[Portfólio online/Biblioteca/Artefatos - Outros/semana 6 - XXIV-0001\|semana 6 - XXIV-0001]]: XXIV-0001
 - [[Portfólio online/Biblioteca/Artefatos - Outros/Newsletter ed0\|Newsletter ed0]]: 00
 
 { .block-language-dataview}
