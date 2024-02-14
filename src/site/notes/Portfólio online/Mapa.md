@@ -11,27 +11,27 @@
 
 ## Produtos pretendidos
 
-- [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
-- [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
 - [[Produtos/Oficinas para professores\|Oficinas para professores]]
 - [[Produtos/Experiências de Sucesso\|Experiências de Sucesso]]
+- [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
 - [[Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
+- [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
 - [[Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]
-- [[Produtos/Atendimento ao público\|Atendimento ao público]]
 - [[Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]
 - [[Produtos/Apresentação de Resumos\|Apresentação de Resumos]]
+- [[Produtos/Atendimento ao público\|Atendimento ao público]]
 - [[Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]
 - [[Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]
+- [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
+- [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]
+- [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]
 - [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
 - [[Portfólio online/Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
 - [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]
 - [[Portfólio online/Produtos/Experiências de Sucesso\|Experiências de Sucesso]]
-- [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
+- [[Portfólio online/Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]
 - [[Portfólio online/Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]
 - [[Portfólio online/Produtos/Atendimento ao público\|Atendimento ao público]]
-- [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]
-- [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]
-- [[Portfólio online/Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]
 - [[Portfólio online/Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]
 
 { .block-language-dataview}
@@ -113,8 +113,8 @@
 
 ## Espaços envolvidos
 
-- [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]]
 - [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
+- [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]]
 - [[Portfólio online/Espaços/Herbário Norte Mineiro\|Herbário Norte Mineiro]]
 - [[Portfólio online/Espaços/GT Divulgação Científica\|GT Divulgação Científica]]
 - [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]
