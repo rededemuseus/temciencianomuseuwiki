@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/semana-nas-redes/semana-nas-redes-4/","tags":["💼/🧮"],"created":"2024-02-10T15:31:13.510-03:00","updated":"2024-02-06T19:57:19.574-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/semana-nas-redes/semana-nas-redes-4/","tags":["💼/🧮"],"created":"2024-02-14T12:36:18.284-03:00","updated":"2024-02-06T19:57:19.574-03:00"}
 ---
 
 
