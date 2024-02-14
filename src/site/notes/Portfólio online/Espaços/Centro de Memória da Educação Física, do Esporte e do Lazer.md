@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/espacos/centro-de-memoria-da-educacao-fisica-do-esporte-e-do-lazer/","tags":["💼/📍"],"created":"2024-02-05T11:59:48.377-03:00","updated":"2024-02-05T16:58:30.236-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/espacos/centro-de-memoria-da-educacao-fisica-do-esporte-e-do-lazer/","tags":["💼/📍"],"created":"2024-02-14T12:36:18.542-03:00","updated":"2024-02-05T16:58:30.236-03:00"}
 ---
 
 
-![Pasted image 20230818175950.png](/img/user/XX_Anexos/Pasted%20image%2020230818175950.png)
+![[Pasted image 20230818175950.png\|Pasted image 20230818175950.png]]
 
 - [Mande um email](mailto:cemefufmg@gmail.com)
 - Numero de telefone: `=this.telefone`
