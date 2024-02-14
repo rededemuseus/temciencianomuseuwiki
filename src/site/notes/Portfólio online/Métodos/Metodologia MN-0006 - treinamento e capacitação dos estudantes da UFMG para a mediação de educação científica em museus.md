@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0006-treinamento-e-capacitacao-dos-estudantes-da-ufmg-para-a-mediacao-de-educacao-cientifica-em-museus/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:48.978-03:00","updated":"2024-02-11T11:18:06.631-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0006-treinamento-e-capacitacao-dos-estudantes-da-ufmg-para-a-mediacao-de-educacao-cientifica-em-museus/","tags":["💼/🎯/🛠️"],"created":"2024-02-14T12:36:19.911-03:00","updated":"2024-02-11T11:18:06.631-03:00"}
 ---
 
 
