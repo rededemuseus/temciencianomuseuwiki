@@ -24,30 +24,33 @@ Sistema implementado em 2024-02-06. Monitoramento iniciado em 2024-01.
 
 [Acesse aqui.](https://www.facebook.com/rededemuseusdaufmg)
 
-| Semana nº | Publicações | Storie | Alcance |
-| --------- | ----------- | ------ | ------- |
-| 5         | 2           | \-     | 82      |
-| 4         | 3           | 0      | 125     |
+| Semana nº            | Publicações | Storie | Alcance |
+| -------------------- | ----------- | ------ | ------- |
+| <%tp.date.now("w")%> | \-          | \-     | \-      |
+| 5                    | 2           | \-     | 82      |
+| 4                    | 3           | 0      | 125     |
 
 { .block-language-dataview}
 
 ### Instagram
 
 [Acesse aqui.](https://www.instagram.com/rededemuseusufmg/)
-| Semana nº | Publicações | Storie | Alcance |
-| --------- | ----------- | ------ | ------- |
-| 5         | 2           | 15     | 336     |
-| 4         | 3           | 20     | 495     |
+| Semana nº            | Publicações | Storie | Alcance |
+| -------------------- | ----------- | ------ | ------- |
+| <%tp.date.now("w")%> | \-          | \-     | \-      |
+| 5                    | 2           | 15     | 336     |
+| 4                    | 3           | 20     | 495     |
 
 { .block-language-dataview}
 
 ### Tiktok
 
 [Acesse aqui.](https://www.tiktok.com/@redemuseusufmg)
-| Semana nº | Publicações | Alcance |
-| --------- | ----------- | ------- |
-| 5         | 2           | 65      |
-| 4         | 2           | 50      |
+| Semana nº            | Publicações | Alcance |
+| -------------------- | ----------- | ------- |
+| <%tp.date.now("w")%> | \-          | \-      |
+| 5                    | 2           | 65      |
+| 4                    | 2           | 50      |
 
 { .block-language-dataview}
 
