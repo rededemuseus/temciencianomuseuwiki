@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/apresentacao-do-projeto-para-professores/","tags":["💼/🧱"],"created":"2024-02-10T15:31:12.800-03:00","updated":"2024-02-06T20:06:32.301-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/apresentacao-do-projeto-para-professores/","tags":["💼/🧱"],"created":"2024-02-14T12:36:17.133-03:00","updated":"2024-02-06T20:06:32.301-03:00"}
 ---
 
 
@@ -126,4 +126,4 @@ ___
     - Criação de pasta e metodo de organização
 10. Número de artigos e resumos publicados.
 
-![Pasted image 20231218200027.png](/img/user/Pasted%20image%2020231218200027.png)
+![[Pasted image 20231218200027.png\|Pasted image 20231218200027.png]]
