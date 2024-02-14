@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/newsletter-cientifico-cultural/","tags":["mdc"],"created":"2024-02-05T11:59:48.293-03:00","updated":"2024-02-05T17:56:45.752-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/newsletter-cientifico-cultural/","tags":["mdc"],"created":"2024-02-14T12:36:17.458-03:00","updated":"2024-02-11T15:12:48.035-03:00"}
 ---
 
 
 # Confira as edições da nossa newsletter
 
-- [[Newsletter ed1\|Newsletter ed1]]: agosto
-- [[Newsletter ed0\|Newsletter ed0]]: julho
+- [[Portfólio online/Biblioteca/Artefatos - Outros/Newsletter ed0\|Newsletter ed0]]: 00
 
 { .block-language-dataview}
