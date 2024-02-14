@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/home/","tags":["💼/🌐","gardenEntry"],"created":"2024-02-05T11:59:48.246-03:00","updated":"2024-02-05T17:58:35.340-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/home/","tags":["💼/🌐","gardenEntry","gardenEntry","gardenEntry"],"created":"2024-02-05T11:59:48.246-03:00","updated":"2024-02-05T17:58:35.340-03:00"}
 ---
 
 
