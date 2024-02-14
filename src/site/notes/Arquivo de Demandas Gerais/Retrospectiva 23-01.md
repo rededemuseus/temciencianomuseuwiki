@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/arquivo-de-demandas-gerais/retrospectiva-23-01/","title":"Apresentação tem ciencia no museu 23-01","tags":["💼/📝️/🟨️"],"created":"2024-02-10T15:31:12.240-03:00","updated":"2024-02-05T18:53:30.641-03:00"}
+{"dg-publish":true,"permalink":"/arquivo-de-demandas-gerais/retrospectiva-23-01/","title":"Apresentação tem ciencia no museu 23-01","tags":["💼/📝️/🟨️"],"created":"2024-02-14T12:36:16.256-03:00","updated":"2024-02-05T18:53:30.641-03:00"}
 ---
 
 
-![Logo tem ciência no museu(sem fundo).png](/img/user/XX_Anexos/Logo%20tem%20ci%C3%AAncia%20no%20museu(sem%20fundo).png)
+![[Logo tem ciência no museu(sem fundo).png\|Logo tem ciência no museu(sem fundo).png]]
 
 # Tem Ciência no Museu?
 
