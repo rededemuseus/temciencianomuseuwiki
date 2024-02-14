@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/semana-nas-redes/semana-nas-redes-painel/","tags":["💼/🧮"],"created":"2024-02-10T15:31:13.497-03:00","updated":"2024-02-06T16:20:49.427-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/semana-nas-redes/semana-nas-redes-painel/","tags":["💼/🧮"],"created":"2024-02-14T12:36:18.244-03:00","updated":"2024-02-06T16:20:49.427-03:00"}
 ---
 
 
