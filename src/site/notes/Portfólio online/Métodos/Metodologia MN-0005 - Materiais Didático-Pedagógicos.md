@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0005-materiais-didatico-pedagogicos/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:48.965-03:00","updated":"2024-02-11T11:18:06.461-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0005-materiais-didatico-pedagogicos/","tags":["💼/🎯/🛠️"],"created":"2024-02-14T12:36:19.897-03:00","updated":"2024-02-11T11:18:06.461-03:00"}
 ---
 
 
@@ -17,8 +17,5 @@
 - [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]] | [[Portfólio online/Espaços/GT Divulgação Científica\|GEDIC]]
 
 - [[Portfólio online/Biblioteca/Artefatos - Outros/Divertimentos Geométricos\|Divertimentos Geométricos]]
-- [[Flyer Herbário\|Flyer Herbário]]
-- [[Exemplos de material CEMENF\|Exemplos de material CEMENF]]
-- [[Divertimentos Geométricos\|Divertimentos Geométricos]]
 
 { .block-language-dataview}
