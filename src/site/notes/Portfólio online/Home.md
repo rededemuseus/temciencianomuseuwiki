@@ -23,13 +23,13 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 
 ## Navegação:
 
+- [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
+- [[Portfólio online/Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
+- [[Portfólio online/Espaços\|Espaços]]
+- [[Portfólio online/Equipe\|Equipe]]
+- [[Portfólio online/Comunicação interna\|Comunicação interna]]
 - [[Portfólio online/Artefatos produzidos\|Artefatos produzidos]]
 - [[Portfólio online/Agenda Cientifico-Cultural\|Agenda Cientifico-Cultural]]
-- [[Portfólio online/Comunicação interna\|Comunicação interna]]
-- [[Portfólio online/Equipe\|Equipe]]
-- [[Portfólio online/Espaços\|Espaços]]
-- [[Portfólio online/Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
-- [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
 
 { .block-language-dataview}
 
