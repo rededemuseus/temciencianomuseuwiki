@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0015-producao-dc/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:49.083-03:00","updated":"2024-02-11T11:18:07.053-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0015-producao-dc/","tags":["💼/🎯/🛠️"],"created":"2024-02-14T12:36:20.084-03:00","updated":"2024-02-11T11:18:07.053-03:00"}
 ---
 
 
