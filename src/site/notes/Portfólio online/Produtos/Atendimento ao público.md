@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/produtos/atendimento-ao-publico/","tags":["💼/🔍"],"created":"2024-02-10T15:31:15.061-03:00","updated":"2024-02-06T17:47:29.284-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/produtos/atendimento-ao-publico/","tags":["💼/🔍"],"created":"2024-02-14T12:36:20.446-03:00","updated":"2024-02-06T17:47:29.284-03:00"}
 ---
 
 
