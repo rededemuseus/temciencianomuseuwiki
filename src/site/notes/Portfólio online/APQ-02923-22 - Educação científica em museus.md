@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.171-03:00","updated":"2024-02-11T11:12:01.883-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/apq-02923-22-educacao-cientifica-em-museus/","tags":["💼/🧱"],"created":"2024-02-14T12:36:17.094-03:00","updated":"2024-02-11T11:12:01.883-03:00"}
 ---
 
 
@@ -97,7 +97,7 @@ Essa proposta se configura como uma oportunidade para implementar ações de apr
 #### Metodologia
 
 - [[Portfólio online/Métodos/Metodologia MN-0001 - Visitas técnicas\|Metodologia MN-0001 - Visitas técnicas]];
-- [[Portfólio online/Métodos/Metodologia MN-0002 - Circuito\|Metodologia MN-0002 - Circuito]]
+- [[Metodologia MN-0002 - Circuito\|Metodologia MN-0002 - Circuito]]
 - [[Portfólio online/Métodos/Metodologia MN-0003 - atividades educativas e roteiros expositivos\|Metodologia MN-0003 - atividades educativas e roteiros expositivos]]
 - [[Portfólio online/Métodos/Metodologia MN-0004 - Visitas técnicas dos professores\|Metodologia MN-0004 - Visitas técnicas dos professores]]
 - [[Portfólio online/Métodos/Metodologia MN-0005 - Materiais Didático-Pedagógicos\|Metodologia MN-0005 - Materiais Didático-Pedagógicos]];
@@ -136,27 +136,14 @@ Instituição Gestora: Fundação de Apoio ao Ensino, Pesquisa e Extensão - [FE
 
 | File                                                                                                    | qtde  | produto                                    |
 | ------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------ |
-| [[Produtos/Oficinas para professores\|Oficinas para professores]]                                    | 150   | CAPACITAÇÃO DE PESSOAL                     |
-| [[Produtos/Experiências de Sucesso\|Experiências de Sucesso]]                                        | 2     | TRABALHOS COMPLETOS EM ANAIS DE CONGRESSOS |
-| [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]                        | 1     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
-| [[Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]                        | 6     | PITCH                                      |
-| [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]                            | 74    | OUTROS                                     |
-| [[Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]                        | 12    | OUTROS                                     |
-| [[Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]                  | 2     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
-| [[Produtos/Apresentação de Resumos\|Apresentação de Resumos]]                                        | 6     | APRESENTAÇÃO DE TRABALHOS EM CONGRESSOS    |
-| [[Produtos/Atendimento ao público\|Atendimento ao público]]                                          | 30000 | OUTROS                                     |
-| [[Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]                            | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
-| [[Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]                        | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
-| [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]       | 6     | PITCH                                      |
-| [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]] | 2     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
-| [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]                       | 6     | APRESENTAÇÃO DE TRABALHOS EM CONGRESSOS    |
 | [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]       | 1     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
-| [[Portfólio online/Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]           | 74    | OUTROS                                     |
 | [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]                   | 150   | CAPACITAÇÃO DE PESSOAL                     |
 | [[Portfólio online/Produtos/Experiências de Sucesso\|Experiências de Sucesso]]                       | 2     | TRABALHOS COMPLETOS EM ANAIS DE CONGRESSOS |
-| [[Portfólio online/Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]           | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
+| [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]       | 6     | PITCH                                      |
 | [[Portfólio online/Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]       | 12    | OUTROS                                     |
 | [[Portfólio online/Produtos/Atendimento ao público\|Atendimento ao público]]                         | 30000 | OUTROS                                     |
+| [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]] | 2     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
+| [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]                       | 6     | APRESENTAÇÃO DE TRABALHOS EM CONGRESSOS    |
 | [[Portfólio online/Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]       | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
 
 { .block-language-dataview}
@@ -310,7 +297,7 @@ Os investimentos da Rede de Museus vão gerar impactos continuados, mesmo após 
 - [[Portfólio online/Metas/Meta 5 - Divulgação e lançamento - Circuitos\|Meta 5 - Divulgação e lançamento - Circuitos]]
 - [[Portfólio online/Metas/Meta 6 - Divulgação e Lançamento - Estande\|Meta 6 - Divulgação e Lançamento - Estande]]
 - [[Portfólio online/Metas/Meta 7 - Visitas Amplo Público\|Meta 7 - Visitas Amplo Público]]
-- [[Portfólio online/Metas/Meta 8 - Visitas Educação Básica\|Meta 8 - Visitas Educação Básica]]
+- [[Meta 8 - Visitas Educação Básica\|Meta 8 - Visitas Educação Básica]]
 - [[Portfólio online/Metas/Meta 9 - Formação para professores\|Meta 9 - Formação para professores]]
 - [[Portfólio online/Metas/Meta 10 - Montagem do estande\|Meta 10 - Montagem do estande]]
 - [[Portfólio online/Metas/Meta 11 - Divulgação Agenda C-C\|Meta 11 - Divulgação Agenda C-C]]
@@ -322,12 +309,8 @@ Os investimentos da Rede de Museus vão gerar impactos continuados, mesmo após 
 - [[Portfólio online/Metas/Meta 17 - Divulgação semanal Agenda C-C\|Meta 17 - Divulgação semanal Agenda C-C]]
 - [[Portfólio online/Metas/Meta 18 - DC de conhecimentos\|Meta 18 - DC de conhecimentos]]
 
-*** 
----
-- Fontes: 
-- [[& 2024-01-16 Projeto - 404699 - Educação científica em museus\|& 2024-01-16 Projeto - 404699 - Educação científica em museus]]
-- [[& 2024-01-16 Plano de Trabalho_APQ-02923-22\|& 2024-01-16 Plano de Trabalho_APQ-02923-22]]
-- Link: <https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586>#>
+***
+
 
 
 </div></div>
