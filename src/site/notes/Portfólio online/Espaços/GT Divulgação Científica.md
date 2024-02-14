@@ -27,13 +27,10 @@ Grupo com encontros e produção asincrona e remota.
 - [[Portfólio online/Biblioteca/Agenda C-C/Sexta-Feira de Carnaval\|Sexta-Feira de Carnaval]]
 - [[Portfólio online/Biblioteca/Agenda C-C/Sábado de Carnaval\|Sábado de Carnaval]]
 - [[Portfólio online/Biblioteca/Artefatos - Outros/semana 6 - XXIV-0001\|semana 6 - XXIV-0001]]
-- [[Portfólio online/Biblioteca/Artefatos - Redes Sociais/Dia Nacional de Luta dos Povos Indígenas\|Dia Nacional de Luta dos Povos Indígenas]]
 - [[Portfólio online/Biblioteca/Artefatos - Redes Sociais/🌍✨ Dia Internacional da Educação e Combate ao Discurso de Ódio\|🌍✨ Dia Internacional da Educação e Combate ao Discurso de Ódio]]
 - [[Portfólio online/Biblioteca/Artefatos - Redes Sociais/🌟 Descubra o fascinante mundo da... - Rede de Museus da UFMG - Facebook\|🌟 Descubra o fascinante mundo da... - Rede de Museus da UFMG - Facebook]]
 - [[Portfólio online/Biblioteca/Artefatos - Redes Sociais/👋 Convidamos você seus alunos e sua instituição de ensino para visitar um de nossos circuitos\|👋 Convidamos você seus alunos e sua instituição de ensino para visitar um de nossos circuitos]]
 - [[Portfólio online/Biblioteca/Semana nas redes/Semana nas redes - painel\|Semana nas redes - painel]]
-- [[Portfólio online/Biblioteca/Semana nas redes/Semana nas redes 4\|Semana nas redes 4]]
-- [[Portfólio online/Biblioteca/Semana nas redes/Semana nas redes\|Semana nas redes]]
 - [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
 - [[Portfólio online/Estande - painel 1\|Estande - painel 1]]
 - [[Portfólio online/Metas/Meta 10 - Montagem do estande\|Meta 10 - Montagem do estande]]
@@ -63,6 +60,9 @@ Grupo com encontros e produção asincrona e remota.
 - [[Portfólio online/Métodos/Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica\|Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica]]
 - [[Portfólio online/Métodos/Metodologia MN-0013 - Estande viajantes\|Metodologia MN-0013 - Estande viajantes]]
 - [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
+- [[Portfólio online/Biblioteca/Semana nas redes/Semana nas redes\|Semana nas redes]]
+- [[Portfólio online/Biblioteca/Semana nas redes/Semana nas redes 4\|Semana nas redes 4]]
+- [[Portfólio online/Biblioteca/Artefatos - Redes Sociais/Dia Nacional de Luta dos Povos Indígenas\|Dia Nacional de Luta dos Povos Indígenas]]
 
 
 { .block-language-dataview}
