@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0017-articulacao-and-participacao-em-eventos-voltados-para-a-educacao-basica/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:49.108-03:00","updated":"2024-02-11T11:18:07.238-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0017-articulacao-and-participacao-em-eventos-voltados-para-a-educacao-basica/","tags":["💼/🎯/🛠️"],"created":"2024-02-14T12:36:20.147-03:00","updated":"2024-02-11T11:18:07.238-03:00"}
 ---
 
 
