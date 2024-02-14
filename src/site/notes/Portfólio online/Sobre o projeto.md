@@ -5,10 +5,10 @@
 
 # Sobre o Projeto
 
+- [[Portfólio online/Metas tcm\|Metas tcm]]
+- [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
 - [[Portfólio online/Apresentação do projeto para professores\|Apresentação do projeto para professores]]
 - [[Portfólio online/APQ-02923-22 - Educação científica em museus\|APQ-02923-22 - Educação científica em museus]]
-- [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
-- [[Portfólio online/Metas tcm\|Metas tcm]]
 
 { .block-language-dataview}
 
@@ -161,6 +161,7 @@ Instituição Gestora: Fundação de Apoio ao Ensino, Pesquisa e Extensão - [FE
 | [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]] | 2     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
 | [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]                       | 6     | APRESENTAÇÃO DE TRABALHOS EM CONGRESSOS    |
 | [[Portfólio online/Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]       | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
+| [[00_Configuracoes/Produto Pretendido\|Produto Pretendido]]                                          | \-    | \-                                         |
 
 { .block-language-dataview}
 
