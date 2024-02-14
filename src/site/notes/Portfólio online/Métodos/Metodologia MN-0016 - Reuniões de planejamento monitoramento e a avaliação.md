@@ -38,9 +38,11 @@
 
 ### Notas alinhadas com esta metodologia
 
-| File                                                                                             | quando     | pauta              | type        | created    |
-| ------------------------------------------------------------------------------------------------ | ---------- | ------------------ | ----------- | ---------- |
-| [[Arquivo de Demandas Gerais/Completas/Reunião Rede-CEMENF 08-14\|Reunião Rede-CEMENF 08-14]] | 2024-00-04 | \-                 | demandasTCM | 2024-00-04 |
-| [[Arquivo de Demandas Gerais/Completas/Reunião equipe\|Reunião equipe]]                       | \-         | Estande itenerario | reuniaoGT   | 2024-00-19 |
+| File                                                                                                                                                                                       | quando     | pauta              | type         | created    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------ | ------------ | ---------- |
+| [[Arquivo de Demandas Gerais/Completas/Reunião Rede-CEMENF 08-14\|Reunião Rede-CEMENF 08-14]]                                                                                           | 2024-00-04 | \-                 | demandasTCM  | 2024-00-04 |
+| [[Arquivo de Demandas Gerais/Reuniões de articulação entre a equipe (internas e externas) - memória 2023\|Reuniões de articulação entre a equipe (internas e externas) - memória 2023]] | 2024-00-04 | \-                 | demandasTCM  | 2024-00-04 |
+| [[Portfólio online/APQ-02923-22 - Educação científica em museus\|APQ-02923-22 - Educação científica em museus]]                                                                         | \-         | \-                 | docsoficiais | 2024-00-16 |
+| [[Arquivo de Demandas Gerais/Completas/Reunião equipe\|Reunião equipe]]                                                                                                                 | \-         | Estande itenerario | reuniaoGT    | 2024-00-19 |
 
 { .block-language-dataview}
