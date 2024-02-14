@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arquivo-de-demandas-gerais/completas/2024-01-17-inspiracao-de-dc/","tags":["💼/📝️/🟩️"],"created":"2024-02-05T11:59:47.530-03:00","updated":"2024-02-05T11:46:08.784-03:00"}
+{"dg-publish":true,"permalink":"/arquivo-de-demandas-gerais/completas/2024-01-17-inspiracao-de-dc/","tags":["💼/📝️/🟩️"],"created":"2024-02-14T12:36:16.653-03:00","updated":"2024-02-05T11:46:08.784-03:00"}
 ---
 
 
