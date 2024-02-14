@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metas/meta-14-oficinas-presenciais/","tags":["💼/🎯"],"created":"2024-02-05T11:59:48.720-03:00","updated":"2024-02-05T11:30:21.695-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metas/meta-14-oficinas-presenciais/","tags":["💼/🎯"],"created":"2024-02-14T12:36:19.133-03:00","updated":"2024-02-05T11:30:21.695-03:00"}
 ---
 
 
