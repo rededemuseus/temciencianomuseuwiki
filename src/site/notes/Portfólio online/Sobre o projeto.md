@@ -1,16 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/sobre-o-projeto/","tags":["💼","mdc"],"created":"2024-02-10T15:31:13.069-03:00","updated":"2024-02-05T15:40:40.664-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/sobre-o-projeto/","tags":["💼","mdc"],"created":"2024-02-14T12:36:17.471-03:00","updated":"2024-02-11T12:34:56.661-03:00"}
 ---
-
-
 
 
 # Sobre o Projeto
 
-- [[Portfólio online/Metas tcm\|Metas tcm]]
 - [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
 - [[Portfólio online/Apresentação do projeto para professores\|Apresentação do projeto para professores]]
-- [[Portfólio online/APQ-02923-22 - Educação científica em museus\|APQ-02923-22 - Educação científica em museus]]
+- [[Portfólio online/Metas tcm\|Metas tcm]]
 
 { .block-language-dataview}
 
@@ -114,22 +111,22 @@ Essa proposta se configura como uma oportunidade para implementar ações de apr
 
 #### Metodologia
 
-- [[Metodologia MN-0001 - Visitas técnicas]];
-- [[Metodologia MN-0002 - Circuito]]
-- [[Metodologia MN-0003 - atividades educativas e roteiros expositivos]]
-- [[Metodologia MN-0004 - Visitas técnicas dos professores]]
-- [[Metodologia MN-0005 - Materiais Didático-Pedagógicos]];
-- [[Metodologia MN-0006 - treinamento e capacitação dos estudantes da UFMG para a mediação de educação científica em museus]]
-- [[Metodologia MN-0008 - Criação e divulgação semanal da Agenda Científico-Cultural]], com informações sobre todas as atividades abertas ao público nos 24 espaços da Rede de Museus por meio das mídias digitais e por Newsletter para banco de e-mails de escolas dos municípios
-- [[Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros]]
-- [[Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições]]
-- [[Metodologia MN-0011 - Elaboração e oferta de de 05 oficinas para docentes da educação básica]]
-- [[Metodologia MN-0012 - Preparação do estande]]
-- [[Metodologia MN-0013 - Estande viajantes]]
-- [[Metodologia MN-0014 - Videopitches]]
-- [[Metodologia MN-0015 - Produção DC]]
-- [[Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação]]
-- "[[Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica]] - (UFMG Jovem, Mostra Sua UFMG) e população em geral (Domingo no Campus), dentre outros
+- [[Portfólio online/Métodos/Metodologia MN-0001 - Visitas técnicas\|Metodologia MN-0001 - Visitas técnicas]];
+- [[Metodologia MN-0002 - Circuito\|Metodologia MN-0002 - Circuito]]
+- [[Portfólio online/Métodos/Metodologia MN-0003 - atividades educativas e roteiros expositivos\|Metodologia MN-0003 - atividades educativas e roteiros expositivos]]
+- [[Portfólio online/Métodos/Metodologia MN-0004 - Visitas técnicas dos professores\|Metodologia MN-0004 - Visitas técnicas dos professores]]
+- [[Portfólio online/Métodos/Metodologia MN-0005 - Materiais Didático-Pedagógicos\|Metodologia MN-0005 - Materiais Didático-Pedagógicos]];
+- [[Portfólio online/Métodos/Metodologia MN-0006 - treinamento e capacitação dos estudantes da UFMG para a mediação de educação científica em museus\|Metodologia MN-0006 - treinamento e capacitação dos estudantes da UFMG para a mediação de educação científica em museus]]
+- [[Portfólio online/Métodos/Metodologia MN-0008 - Criação e divulgação semanal da Agenda Científico-Cultural\|Metodologia MN-0008 - Criação e divulgação semanal da Agenda Científico-Cultural]], com informações sobre todas as atividades abertas ao público nos 24 espaços da Rede de Museus por meio das mídias digitais e por Newsletter para banco de e-mails de escolas dos municípios
+- [[Portfólio online/Métodos/Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros\|Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros]]
+- [[Portfólio online/Métodos/Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições\|Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições]]
+- [[Portfólio online/Métodos/Metodologia MN-0011 - Elaboração e oferta de de 05 oficinas para docentes da educação básica\|Metodologia MN-0011 - Elaboração e oferta de de 05 oficinas para docentes da educação básica]]
+- [[Portfólio online/Métodos/Metodologia MN-0012 - Preparação do estande\|Metodologia MN-0012 - Preparação do estande]]
+- [[Portfólio online/Métodos/Metodologia MN-0013 - Estande viajantes\|Metodologia MN-0013 - Estande viajantes]]
+- [[Portfólio online/Métodos/Metodologia MN-0014 - Videopitches\|Metodologia MN-0014 - Videopitches]]
+- [[Portfólio online/Métodos/Metodologia MN-0015 - Produção DC\|Metodologia MN-0015 - Produção DC]]
+- [[Portfólio online/Métodos/Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação\|Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação]]
+- "[[Portfólio online/Métodos/Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica\|Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica]] - (UFMG Jovem, Mostra Sua UFMG) e população em geral (Domingo no Campus), dentre outros
 
 ### Indicadores de avaliação
 
@@ -154,27 +151,14 @@ Instituição Gestora: Fundação de Apoio ao Ensino, Pesquisa e Extensão - [FE
 
 | File                                                                                                    | qtde  | produto                                    |
 | ------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------ |
-| [[Produtos/Oficinas para professores\|Oficinas para professores]]                                    | 150   | CAPACITAÇÃO DE PESSOAL                     |
-| [[Produtos/Experiências de Sucesso\|Experiências de Sucesso]]                                        | 2     | TRABALHOS COMPLETOS EM ANAIS DE CONGRESSOS |
-| [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]                        | 1     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
-| [[Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]                        | 6     | PITCH                                      |
-| [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]                            | 74    | OUTROS                                     |
-| [[Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]                        | 12    | OUTROS                                     |
-| [[Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]                  | 2     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
-| [[Produtos/Apresentação de Resumos\|Apresentação de Resumos]]                                        | 6     | APRESENTAÇÃO DE TRABALHOS EM CONGRESSOS    |
-| [[Produtos/Atendimento ao público\|Atendimento ao público]]                                          | 30000 | OUTROS                                     |
-| [[Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]                            | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
-| [[Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]                        | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
-| [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]       | 6     | PITCH                                      |
-| [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]] | 2     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
-| [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]                       | 6     | APRESENTAÇÃO DE TRABALHOS EM CONGRESSOS    |
 | [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]       | 1     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
-| [[Portfólio online/Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]           | 74    | OUTROS                                     |
 | [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]                   | 150   | CAPACITAÇÃO DE PESSOAL                     |
 | [[Portfólio online/Produtos/Experiências de Sucesso\|Experiências de Sucesso]]                       | 2     | TRABALHOS COMPLETOS EM ANAIS DE CONGRESSOS |
-| [[Portfólio online/Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]           | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
+| [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]       | 6     | PITCH                                      |
 | [[Portfólio online/Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]       | 12    | OUTROS                                     |
 | [[Portfólio online/Produtos/Atendimento ao público\|Atendimento ao público]]                         | 30000 | OUTROS                                     |
+| [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]] | 2     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
+| [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]                       | 6     | APRESENTAÇÃO DE TRABALHOS EM CONGRESSOS    |
 | [[Portfólio online/Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]       | 12    | MATERIAIS DIDÁTICO-PEGADÓGICOS             |
 
 { .block-language-dataview}
@@ -228,7 +212,7 @@ São necessários processos de recontextualização e de transposição museogr�
 
 A Rede de Museus da UFMG apresenta um público formado pela comunidade interna e externa. O maior público é formado por professores e estudantes da educação básica, que também se configura no público-alvo da maior parte das ações de popularização científica. Essa proposta visa ampliar as oportunidades de visitas por meio da elaboração de roteiros adaptados conformando um circuito científico para dois diferentes perfis de visitantes: o público geral e o da educação básica. Para o público geral serão ofertadas exposições temáticas e roteiros de visitação variados a fim de se demonstrar a multiplicidade e o valor históricocientífico dos acervos e o laser que pode set exercido ao se frequentar esses espaços, além de aprimorar as concepções sobre modelos científicos No campo da educação básica, escolas parceiras da Região Metropolitana de Belo Horizonte e de Montes Claros serão convidadas para participar do processo criativo das atividades pedagógicas e da extroversão museológica. 
 
-Seis espaços museais, a saber: [[Centro de Memória da Escola de Enfermagem]]; [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]; [[Portfólio online/Espaços/Centro de Memória da Medicina\|Centro de Memória da Medicina]]; [[Centro de Memória da Odontologia]]; [[Herbário Norte Mineiro]]; e [[Museu da Matemática]] e o [[Núcleo Técnico Científico da Rede]] serão os responsáveis pela constituição do [[GT Divulgação Científica]] (DC) na Rede de Museus. 
+Seis espaços museais, a saber: [[Portfólio online/Espaços/Centro de Memória da Escola de Enfermagem\|Centro de Memória da Escola de Enfermagem]]; [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]; [[Portfólio online/Espaços/Centro de Memória da Medicina\|Centro de Memória da Medicina]]; [[Portfólio online/Espaços/Centro de Memória da Odontologia\|Centro de Memória da Odontologia]]; [[Portfólio online/Espaços/Herbário Norte Mineiro\|Herbário Norte Mineiro]]; e [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]] e o [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]] serão os responsáveis pela constituição do [[Portfólio online/Espaços/GT Divulgação Científica\|GT Divulgação Científica]] (DC) na Rede de Museus. 
 
 
 Essa articulação visa o desenvolvimento em rede e de forma integrada dos materiais, abordagens, práticas pedagógicas, roteiros e oferta de oficinas a professores e estudantes. As exposições e roteiros adaptados à educação básica serão amplamente divulgados, nas mídias sociais, além disso, os órgãos da educação básica no âmbito estadual e municipal receberão convites e orientações para planejamento e agendamento das visitas. 
@@ -321,31 +305,27 @@ Os investimentos da Rede de Museus vão gerar impactos continuados, mesmo após 
 
 #### Metas
 
-- [[Meta 1 - Circuito]]
-- [[Meta 2 - Estande]]
-- [[Meta 3 - Gedic]]
-- [[Meta 4 - Criação e Divulgação Agenda C-C]]
-- [[Meta 5 - Divulgação e lançamento - Circuitos]]
-- [[Meta 6 - Divulgação e Lançamento - Estande]]
-- [[Meta 7 - Visitas Amplo Público]]
-- [[Meta 8 - Visitas Educação Básica]]
-- [[Meta 9 - Formação para professores]]
-- [[Meta 10 - Montagem do estande]]
-- [[Meta 11 - Divulgação Agenda C-C]]
+- [[Portfólio online/Metas/Meta 1 - Circuito\|Meta 1 - Circuito]]
+- [[Portfólio online/Metas/Meta 2 - Estande\|Meta 2 - Estande]]
+- [[Portfólio online/Metas/Meta 3 - Gedic\|Meta 3 - Gedic]]
+- [[Portfólio online/Metas/Meta 4 - Criação e Divulgação Agenda C-C\|Meta 4 - Criação e Divulgação Agenda C-C]]
+- [[Portfólio online/Metas/Meta 5 - Divulgação e lançamento - Circuitos\|Meta 5 - Divulgação e lançamento - Circuitos]]
+- [[Portfólio online/Metas/Meta 6 - Divulgação e Lançamento - Estande\|Meta 6 - Divulgação e Lançamento - Estande]]
+- [[Portfólio online/Metas/Meta 7 - Visitas Amplo Público\|Meta 7 - Visitas Amplo Público]]
+- [[Meta 8 - Visitas Educação Básica\|Meta 8 - Visitas Educação Básica]]
+- [[Portfólio online/Metas/Meta 9 - Formação para professores\|Meta 9 - Formação para professores]]
+- [[Portfólio online/Metas/Meta 10 - Montagem do estande\|Meta 10 - Montagem do estande]]
+- [[Portfólio online/Metas/Meta 11 - Divulgação Agenda C-C\|Meta 11 - Divulgação Agenda C-C]]
 - [[Meta 12 - Visitas Amplo Público\|Meta 12 - Visitas Amplo Público]]
 - [[Meta 13 - Visitas Educação Básica\|Meta 13 - Visitas Educação Básica]]
-- [[Meta 14 - Oficinas presenciais]]
-- [[Meta 15 - Estande viajante]]
-- [[Meta 16 - Videopitches]]
-- [[Meta 17 - Divulgação semanal Agenda C-C]]
-- [[Meta 18 - DC de conhecimentos]]
+- [[Portfólio online/Metas/Meta 14 - Oficinas presenciais\|Meta 14 - Oficinas presenciais]]
+- [[Portfólio online/Metas/Meta 15 - Estande viajante\|Meta 15 - Estande viajante]]
+- [[Portfólio online/Metas/Meta 16 - Videopitches\|Meta 16 - Videopitches]]
+- [[Portfólio online/Metas/Meta 17 - Divulgação semanal Agenda C-C\|Meta 17 - Divulgação semanal Agenda C-C]]
+- [[Portfólio online/Metas/Meta 18 - DC de conhecimentos\|Meta 18 - DC de conhecimentos]]
 
-*** 
----
-- Fontes: 
-- [[& 2024-01-16 Projeto - 404699 - Educação científica em museus\|& 2024-01-16 Projeto - 404699 - Educação científica em museus]]
-- [[& 2024-01-16 Plano de Trabalho_APQ-02923-22\|& 2024-01-16 Plano de Trabalho_APQ-02923-22]]
-- Link: <https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586>#>
+***
+
 
 
 </div></div>
