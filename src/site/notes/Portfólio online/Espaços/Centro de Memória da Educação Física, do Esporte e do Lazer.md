@@ -3,7 +3,7 @@
 ---
 
 
-![[Pasted image 20230818175950.png\|Pasted image 20230818175950.png]]
+![Pasted image 20230818175950.png](/img/user/Anexos/Pasted%20image%2020230818175950.png)
 
 - [Mande um email](mailto:cemefufmg@gmail.com)
 - Numero de telefone: `=this.telefone`
