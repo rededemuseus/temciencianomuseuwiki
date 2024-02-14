@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/espacos/acervo-curt-lange/","tags":["💼/📍"],"created":"2024-02-05T11:59:48.328-03:00","updated":"2024-02-05T19:10:07.648-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/espacos/acervo-curt-lange/","tags":["💼/📍"],"created":"2024-02-14T12:36:18.495-03:00","updated":"2024-02-05T19:10:07.648-03:00"}
 ---
 
 
-![curt](/img/user/XX_Anexos/curt.jpg)
+![curt](XX_Anexos/curt.jpg)
 
 Bem vindo (a) à nova página do Acervo Curt Lange, na Universidade Federal de Minas Gerais – UFMG.
 
