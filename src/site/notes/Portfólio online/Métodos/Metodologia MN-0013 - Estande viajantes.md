@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0013-estande-viajantes/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:49.056-03:00","updated":"2024-02-11T11:18:06.953-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0013-estande-viajantes/","tags":["💼/🎯/🛠️"],"created":"2024-02-14T12:36:20.039-03:00","updated":"2024-02-11T11:18:06.953-03:00"}
 ---
 
 
@@ -16,5 +16,5 @@
 - [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]
 - [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]] | [[Portfólio online/Espaços/GT Divulgação Científica\|GEDIC]]
 
-- [[Arquivo de Demandas Gerais/Participação Mostra Sua UFMG\|Participação Mostra Sua UFMG]]
+- [[Participação Mostra Sua UFMG\|Participação Mostra Sua UFMG]]
 - [[Pesquisa - Mostra de profissões DC\|Pesquisa - Mostra de profissões DC]]
