@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0008-criacao-e-divulgacao-semanal-da-agenda-cientifico-cultural/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:48.990-03:00","updated":"2024-02-11T11:18:06.693-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0008-criacao-e-divulgacao-semanal-da-agenda-cientifico-cultural/","tags":["💼/🎯/🛠️"],"created":"2024-02-14T12:36:19.940-03:00","updated":"2024-02-11T11:18:06.693-03:00"}
 ---
 
 
