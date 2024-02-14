@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0003-atividades-educativas-e-roteiros-expositivos/","tags":["💼/🎯/🛠️"],"created":"2024-02-05T11:59:48.939-03:00","updated":"2024-02-11T11:18:06.179-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0003-atividades-educativas-e-roteiros-expositivos/","tags":["💼/🎯/🛠️"],"created":"2024-02-14T12:36:19.852-03:00","updated":"2024-02-11T11:18:06.179-03:00"}
 ---
 
 
