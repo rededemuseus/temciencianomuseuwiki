@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/mapa/","tags":["💼"],"created":"2024-02-05T11:59:48.257-03:00","updated":"2024-02-05T11:44:12.135-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/mapa/","tags":["💼"],"created":"2024-02-14T12:36:17.390-03:00","updated":"2024-02-11T15:19:46.978-03:00"}
 ---
 
 
@@ -11,27 +11,14 @@
 
 ## Produtos pretendidos
 
-- [[Produtos/Oficinas para professores\|Oficinas para professores]]
-- [[Produtos/Experiências de Sucesso\|Experiências de Sucesso]]
-- [[Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
-- [[Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
-- [[Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
-- [[Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]
-- [[Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]
-- [[Produtos/Apresentação de Resumos\|Apresentação de Resumos]]
-- [[Produtos/Atendimento ao público\|Atendimento ao público]]
-- [[Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]
-- [[Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]
-- [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
-- [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]
-- [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]
 - [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
-- [[Portfólio online/Produtos/Publicações em mídias sociais\|Publicações em mídias sociais]]
 - [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]
 - [[Portfólio online/Produtos/Experiências de Sucesso\|Experiências de Sucesso]]
-- [[Portfólio online/Produtos/Apoio a Exposições e Roteiros\|Apoio a Exposições e Roteiros]]
+- [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
 - [[Portfólio online/Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]
 - [[Portfólio online/Produtos/Atendimento ao público\|Atendimento ao público]]
+- [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]
+- [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]
 - [[Portfólio online/Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]
 
 { .block-language-dataview}
@@ -39,9 +26,9 @@
 ### Metas
 
 - [[Portfólio online/Metas/Meta 1 - Circuito\|Meta 1 - Circuito]]: 
-    - [[Links/2024-01-25/Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google\|Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google]]
+    - [[Arquivo de Demandas Gerais/Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google\|Roteiro CEMENF - -Tem ciência no museu-- - Documentos Google]]
     - [[Arquivo de Demandas Gerais/Roteiro Circuito - CEMENF\|Roteiro Circuito - CEMENF]]
-    - [[Arquivo de Demandas Gerais/Roteiros TCM\|Roteiros TCM]]
+    - [[Roteiros TCM\|Roteiros TCM]]
 
 - [[Portfólio online/Metas/Meta 2 - Estande\|Meta 2 - Estande]]: 
     - [[Arquivo de Demandas Gerais/Estande TCM\|Estande TCM]]
@@ -52,7 +39,7 @@
 - [[Portfólio online/Metas/Meta 4 - Criação e Divulgação Agenda C-C\|Meta 4 - Criação e Divulgação Agenda C-C]]: \-
 - [[Portfólio online/Metas/Meta 5 - Divulgação e lançamento - Circuitos\|Meta 5 - Divulgação e lançamento - Circuitos]]: \-
 - [[Portfólio online/Metas/Meta 6 - Divulgação e Lançamento - Estande\|Meta 6 - Divulgação e Lançamento - Estande]]: 
-    - [[Arquivo de Demandas Gerais/Participação Mostra Sua UFMG\|Participação Mostra Sua UFMG]]
+    - [[Arquivo de Demandas Gerais/Participação Mostra Sua UFMG.md\|Participação Mostra Sua UFMG]]
     - [[Pesquisa - Mostra de profissões DC\|Pesquisa - Mostra de profissões DC]]
     - [[Arquivo de Demandas Gerais/Estande TCM\|Estande TCM]]
     - [[Portfólio online/Espaços/GT Divulgação Científica\|GEDIC]]
@@ -61,18 +48,12 @@
     - [[Arquivo de Demandas Gerais/Completas/2024-01-24 - Publico 2023 - Dados cruzados\|2024-01-24 - Publico 2023 - Dados cruzados]]
     - [[Arquivo de Demandas Gerais/Levantamento de publico total da matemática\|Levantamento de publico total da matemática]]
 
-- [[Portfólio online/Metas/Meta 8 - Visitas Educação Básica\|Meta 8 - Visitas Educação Básica]]: 
-    - [[Arquivo de Demandas Gerais/Completas/2024-01-24 - Publico 2023 - Dados cruzados\|2024-01-24 - Publico 2023 - Dados cruzados]]
-    - [[Arquivo de Demandas Gerais/Levantamento de publico total da matemática\|Levantamento de publico total da matemática]]
-    - [[Arquivo de Demandas Gerais/Participação Mostra Sua UFMG\|Participação Mostra Sua UFMG]]
-    - [[Arquivo de Demandas Gerais/Estande TCM\|Estande TCM]]
-
 - [[Portfólio online/Metas/Meta 9 - Formação para professores\|Meta 9 - Formação para professores]]: \-
 - [[Portfólio online/Metas/Meta 10 - Montagem do estande\|Meta 10 - Montagem do estande]]: \-
 - [[Portfólio online/Metas/Meta 11 - Divulgação Agenda C-C\|Meta 11 - Divulgação Agenda C-C]]: 
-    - [[Portfólio online/Newsletter Cientifico-Cultural painel\|Newsletter Cientifico-Cultural painel]]
+    - [[Portfólio online/Newsletter Cientifico-Cultural painel.md\|Newsletter Cientifico-Cultural painel]]
     - [[Arquivo de Demandas Gerais/Completas/Agenda newsletter reuniao\|Agenda newsletter reuniao]]
-    - [[Links/2024-01-25/Agenda CC para rs - Zapier\|Agenda CC para rs - Zapier]]
+    - [[Links/2024-01-25/Agenda CC para rs - Zapier.md\|Agenda CC para rs - Zapier]]
 
 - [[Portfólio online/Metas/Meta 14 - Oficinas presenciais\|Meta 14 - Oficinas presenciais]]: \-
 - [[Portfólio online/Metas/Meta 15 - Estande viajante\|Meta 15 - Estande viajante]]: 
@@ -89,7 +70,6 @@
 ### Métodos
 
 - [[Portfólio online/Métodos/Metodologia MN-0001 - Visitas técnicas\|Metodologia MN-0001 - Visitas técnicas]]: \-
-- [[Portfólio online/Métodos/Metodologia MN-0002 - Circuito\|Metodologia MN-0002 - Circuito]]: \-
 - [[Portfólio online/Métodos/Metodologia MN-0003 - atividades educativas e roteiros expositivos\|Metodologia MN-0003 - atividades educativas e roteiros expositivos]]: 
     - \-
 
@@ -113,8 +93,8 @@
 
 ## Espaços envolvidos
 
-- [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
 - [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]]
+- [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
 - [[Portfólio online/Espaços/Herbário Norte Mineiro\|Herbário Norte Mineiro]]
 - [[Portfólio online/Espaços/GT Divulgação Científica\|GT Divulgação Científica]]
 - [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]
@@ -126,5 +106,5 @@
 
 ## Nossas fontes
 
-- SISTEMA DE INFORMAÇÃO DA EXTENSÃO. **Projeto - 404699 - Educação científica em museus**. UFMG, , [s.d.]. Disponível em: [[https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#](https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#)](<app://obsidian.md/%5Bhttps://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#%5D(https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#>)). Acesso em: 16 jan. 2024
-- SENNA, M. I. B. **Plano de Trabalho_APQ-02923-22**. FAPEMIG, , 19 ago. 2022.
+- SISTEMA DE INFORMAÇÃO DA EXTENSÃO. **Projeto - 404699 - Educação científica em museus**. UFMG,, [s.d.]. Disponível em: [[https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#](https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#)](<app://obsidian.md/%5Bhttps://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#%5D(https://sistemas.ufmg.br/siex/VerHistorico.do?id=90586#>)). Acesso em: 16 jan. 2024
+- SENNA, M. I. B. **Plano de Trabalho_APQ-02923-22**. FAPEMIG,, 19 ago. 2022.
