@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/detalhamento-da-proposta/","tags":["💼/🧱"],"created":"2024-02-05T11:59:48.195-03:00","updated":"2024-02-11T11:18:05.748-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/detalhamento-da-proposta/","tags":["💼/🧱"],"created":"2024-02-14T12:36:17.218-03:00","updated":"2024-02-11T11:18:05.748-03:00"}
 ---
 
 
