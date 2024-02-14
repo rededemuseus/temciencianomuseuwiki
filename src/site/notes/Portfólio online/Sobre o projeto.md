@@ -5,8 +5,9 @@
 
 # Sobre o Projeto
 
-- [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
 - [[Portfólio online/Apresentação do projeto para professores\|Apresentação do projeto para professores]]
+- [[Portfólio online/APQ-02923-22 - Educação científica em museus\|APQ-02923-22 - Educação científica em museus]]
+- [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
 - [[Portfólio online/Metas tcm\|Metas tcm]]
 
 { .block-language-dataview}
