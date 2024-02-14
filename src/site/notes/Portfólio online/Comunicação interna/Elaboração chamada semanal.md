@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/comunicacao-interna/elaboracao-chamada-semanal/","tags":["💼/💬/🟨️"],"created":"2024-02-10T15:31:13.574-03:00","updated":"2024-02-05T16:23:53.678-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/comunicacao-interna/elaboracao-chamada-semanal/","tags":["💼/💬/🟨️"],"created":"2024-02-14T12:36:18.442-03:00","updated":"2024-02-05T16:23:53.678-03:00"}
 ---
 
 
