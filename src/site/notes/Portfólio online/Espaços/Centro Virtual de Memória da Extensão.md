@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/espacos/centro-virtual-de-memoria-da-extensao/","tags":["💼/📍"],"created":"2024-02-05T11:59:48.498-03:00","updated":"2024-02-05T18:55:44.571-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/espacos/centro-virtual-de-memoria-da-extensao/","tags":["💼/📍"],"created":"2024-02-14T12:36:18.724-03:00","updated":"2024-02-05T18:55:44.571-03:00"}
 ---
 
 
