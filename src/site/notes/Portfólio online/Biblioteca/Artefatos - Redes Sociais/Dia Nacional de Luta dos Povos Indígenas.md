@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/artefatos-redes-sociais/dia-nacional-de-luta-dos-povos-indigenas/","tags":["💼/⚗️/🌐"],"created":"2024-02-10T15:31:13.363-03:00","updated":"2024-02-11T11:18:05.901-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/artefatos-redes-sociais/dia-nacional-de-luta-dos-povos-indigenas/","tags":["💼/⚗️/🌐"],"created":"2024-02-14T12:36:18.043-03:00","updated":"2024-02-11T11:18:05.901-03:00"}
 ---
 
 
