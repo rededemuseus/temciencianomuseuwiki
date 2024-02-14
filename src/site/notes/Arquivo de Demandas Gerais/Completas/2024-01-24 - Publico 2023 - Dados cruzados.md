@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arquivo-de-demandas-gerais/completas/2024-01-24-publico-2023-dados-cruzados/","tags":["💼/📝️/🟩️"],"created":"2024-02-14T12:36:16.690-03:00","updated":"2024-02-05T11:46:24.000-03:00"}
+{"dg-publish":true,"permalink":"/arquivo-de-demandas-gerais/completas/2024-01-24-publico-2023-dados-cruzados/","tags":["💼/📝️/🟩️"],"created":"2024-02-14T12:36:16.690-03:00","updated":"2024-02-14T18:31:44.961-03:00"}
 ---
 
 
@@ -67,7 +67,7 @@ source: XX. Anexos/publico2023.csv
 |[[Escola Municipal Pedro de Alcântara Junior\|Escola Municipal Pedro de Alcântara Junior]]|
 |[[Escola Municipal Irmã Amandina Maria\|Escola Municipal Irmã Amandina Maria]]|
 ||
-|[[Escola Municipal Anne Frank\|Escola Municipal Anne Frank]]|
+|[[Portfólio online/Publico/2023-10-18 - Escola Municipal Anne Frank\|2023-10-18 - Escola Municipal Anne Frank]]|
 |[[Escola Municipal Dom Orione\|Escola Municipal Dom Orione]]|
 |Escola Municipal Dom Orione|
 |[[EM José Madureira Horta\|EM José Madureira Horta]]|
@@ -75,7 +75,7 @@ source: XX. Anexos/publico2023.csv
 |[[Escola Municipal Professora Alice Nacif\|Escola Municipal Professora Alice Nacif]]|
 |[[Escola Estadual Monsenhor Gustavo\|Escola Estadual Monsenhor Gustavo]]|
 |Escola Estadual Monsenhor Gustavo|
-|[[SNCT\|SNCT]]|
+|[[Portfólio online/Publico/2023-10-18 -  Herbário Norte Mineiro na 20a Semana Nacional da Ciência e Tecnologia\|2023-10-18 -  Herbário Norte Mineiro na 20a Semana Nacional da Ciência e Tecnologia]]|
 |[[exposição "Feiras de ciências: estudantes experimentam"\|exposição "Feiras de ciências: estudantes experimentam"]],|
 |pelo menos 17 escolas|
 |[[10ª Feira de Ciências do Norte de Minas Gerais e Vales do Jequitinhonha e Mucuri\|10ª Feira de Ciências do Norte de Minas Gerais e Vales do Jequitinhonha e Mucuri]]|
