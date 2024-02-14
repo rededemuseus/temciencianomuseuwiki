@@ -39,7 +39,7 @@
 - [[Portfólio online/Metas/Meta 4 - Criação e Divulgação Agenda C-C\|Meta 4 - Criação e Divulgação Agenda C-C]]: \-
 - [[Portfólio online/Metas/Meta 5 - Divulgação e lançamento - Circuitos\|Meta 5 - Divulgação e lançamento - Circuitos]]: \-
 - [[Portfólio online/Metas/Meta 6 - Divulgação e Lançamento - Estande\|Meta 6 - Divulgação e Lançamento - Estande]]: 
-    - [[Arquivo de Demandas Gerais/Participação Mostra Sua UFMG.md\|Participação Mostra Sua UFMG]]
+    - [[Participação Mostra Sua UFMG\|Participação Mostra Sua UFMG]]
     - [[Pesquisa - Mostra de profissões DC\|Pesquisa - Mostra de profissões DC]]
     - [[Arquivo de Demandas Gerais/Estande TCM\|Estande TCM]]
     - [[Portfólio online/Espaços/GT Divulgação Científica\|GEDIC]]
@@ -51,9 +51,9 @@
 - [[Portfólio online/Metas/Meta 9 - Formação para professores\|Meta 9 - Formação para professores]]: \-
 - [[Portfólio online/Metas/Meta 10 - Montagem do estande\|Meta 10 - Montagem do estande]]: \-
 - [[Portfólio online/Metas/Meta 11 - Divulgação Agenda C-C\|Meta 11 - Divulgação Agenda C-C]]: 
-    - [[Portfólio online/Newsletter Cientifico-Cultural painel.md\|Newsletter Cientifico-Cultural painel]]
+    - [[Newsletter Cientifico-Cultural painel\|Newsletter Cientifico-Cultural painel]]
     - [[Arquivo de Demandas Gerais/Completas/Agenda newsletter reuniao\|Agenda newsletter reuniao]]
-    - [[Links/2024-01-25/Agenda CC para rs - Zapier.md\|Agenda CC para rs - Zapier]]
+    - [[Agenda CC para rs - Zapier\|Agenda CC para rs - Zapier]]
 
 - [[Portfólio online/Metas/Meta 14 - Oficinas presenciais\|Meta 14 - Oficinas presenciais]]: \-
 - [[Portfólio online/Metas/Meta 15 - Estande viajante\|Meta 15 - Estande viajante]]: 
