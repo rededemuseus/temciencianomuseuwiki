@@ -3,7 +3,7 @@
 ---
 
 
-![Logo tem ciência no museu(sem fundo).png](/img/user/Anexos/Logo%20tem%20ci%C3%AAncia%20no%20museu(sem%20fundo).png)
+![Logo tem ciência no museu(sem fundo).png](/img/user/XX_Anexos/Logo%20tem%20ci%C3%AAncia%20no%20museu(sem%20fundo).png)
 
 # Tem Ciência no Museu?
 
