@@ -11,11 +11,11 @@
 - [[Portfólio online/Espaços/GT Divulgação Científica\|GEDIC]]
 
 - [ ] Criação semanal da Agenda Científico-Cultural da Rede de Museus da UFMG 📅 2024-02-06 🔁 every week 
-	- [ ] Instagram - [[Andrade, Sofia\|Sofia]]
-	- [ ] Email - [[Safaneta, Marta\|Marta]]
+	- [ ] Instagram - [[Portfólio online/Biblioteca/☎️/Andrade, Sofia\|Sofia]]
+	- [ ] Email - [[Portfólio online/Biblioteca/☎️/Safaneta, Marta\|Marta]]
 - [ ] Divulgação semanal da Agenda Científico-Cultural da Rede de Museus da UFMG 📅 2024-02-08 🔁 every week 
-	- [ ] Instagram - [[Safaneta, Marta\|Marta]]
+	- [ ] Instagram - [[Portfólio online/Biblioteca/☎️/Safaneta, Marta\|Marta]]
 		- [ ] Links
-	- [ ] Email - [[Safaneta, Marta\|Marta]]
-		- [ ] Enviar para [[Fonseca, Rúbia\|rubiafonseca@hotmail.com]]
+	- [ ] Email - [[Portfólio online/Biblioteca/☎️/Safaneta, Marta\|Marta]]
+		- [ ] Enviar para [[Portfólio online/Biblioteca/☎️/Fonseca, Rúbia\|rubiafonseca@hotmail.com]]
 		- [ ] Enviar para [[Arquivo de Demandas Gerais/Completas/Lista de emails\|Lista de emails]]
