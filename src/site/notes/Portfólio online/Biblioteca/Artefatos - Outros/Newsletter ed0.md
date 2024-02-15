@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/artefatos-outros/newsletter-ed0/","tags":["💼/⚗️/📝️"],"created":"2024-02-14T12:36:17.915-03:00","updated":"2024-02-06T21:11:05.081-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/artefatos-outros/newsletter-ed0/","tags":["💼/⚗️/🖋️"],"created":"2024-02-14T12:36:17.915-03:00","updated":"2024-02-15T14:57:23.571-03:00"}
 ---
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
