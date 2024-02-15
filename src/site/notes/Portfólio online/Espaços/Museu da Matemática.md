@@ -17,6 +17,7 @@
 - [[Portfólio online/Publico/2023-12-13 - Escola Estadual Interventor Alcides Lins 2\|2023-12-13 - Escola Estadual Interventor Alcides Lins 2]]
 - [[Portfólio online/Publico/2023-12-05 - Yaksibith Yohana Conde Artigas\|2023-12-05 - Yaksibith Yohana Conde Artigas]]
 - [[Portfólio online/Publico/2023-11-28 - Escola Municipal Dom Orione\|2023-11-28 - Escola Municipal Dom Orione]]
+- [[Portfólio online/Publico/2023-11-28 - Escola Municipal Dom Orione 2\|2023-11-28 - Escola Municipal Dom Orione 2]]
 - [[Portfólio online/Publico/2023-11-24 - 1ª Feira de Profissões + Técnica da Cidade dos Meninos São Vicente de Paulo\|2023-11-24 - 1ª Feira de Profissões + Técnica da Cidade dos Meninos São Vicente de Paulo]]
 - [[Portfólio online/Publico/2023-11-23 - Escola Municipal Dom Orione\|2023-11-23 - Escola Municipal Dom Orione]]
 - [[Portfólio online/Publico/2023-11-21 - Escola Municipal Dom Orione\|2023-11-21 - Escola Municipal Dom Orione]]
@@ -40,6 +41,7 @@
 - [[Portfólio online/Métodos/Metodologia MN-0014 - Videopitches\|Metodologia MN-0014 - Videopitches]]
 - [[Portfólio online/Métodos/Metodologia MN-0013 - Estande viajantes\|Metodologia MN-0013 - Estande viajantes]]
 - [[Portfólio online/Métodos/Metodologia MN-0012 - Preparação do estande\|Metodologia MN-0012 - Preparação do estande]]
+- [[Portfólio online/Métodos/Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições\|Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições]]
 - [[Portfólio online/Métodos/Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros\|Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros]]
 - [[Portfólio online/Métodos/Metodologia MN-0005 - Materiais Didático-Pedagógicos\|Metodologia MN-0005 - Materiais Didático-Pedagógicos]]
 - [[Portfólio online/Métodos/Metodologia MN-0004 - Visitas técnicas dos professores\|Metodologia MN-0004 - Visitas técnicas dos professores]]
@@ -60,8 +62,6 @@
 - [[Arquivo de Demandas Gerais/Reuniões de articulação entre a equipe (internas e externas) - memória 2023\|Reuniões de articulação entre a equipe (internas e externas) - memória 2023]]
 - [[00_Configuracoes/MetodologiasTCM\|MetodologiasTCM]]
 - [[00_Configuracoes/MetaTCM\|MetaTCM]]
-- [[Portfólio online/Publico/2023-11-28 - Escola Municipal Dom Orione 2\|2023-11-28 - Escola Municipal Dom Orione 2]]
-- [[Portfólio online/Métodos/Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições\|Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições]]
 
 
 { .block-language-dataview}
