@@ -27,7 +27,13 @@
 - [[Arquivo de Demandas Gerais/Completas/Circuito CEDOC-FAE\|Circuito CEDOC-FAE]]
 - [[Arquivo de Demandas Gerais/Completas/Reunião Rede-CEMENF 08-14\|Reunião Rede-CEMENF 08-14]]
 - [[Arquivo de Demandas Gerais/Roteiro Circuito - CEMENF\|Roteiro Circuito - CEMENF]]
+- [[Portfólio online/Espaços/Centro de Memória da Escola de Enfermagem\|Centro de Memória da Escola de Enfermagem]]
+- [[Portfólio online/Espaços/Centro de Memória da Medicina\|Centro de Memória da Medicina]]
+- [[Portfólio online/Espaços/Centro de Memória da Odontologia\|Centro de Memória da Odontologia]]
+- [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]
+- [[Portfólio online/Espaços/Herbário Norte Mineiro\|Herbário Norte Mineiro]]
 - [[Portfólio online/Metas tcm\|Metas tcm]]
 - [[Portfólio online/Publico/2023\|2023]]
+- [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
 
 { .block-language-dataview}
