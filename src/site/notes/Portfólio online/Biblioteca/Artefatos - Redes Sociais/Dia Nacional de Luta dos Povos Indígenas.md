@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/artefatos-redes-sociais/dia-nacional-de-luta-dos-povos-indigenas/","tags":["💼/⚗️/🌐"],"created":"2024-02-14T12:36:18.043-03:00","updated":"2024-02-14T13:15:05.181-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/artefatos-redes-sociais/dia-nacional-de-luta-dos-povos-indigenas/","tags":["💼/⚗️/🌐"],"created":"2024-02-14T12:36:18.043-03:00","updated":"2024-02-14T19:42:20.650-03:00"}
 ---
 
 
@@ -21,7 +21,7 @@ A data relembra a morte do líder indígena guarani Sepé Tiaraju, em 1756, dura
 Sepé Tiaraju liderou uma revolta contra o Tratado de Madri, que dividia a América do Sul entre portugueses e espanhóis, e defendeu a manutenção dos territórios indígenas
 
 ![[../../../../../XX. Anexos/recursos/Dia Nacional de Luta dos Povos Indígenas/8422e506a993b19e5bb1def7abebd6ef_MD5.png\|../../../../../XX. Anexos/recursos/Dia Nacional de Luta dos Povos Indígenas/8422e506a993b19e5bb1def7abebd6ef_MD5.png]]
-![Anexos/51a660c7142e6bb5e1eedad6eaea4b60_MD5.png](/img/user/Anexos/51a660c7142e6bb5e1eedad6eaea4b60_MD5.png)
+![51a660c7142e6bb5e1eedad6eaea4b60_MD5.png](/img/user/XX_Anexos/51a660c7142e6bb5e1eedad6eaea4b60_MD5.png)
 
 Foi de Sepé a frase "esta terra tem dono". O dia é uma oportunidade de reflexão sobre a situação dos indígenas, o respeito à sua cultura, tradições e direito à terra.
 
