@@ -13,7 +13,8 @@ Grupo com encontros e produção asincrona e remota.
 
 ## Arquivos com menção a este
 
-- - [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
+- - [[Newsletter Cientifico-Cultural painel\|Newsletter Cientifico-Cultural painel]]
+- [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
 - [[Portfólio online/Publico/2023-11-24 - 1ª Feira de Profissões + Técnica da Cidade dos Meninos São Vicente de Paulo\|2023-11-24 - 1ª Feira de Profissões + Técnica da Cidade dos Meninos São Vicente de Paulo]]
 - [[Portfólio online/Publico/2023-09-07 - Domingo no Campus\|2023-09-07 - Domingo no Campus]]
 - [[Portfólio online/Métodos/Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica\|Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica]]
@@ -22,6 +23,7 @@ Grupo com encontros e produção asincrona e remota.
 - [[Portfólio online/Métodos/Metodologia MN-0014 - Videopitches\|Metodologia MN-0014 - Videopitches]]
 - [[Portfólio online/Métodos/Metodologia MN-0013 - Estande viajantes\|Metodologia MN-0013 - Estande viajantes]]
 - [[Portfólio online/Métodos/Metodologia MN-0012 - Preparação do estande\|Metodologia MN-0012 - Preparação do estande]]
+- [[Portfólio online/Métodos/Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições\|Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições]]
 - [[Portfólio online/Métodos/Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros\|Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros]]
 - [[Portfólio online/Métodos/Metodologia MN-0008 - Criação e divulgação semanal da Agenda Científico-Cultural\|Metodologia MN-0008 - Criação e divulgação semanal da Agenda Científico-Cultural]]
 - [[Portfólio online/Métodos/Metodologia MN-0006 - treinamento e capacitação dos estudantes da UFMG para a mediação de educação científica em museus\|Metodologia MN-0006 - treinamento e capacitação dos estudantes da UFMG para a mediação de educação científica em museus]]
@@ -43,22 +45,21 @@ Grupo com encontros e produção asincrona e remota.
 - [[Portfólio online/Metas/Meta 10 - Montagem do estande\|Meta 10 - Montagem do estande]]
 - [[Portfólio online/Estande - painel 1\|Estande - painel 1]]
 - [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
+- [[Portfólio online/Biblioteca/Semana nas redes/Semana nas redes - painel\|Semana nas redes - painel]]
 - [[Portfólio online/Biblioteca/Semana nas redes/Semana nas redes\|Semana nas redes]]
 - [[Portfólio online/Biblioteca/Semana nas redes/Semana nas redes 4\|Semana nas redes 4]]
-- [[Portfólio online/Biblioteca/Semana nas redes/Semana nas redes - painel\|Semana nas redes - painel]]
-- [[Portfólio online/Biblioteca/Artefatos - Redes Sociais/Dia Nacional de Luta dos Povos Indígenas\|Dia Nacional de Luta dos Povos Indígenas]]
 - [[Portfólio online/Biblioteca/Artefatos - Redes Sociais/👋 Convidamos você seus alunos e sua instituição de ensino para visitar um de nossos circuitos\|👋 Convidamos você seus alunos e sua instituição de ensino para visitar um de nossos circuitos]]
 - [[Portfólio online/Biblioteca/Artefatos - Redes Sociais/🌟 Descubra o fascinante mundo da... - Rede de Museus da UFMG - Facebook\|🌟 Descubra o fascinante mundo da... - Rede de Museus da UFMG - Facebook]]
 - [[Portfólio online/Biblioteca/Artefatos - Redes Sociais/🌍✨ Dia Internacional da Educação e Combate ao Discurso de Ódio\|🌍✨ Dia Internacional da Educação e Combate ao Discurso de Ódio]]
+- [[Portfólio online/Biblioteca/Artefatos - Redes Sociais/Dia Nacional de Luta dos Povos Indígenas\|Dia Nacional de Luta dos Povos Indígenas]]
 - [[Portfólio online/Biblioteca/Artefatos - Outros/semana 6 - XXIV-0001\|semana 6 - XXIV-0001]]
-- [[Portfólio online/Biblioteca/Agenda C-C/Carnaval (Terça-feira)\|Carnaval (Terça-feira)]]
-- [[Portfólio online/Biblioteca/Agenda C-C/Cinzas (até 14 horas)\|Cinzas (até 14 horas)]]
 - [[Portfólio online/Biblioteca/Agenda C-C/Sábado de Carnaval\|Sábado de Carnaval]]
 - [[Portfólio online/Biblioteca/Agenda C-C/Sexta-Feira de Carnaval\|Sexta-Feira de Carnaval]]
-- [[Portfólio online/Biblioteca/Agenda C-C/Carnaval (Segunda-feira)\|Carnaval (Segunda-feira)]]
 - [[Portfólio online/Biblioteca/Agenda C-C/Domingo de Carnaval\|Domingo de Carnaval]]
+- [[Portfólio online/Biblioteca/Agenda C-C/Cinzas (até 14 horas)\|Cinzas (até 14 horas)]]
+- [[Portfólio online/Biblioteca/Agenda C-C/Carnaval (Terça-feira)\|Carnaval (Terça-feira)]]
+- [[Portfólio online/Biblioteca/Agenda C-C/Carnaval (Segunda-feira)\|Carnaval (Segunda-feira)]]
 - [[Portfólio online/Apresentação do projeto para professores\|Apresentação do projeto para professores]]
-- [[Newsletter Cientifico-Cultural painel\|Newsletter Cientifico-Cultural painel]]
 - [[Arquivo de Demandas Gerais/Roteiros de DC\|Roteiros de DC]]
 - [[Arquivo de Demandas Gerais/Reuniões de articulação entre a equipe (internas e externas) - memória 2023\|Reuniões de articulação entre a equipe (internas e externas) - memória 2023]]
 - [[Arquivo de Demandas Gerais/Reunião professora\|Reunião professora]]
@@ -69,7 +70,6 @@ Grupo com encontros e produção asincrona e remota.
 - [[00_Configuracoes/MetodologiasTCM\|MetodologiasTCM]]
 - [[00_Configuracoes/MetaTCM\|MetaTCM]]
 - [[00_Configuracoes/Agenda CC Temp\|Agenda CC Temp]]
-- [[Portfólio online/Métodos/Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições\|Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições]]
 
 
 { .block-language-dataview}
