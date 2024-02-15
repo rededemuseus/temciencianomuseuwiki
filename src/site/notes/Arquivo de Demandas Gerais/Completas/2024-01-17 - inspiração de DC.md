@@ -34,5 +34,5 @@ INPUT[multiSelect(class(multiselectpess),option([[Apoio a Exposições e Roteiro
 ![[WhatsApp Image 2024-01-17 at 09.27.51.jpeg\|WhatsApp Image 2024-01-17 at 09.27.51.jpeg]]
 ![[WhatsApp Image 2024-01-17 at 09.30.00.jpeg\|WhatsApp Image 2024-01-17 at 09.30.00.jpeg]]![[WhatsApp Image 2024-01-17 at 09.29.29.jpeg\|WhatsApp Image 2024-01-17 at 09.29.29.jpeg]]
 ![[HiPaint_1705504265567.png\|HiPaint_1705504265567.png]]
-Arte por [[Safaneta, Marta\|Marta Safaneta]]
+Arte por [[Portfólio online/Biblioteca/☎️/Safaneta, Marta\|Marta Safaneta]]
 
