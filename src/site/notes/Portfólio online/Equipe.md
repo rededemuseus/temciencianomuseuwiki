@@ -1,11 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/equipe/","tags":["mdc"],"created":"2024-02-14T12:36:17.292-03:00","updated":"2024-02-05T18:09:39.306-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/equipe/","tags":["mdc"],"created":"2024-02-14T12:36:17.292-03:00","updated":"2024-02-15T16:02:29.597-03:00"}
 ---
 
-
+Página atualizada em 2024-02-15 às 15:53
 # Equipe ativa
 
-| File | Cargo | Instituição |
-| ---- | ----- | ----------- |
+| File                                                                                 | Cargo                               | Espaço                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Portfólio online/Biblioteca/☎️/Andrade, Sofia\|Andrade, Sofia]]                 | <ul><li>Bolsista</li></ul>          | <ul><li>[[Portfólio online/Espaços/GT Divulgação Científica.md\\|GT Divulgação Científica]]</li></ul>                                                                                                                               |
+| [[Portfólio online/Biblioteca/☎️/Avelar, Ana\|Avelar, Ana]]                       | <ul><li>Bolsista</li></ul>          | <ul><li>[[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação.md\\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]</li></ul>                                           |
+| [[Portfólio online/Biblioteca/☎️/Barreiros Senna, Maria\|Barreiros Senna, Maria]] | <ul><li>Coordenadora</li></ul>      | <ul><li>[[Portfólio online/Espaços/Centro de Memória da Odontologia.md\\|Centro de Memória da Odontologia]]</li><li>[[Portfólio online/Espaços/Núcleo Técnico Científico da Rede.md\\|Núcleo Técnico Científico da Rede]]</li></ul> |
+| [[Portfólio online/Biblioteca/☎️/Cedoc-Fae, Eliezer\|Cedoc-Fae, Eliezer]]         | <ul><li>Coordenador</li></ul>       | <ul><li>[[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação.md\\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]</li></ul>                                           |
+| [[Portfólio online/Biblioteca/☎️/Fernandes, Amabile\|Fernandes, Amabile]]         | <ul><li>Bolsista</li></ul>          | <ul><li>[[Portfólio online/Espaços/GT Divulgação Científica.md\\|GT Divulgação Científica]]</li><li>[[Portfólio online/Espaços/Centro de Memória da Medicina.md\\|Centro de Memória da Medicina]]</li></ul>                         |
+| [[Portfólio online/Biblioteca/☎️/Fonseca, Rúbia\|Fonseca, Rúbia]]                 | <ul><li>Coordenadora</li></ul>      | <ul><li>[[Portfólio online/Espaços/Herbário Norte Mineiro.md\\|Herbário Norte Mineiro]]</li></ul>                                                                                                                                   |
+| [[Portfólio online/Biblioteca/☎️/Fortunato, Gabriela\|Fortunato, Gabriela]]       | <ul><li>Bolsista</li></ul>          | <ul><li>[[Portfólio online/Espaços/Centro de Memória da Escola de Enfermagem.md\\|Centro de Memória da Escola de Enfermagem]]</li><li>[[Portfólio online/Espaços/GT Divulgação Científica.md\\|GT Divulgação Científica]]</li></ul> |
+| [[Portfólio online/Biblioteca/☎️/Giraldo, Carmen\|Giraldo, Carmen]]               | <ul><li>Coordenadora</li></ul>      | <ul><li>[[Portfólio online/Espaços/Museu da Matemática.md\\|Museu da Matemática]]</li></ul>                                                                                                                                         |
+| [[Portfólio online/Biblioteca/☎️/Monteiro, Frederico\|Monteiro, Frederico]]       | <ul><li>Bolsista</li></ul>          | <ul><li>[[Portfólio online/Espaços/GT Divulgação Científica.md\\|GT Divulgação Científica]]</li><li>[[Portfólio online/Espaços/Centro de Memória da Escola de Enfermagem.md\\|Centro de Memória da Escola de Enfermagem]]</li></ul> |
+| [[Portfólio online/Biblioteca/☎️/Moreira, Lorena\|Moreira, Lorena]]               | <ul><li>Bolsista</li></ul>          | <ul><li>[[Portfólio online/Espaços/Centro de Memória da Odontologia.md\\|Centro de Memória da Odontologia]]</li><li>[[Portfólio online/Espaços/GT Divulgação Científica.md\\|GT Divulgação Científica]]</li></ul>                   |
+| [[Portfólio online/Biblioteca/☎️/Pelizati, Lorrayne\|Pelizati, Lorrayne]]         | <ul><li>Bolsista</li></ul>          | <ul><li>[[Portfólio online/Espaços/Museu da Matemática.md\\|Museu da Matemática]]</li></ul>                                                                                                                                         |
+| [[Portfólio online/Biblioteca/☎️/Safaneta, Marta\|Safaneta, Marta]]               | <ul><li>BDCTI–III/FAPEMIG</li></ul> | <ul><li>[[Portfólio online/Espaços/GT Divulgação Científica.md\\|GT Divulgação Científica]]</li><li>[[Portfólio online/Espaços/Núcleo Técnico Científico da Rede.md\\|Núcleo Técnico Científico da Rede]]</li></ul>                 |
+| [[Portfólio online/Biblioteca/☎️/Santos, Fernanda\|Santos, Fernanda]]             | <ul><li>Coordenadora</li></ul>      | <ul><li>[[Portfólio online/Espaços/Centro de Memória da Escola de Enfermagem.md\\|Centro de Memória da Escola de Enfermagem]]</li></ul>                                                                                             |
+
+{ .block-language-dataview}
+
+
+### Já colaboraram com o projeto
+
+| File                                                                                 | Cargo                      | Espaço                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------ | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Portfólio online/Biblioteca/☎️/Fernanda Couto\|Fernanda Couto]]                 | <ul><li>Bolsista</li></ul> | <ul><li>[[Portfólio online/Espaços/Centro de Memória da Medicina.md\\|Centro de Memória da Medicina]]</li><li>[[Portfólio online/Espaços/GT Divulgação Científica.md\\|GT Divulgação Científica]]</li></ul>                         |
+| [[Portfólio online/Biblioteca/☎️/Sophia Ulhoa\|Sophia Ulhoa]]                     | <ul><li>Bolsista</li></ul> | <ul><li>[[Portfólio online/Espaços/GT Divulgação Científica.md\\|GT Divulgação Científica]]</li></ul>                                                                                                                               |
+| [[Portfólio online/Biblioteca/☎️/Dominic Malaquias Braz\|Dominic Malaquias Braz]] | <ul><li>Bolsista</li></ul> | <ul><li>[[Portfólio online/Espaços/GT Divulgação Científica.md\\|GT Divulgação Científica]]</li><li>[[Portfólio online/Espaços/Centro de Memória da Escola de Enfermagem.md\\|Centro de Memória da Escola de Enfermagem]]</li></ul> |
 
 { .block-language-dataview}
