@@ -3,4 +3,4 @@
 ---
 
 
-![](XX_Anexos/cropped-cropped-logomarca-cememor-01.png)
+![](/img/user/XX_Anexos/cropped-cropped-logomarca-cememor-01.png)
