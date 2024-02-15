@@ -5,7 +5,7 @@
 
 # Projeto *Tem Ciência no Museu?*
 
-![Logo tem ciência no museu(sem fundo).png|500](/img/user/Anexos/Logo%20tem%20ci%C3%AAncia%20no%20museu(sem%20fundo).png)
+![Logo tem ciência no museu(sem fundo).png|500](/img/user/XX_Anexos/Logo%20tem%20ci%C3%AAncia%20no%20museu(sem%20fundo).png)
 
 O projeto visa promover a educação cientíﬁca e o treinamento cientíﬁco para visitantes da comunidade em geral, professores e estudantes da educação básica, por meio de experiências imersivas nos acervos da Rede de Museus da UFMG (Universidade Federal de Minas Gerais), com o apoio da FAPEMIG. A justiﬁcativa para a realização do projeto é a importância da divulgação cientíﬁca e da utilização de espaços não formais, como museus e centros culturais, para a educação cientíﬁca da população.
 
