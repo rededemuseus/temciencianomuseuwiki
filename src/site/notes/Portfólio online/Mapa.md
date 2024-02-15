@@ -96,8 +96,8 @@
 
 ## Espaços envolvidos
 
-- [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]]
 - [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
+- [[Portfólio online/Espaços/Núcleo Técnico Científico da Rede\|Núcleo Técnico Científico da Rede]]
 - [[Portfólio online/Espaços/Herbário Norte Mineiro\|Herbário Norte Mineiro]]
 - [[Portfólio online/Espaços/GT Divulgação Científica\|GT Divulgação Científica]]
 - [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]
