@@ -3,7 +3,7 @@
 ---
 
 
-![curt](XX_Anexos/curt.jpg)
+![curt](/img/user/XX_Anexos/curt.jpg)
 
 Bem vindo (a) à nova página do Acervo Curt Lange, na Universidade Federal de Minas Gerais – UFMG.
 
