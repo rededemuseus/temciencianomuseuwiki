@@ -55,4 +55,4 @@ Sistema implementado em 2024-02-06. Monitoramento iniciado em 2024-01.
 { .block-language-dataview}
 
 ***
-Criado e mantido por [[Safaneta, Marta\|Marta Safaneta]]. Usando o software *Obsidian MD*, com os plugins *Dataview* e *Auto note mover*. Veja o *template* em uso [[00. Obsidian/Templates/TCM/Semana nas redes\|aqui]].
+Criado e mantido por [[Portfólio online/Biblioteca/☎️/Safaneta, Marta\|Marta Safaneta]]. Usando o software *Obsidian MD*, com os plugins *Dataview* e *Auto note mover*. Veja o *template* em uso [[00. Obsidian/Templates/TCM/Semana nas redes\|aqui]].
