@@ -52,7 +52,7 @@
 - [[Arquivo de Demandas Gerais/Reuniões de articulação entre a equipe (internas e externas) - memória 2023\|Reuniões de articulação entre a equipe (internas e externas) - memória 2023]]
 - [[00_Configuracoes/MetodologiasTCM\|MetodologiasTCM]]
 - [[00_Configuracoes/MetaTCM\|MetaTCM]]
-- [[Arquivo de Demandas Gerais/Falar com Rúbia\|Falar com Rúbia]]
+- [[Inbox/Falar com Rúbia\|Falar com Rúbia]]
 
 
 { .block-language-dataview}
