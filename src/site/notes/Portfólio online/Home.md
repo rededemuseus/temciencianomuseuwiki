@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/home/","tags":["💼/🌐","gardenEntry","gardenEntry"],"created":"2024-02-14T12:36:17.363-03:00","updated":"2024-02-14T13:19:07.536-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/home/","tags":["💼/🌐","gardenEntry"],"created":"2024-02-14T12:36:17.363-03:00","updated":"2024-02-15T16:41:58.053-03:00"}
 ---
 
 
@@ -23,13 +23,13 @@ Outras redes: [https://linktr.ee/rededemuseus](https://linktr.ee/rededemuseus)
 
 ## Navegação:
 
-- [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
-- [[Portfólio online/Newsletter Cientifico-Cultural\|Newsletter Cientifico-Cultural]]
+- [[Portfólio online/Mapa e glossário de tags\|Mapa e glossário de tags]]
 - [[Portfólio online/Espaços\|Espaços]]
 - [[Portfólio online/Equipe\|Equipe]]
 - [[Portfólio online/Comunicação interna\|Comunicação interna]]
 - [[Portfólio online/Artefatos produzidos\|Artefatos produzidos]]
 - [[Portfólio online/Agenda Cientifico-Cultural\|Agenda Cientifico-Cultural]]
+- [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
 
 { .block-language-dataview}
 
