@@ -32,8 +32,8 @@
 - [[Portfólio online/Espaços/Centro de Memória da Odontologia\|Centro de Memória da Odontologia]]
 - [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]
 - [[Portfólio online/Espaços/Herbário Norte Mineiro\|Herbário Norte Mineiro]]
+- [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
 - [[Portfólio online/Metas tcm\|Metas tcm]]
 - [[Portfólio online/Publico/2023\|2023]]
-- [[Portfólio online/Espaços/Museu da Matemática\|Museu da Matemática]]
 
 { .block-language-dataview}
