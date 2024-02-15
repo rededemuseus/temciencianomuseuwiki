@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0010-recebimento-dos-visitantes-aos-espacos-exposicoes/","tags":["💼/🎯/🛠️"],"created":"2024-02-14T12:36:19.972-03:00","updated":"2024-02-14T19:09:26.929-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/metodos/metodologia-mn-0010-recebimento-dos-visitantes-aos-espacos-exposicoes/","tags":["💼/🎯/🛠️"],"created":"2024-02-14T12:36:19.972-03:00","updated":"2024-02-14T19:17:38.757-03:00"}
 ---
 
 
