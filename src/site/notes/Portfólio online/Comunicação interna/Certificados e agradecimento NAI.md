@@ -3,10 +3,10 @@
 ---
 
 
-![Convite Treinamento NAI (4).png](/img/user/Anexos/Convite%20Treinamento%20NAI%20(4).png)
+![Convite Treinamento NAI (4).png](/img/user/XX_Anexos/Convite%20Treinamento%20NAI%20(4).png)
 
 O treinamento e capacitação com o Núcleo de Inclusão e Acessibilidade foi um sucesso!
 
 Agradecemos imensamente a todos os espaços que enviaram representantes para o evento, a participação de todos foi fundamental para o sucesso dessa iniciativa. Gostaríamos de convidá-los a encaminhar esta mensagem para os bolsistas que participaram, para que possam obter seus certificados de participação 
 
-![rodapeprojeto.png](/img/user/Anexos/rodapeprojeto.png)
+![rodapeprojeto.png](/img/user/XX_Anexos/rodapeprojeto.png)
