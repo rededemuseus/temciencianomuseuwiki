@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/comunicacao-interna/convite-treinamento-nai/","tags":["💼/💬/🟩️"],"created":"2024-02-14T12:36:18.413-03:00","updated":"2024-02-05T11:25:57.781-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/comunicacao-interna/convite-treinamento-nai/","tags":["💼/💬/🟩️"],"created":"2024-02-14T12:36:18.413-03:00","updated":"2024-02-15T15:07:14.457-03:00"}
 ---
 
 
