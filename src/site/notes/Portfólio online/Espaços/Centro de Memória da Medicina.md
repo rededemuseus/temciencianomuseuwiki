@@ -1,42 +1,46 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/espacos/centro-de-memoria-da-medicina/","tags":["💼/📍"],"created":"2024-02-14T12:36:18.622-03:00","updated":"2024-02-05T18:55:23.824-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/espacos/centro-de-memoria-da-medicina/","tags":["💼/📍"],"created":"2024-02-14T12:36:18.622-03:00","updated":"2024-02-15T13:10:12.985-03:00"}
 ---
 
-
+Página atualizada em 2024-02-15 às 12:55
+***
 # Centro de Memória da Medicina
 
 - [x] Adicionar geolocalização ✅ 2024-02-03
 
-## Conteúdo produzido
+
+No total, o CEMEMOR recebeu 
+
+{ .block-language-dataview}
+visitas ao [[Portfólio online/Metas/Meta 1 - Circuito\|Circuito Expositivo]] Tem Ciência no Museu.
+
+## Artefatos relacionados
+Explore nossa Biblioteca de artefatos didático-pedagógico relacionado a este espaço:
+
+| File | Tipo | keywords |
+| ---- | ---- | -------- |
+
+{ .block-language-dataview}
 
 ## Visitas TCM
+| File | Qtde. Visitantes | Escolaridade | Tipo de instituição |
+| ---- | ---------------- | ------------ | ------------------- |
 
-## Arquivos com menção a este
+{ .block-language-dataview}
 
-- - [[Portfólio online/Métodos/Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica\|Metodologia MN-0017 - Articulação & participação em eventos voltados para a Educação Básica]]
-- [[Portfólio online/Métodos/Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação\|Metodologia MN-0016 - Reuniões de planejamento monitoramento e a avaliação]]
-- [[Portfólio online/Métodos/Metodologia MN-0014 - Videopitches\|Metodologia MN-0014 - Videopitches]]
-- [[Portfólio online/Métodos/Metodologia MN-0013 - Estande viajantes\|Metodologia MN-0013 - Estande viajantes]]
-- [[Portfólio online/Métodos/Metodologia MN-0012 - Preparação do estande\|Metodologia MN-0012 - Preparação do estande]]
-- [[Portfólio online/Métodos/Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições\|Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições]]
-- [[Portfólio online/Métodos/Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros\|Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros]]
-- [[Portfólio online/Métodos/Metodologia MN-0005 - Materiais Didático-Pedagógicos\|Metodologia MN-0005 - Materiais Didático-Pedagógicos]]
-- [[Portfólio online/Métodos/Metodologia MN-0004 - Visitas técnicas dos professores\|Metodologia MN-0004 - Visitas técnicas dos professores]]
-- [[Portfólio online/Métodos/Metodologia MN-0003 - atividades educativas e roteiros expositivos\|Metodologia MN-0003 - atividades educativas e roteiros expositivos]]
-- [[Portfólio online/Métodos/Metodologia MN-0001 - Visitas técnicas\|Metodologia MN-0001 - Visitas técnicas]]
-- [[Portfólio online/Metas/Meta 7 - Visitas Amplo Público\|Meta 7 - Visitas Amplo Público]]
-- [[Portfólio online/Metas/Meta 6 - Divulgação e Lançamento - Estande\|Meta 6 - Divulgação e Lançamento - Estande]]
-- [[Portfólio online/Metas/Meta 5 - Divulgação e lançamento - Circuitos\|Meta 5 - Divulgação e lançamento - Circuitos]]
-- [[Portfólio online/Metas/Meta 2 - Estande\|Meta 2 - Estande]]
-- [[Portfólio online/Metas/Meta 17 - Divulgação semanal Agenda C-C\|Meta 17 - Divulgação semanal Agenda C-C]]
-- [[Portfólio online/Metas/Meta 16 - Videopitches\|Meta 16 - Videopitches]]
-- [[Portfólio online/Metas/Meta 15 - Estande viajante\|Meta 15 - Estande viajante]]
-- [[Portfólio online/Metas/Meta 10 - Montagem do estande\|Meta 10 - Montagem do estande]]
-- [[Portfólio online/Metas/Meta 1 - Circuito\|Meta 1 - Circuito]]
-- [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
-- [[Arquivo de Demandas Gerais/Roteiro Circuito - CEMENF\|Roteiro Circuito - CEMENF]]
-- [[00_Configuracoes/MetodologiasTCM\|MetodologiasTCM]]
-- [[00_Configuracoes/MetaTCM\|MetaTCM]]
+
+## Referências
 
 
 { .block-language-dataview}
+
+
+
+***
+Esta página é atualizada automaticamente através dos *Plugins [[Dataview\|Dataview]]* e *[[Digital Garden\|Digital Garden]]* no software *[[Obsidian.MD\|Obsidian.MD]]*. Com o primeiro, para nunca falharmos uma atualização, fazemos uma chamada dinâmica do metadado `updated` gerado pelo programa.
+
+Os cabeçalhos `artefatos relacionados` e `visitas TCM` têm planilhas habitadas por resultados dinâmicos, que chamam resultados pela tag `#💼/⚗️` (Artefatos de DC) e `#💼/📇` (Visita) ondo o espaço marcado nesta nota também está marcado, no caso [[Portfólio online/Espaços/Centro de Memória da Medicina\|Centro de Memória da Medicina]].
+Já o `referências` busca na pasta `Fontes` menções a este espaço, para conectar mais as notas.
+
+A contagem de visitas também se dá de forma dinâmica e pelo mesmo *plugin*, apenas usando outra *query*. 
+Para publicar o dados online usamos o *Digital Garden* e o [GitHub](https://github.com/rededemuseus/temciencianomuseuwiki), se alinhando assim de duas formas com métodos de Ciência Aberta. O propósito deste sistema é evitar redundâncias de trabalho, usando assim a mesma plataforma como organização e publicação, facilitando o fluxo comunicacional.
