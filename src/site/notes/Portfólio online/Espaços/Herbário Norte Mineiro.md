@@ -31,6 +31,7 @@
 - [[Portfólio online/Métodos/Metodologia MN-0014 - Videopitches\|Metodologia MN-0014 - Videopitches]]
 - [[Portfólio online/Métodos/Metodologia MN-0013 - Estande viajantes\|Metodologia MN-0013 - Estande viajantes]]
 - [[Portfólio online/Métodos/Metodologia MN-0012 - Preparação do estande\|Metodologia MN-0012 - Preparação do estande]]
+- [[Portfólio online/Métodos/Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições\|Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições]]
 - [[Portfólio online/Métodos/Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros\|Metodologia MN-0009 - Divulgação e Lançamento das 06 exposições e dos roteiros]]
 - [[Portfólio online/Métodos/Metodologia MN-0005 - Materiais Didático-Pedagógicos\|Metodologia MN-0005 - Materiais Didático-Pedagógicos]]
 - [[Portfólio online/Métodos/Metodologia MN-0004 - Visitas técnicas dos professores\|Metodologia MN-0004 - Visitas técnicas dos professores]]
@@ -51,8 +52,7 @@
 - [[Arquivo de Demandas Gerais/Reuniões de articulação entre a equipe (internas e externas) - memória 2023\|Reuniões de articulação entre a equipe (internas e externas) - memória 2023]]
 - [[00_Configuracoes/MetodologiasTCM\|MetodologiasTCM]]
 - [[00_Configuracoes/MetaTCM\|MetaTCM]]
-- [[Falar com Rúbia\|Falar com Rúbia]]
-- [[Portfólio online/Métodos/Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições\|Metodologia MN-0010 - Recebimento dos visitantes aos espaços-exposições]]
+- [[Arquivo de Demandas Gerais/Falar com Rúbia\|Falar com Rúbia]]
 
 
 { .block-language-dataview}
