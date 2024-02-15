@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/artefatos-outros/divertimentos-geometricos/","title":"Divertimentos Geométricos","tags":["tcm/materialdidatico","💼/⚗️/📝️"],"created":"2024-02-14T12:36:17.885-03:00","updated":"2024-02-06T13:28:33.020-03:00"}
+{"dg-publish":true,"permalink":"/portfolio-online/biblioteca/artefatos-outros/divertimentos-geometricos/","title":"Divertimentos Geométricos","tags":["tcm/materialdidatico","💼/⚗️/📝️"],"created":"2024-02-14T12:36:17.885-03:00","updated":"2024-02-15T11:16:30.363-03:00"}
 ---
 
 
