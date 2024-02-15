@@ -36,8 +36,8 @@ tags: 💼/📝️/🟩️
 type: coisasTCM
 contexto: Rede de Museus
 quem:
-  - "[[Safaneta, Marta\|Marta]]"
-  - "[[Fonseca, Rúbia\|Rúbia]]"
+  - "[[Portfólio online/Biblioteca/☎️/Safaneta, Marta\|Marta]]"
+  - "[[Portfólio online/Biblioteca/☎️/Fonseca, Rúbia\|Rúbia]]"
 link: <https://docs.google.com/spreadsheets/d/1K732Z-99Rv_T3wtLqjKmAA4SJ34Jpwu_6dlr4crq0Pk/edit?usp=sharing>
 created: 2024-01-24T17:09
 updated: 2024-01-31T12:56
