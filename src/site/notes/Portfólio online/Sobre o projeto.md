@@ -153,8 +153,8 @@ Instituição Gestora: Fundação de Apoio ao Ensino, Pesquisa e Extensão - [FE
 | File                                                                                                    | qtde  | produto                                    |
 | ------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------ |
 | [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]       | 1     | ARTIGOS EM REVISTAS ESPECIALIZADAS         |
-| [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]                   | 150   | CAPACITAÇÃO DE PESSOAL                     |
 | [[Portfólio online/Produtos/Experiências de Sucesso\|Experiências de Sucesso]]                       | 2     | TRABALHOS COMPLETOS EM ANAIS DE CONGRESSOS |
+| [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]                   | 150   | CAPACITAÇÃO DE PESSOAL                     |
 | [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]       | 6     | PITCH                                      |
 | [[Portfólio online/Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]       | 12    | OUTROS                                     |
 | [[Portfólio online/Produtos/Atendimento ao público\|Atendimento ao público]]                         | 30000 | OUTROS                                     |
