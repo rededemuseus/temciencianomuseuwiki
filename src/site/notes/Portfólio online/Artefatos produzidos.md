@@ -19,8 +19,8 @@
 
 | File                                                                                             | Resumo | Autores                                                                                   | Palavras-chave | Espaço relacionado                                                                                    |
 | ------------------------------------------------------------------------------------------------ | ------ | ----------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------- |
-| [[Portfólio online/Biblioteca/Artefatos - Outros/semana 6 - XXIV-0001\|semana 6 - XXIV-0001]] | \-     | <ul><li>[[Portfólio online/Biblioteca/☎️/Safaneta, Marta.md\\|Safaneta, Marta]]</li></ul> | \-             | <ul><li>[[Portfólio online/Espaços/GT Divulgação Científica.md\\|GT Divulgação Científica]]</li></ul> |
 | [[Portfólio online/Biblioteca/Artefatos - Outros/Newsletter ed0\|Newsletter ed0]]             | \-     | \-                                                                                        | \-             | \-                                                                                                    |
+| [[Portfólio online/Biblioteca/Artefatos - Outros/semana 6 - XXIV-0001\|semana 6 - XXIV-0001]] | \-     | <ul><li>[[Portfólio online/Biblioteca/☎️/Safaneta, Marta.md\\|Safaneta, Marta]]</li></ul> | \-             | <ul><li>[[Portfólio online/Espaços/GT Divulgação Científica.md\\|GT Divulgação Científica]]</li></ul> |
 
 { .block-language-dataview}
 ### Artefatos — Materiais Didático-Pedagógicos
@@ -33,5 +33,7 @@
 
 ### Fontes usadas
 
+- [[Portfólio online/Biblioteca/Fontes/🌐/2024-02-16 - Sync all your reading to Obsidian\|2024-02-16 - Sync all your reading to Obsidian]]
+- [[Portfólio online/Biblioteca/Fontes/🎥️/+ 2024-02-16  -  🎥️ 📜️ Zotero Research Paper Workflow  Full Comprehensive Setup Guide 🛠️\|+ 2024-02-16  -  🎥️ 📜️ Zotero Research Paper Workflow  Full Comprehensive Setup Guide 🛠️]]
 
 { .block-language-dataview}
