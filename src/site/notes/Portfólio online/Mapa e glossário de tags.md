@@ -5,10 +5,10 @@
 
 ## `#mdc` - Mapa de Conteúdo - usada para facilitar a navegação e a conexão entre temas
 
-- [[Portfólio online/Espaços\|Espaços]]
 - [[Portfólio online/Sobre o projeto\|Sobre o projeto]]
 - [[Portfólio online/Mapa e glossário de tags\|Mapa e glossário de tags]]
 - [[Portfólio online/Equipe\|Equipe]]
+- [[Portfólio online/Espaços\|Espaços]]
 - [[Portfólio online/Comunicação interna\|Comunicação interna]]
 - [[Portfólio online/Artefatos produzidos\|Artefatos produzidos]]
 - [[Portfólio online/Agenda Cientifico-Cultural\|Agenda Cientifico-Cultural]]
@@ -23,20 +23,20 @@
 ## `#💼/🧱` Documentos do projeto
 - [[Portfólio online/Metas tcm\|Metas tcm]]
 - [[Portfólio online/Detalhamento da Proposta\|Detalhamento da Proposta]]
-- [[Portfólio online/APQ-02923-22 - Educação científica em museus\|APQ-02923-22 - Educação científica em museus]]
 - [[Portfólio online/Apresentação do projeto para professores\|Apresentação do projeto para professores]]
+- [[Portfólio online/APQ-02923-22 - Educação científica em museus\|APQ-02923-22 - Educação científica em museus]]
 
 { .block-language-dataview}
 ### `#💼/🔍` Produtos pretendidos, como nos documentos
 
-- [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
-- [[Portfólio online/Produtos/Experiências de Sucesso\|Experiências de Sucesso]]
 - [[Portfólio online/Produtos/Oficinas para professores\|Oficinas para professores]]
+- [[Portfólio online/Produtos/Experiências de Sucesso\|Experiências de Sucesso]]
+- [[Portfólio online/Produtos/Roteiros de educação científica\|Roteiros de educação científica]]
 - [[Portfólio online/Produtos/Educação Científica nos espaços\|Educação Científica nos espaços]]
-- [[Portfólio online/Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]
 - [[Portfólio online/Produtos/Atendimento ao público\|Atendimento ao público]]
 - [[Portfólio online/Produtos/Artigos em Revistas especializadas\|Artigos em Revistas especializadas]]
 - [[Portfólio online/Produtos/Apresentação de Resumos\|Apresentação de Resumos]]
+- [[Portfólio online/Produtos/Capacitação de recursos humanos\|Capacitação de recursos humanos]]
 - [[Portfólio online/Produtos/Apoio a Exposições e Roteiros 2\|Apoio a Exposições e Roteiros 2]]
 
 { .block-language-dataview}
@@ -104,20 +104,20 @@
 - [[Portfólio online/Espaços/GT Divulgação Científica\|GT Divulgação Científica]]
 - [[Portfólio online/Espaços/Estação Ecológica UFMG\|Estação Ecológica UFMG]]
 - [[Portfólio online/Espaços/Espaço Memória do Cinema\|Espaço Memória do Cinema]]
-- [[Portfólio online/Espaços/Centro de Referência em Cartografia Histórica\|Centro de Referência em Cartografia Histórica]]
 - [[Portfólio online/Espaços/Espaço do Conhecimento UFMG\|Espaço do Conhecimento UFMG]]
-- [[Portfólio online/Espaços/Centro Virtual de Memória da Extensão\|Centro Virtual de Memória da Extensão]]
-- [[Portfólio online/Espaços/Espaço Acervo Artístico UFMG\|Espaço Acervo Artístico UFMG]]
+- [[Portfólio online/Espaços/Centro de Referência em Cartografia Histórica\|Centro de Referência em Cartografia Histórica]]
 - [[Portfólio online/Espaços/Centro de Pesquisa Memória e Documentação da Faculdade de Educação\|Centro de Pesquisa Memória e Documentação da Faculdade de Educação]]
+- [[Portfólio online/Espaços/Espaço Acervo Artístico UFMG\|Espaço Acervo Artístico UFMG]]
+- [[Portfólio online/Espaços/Centro Virtual de Memória da Extensão\|Centro Virtual de Memória da Extensão]]
 - [[Portfólio online/Espaços/Centro de Memória da Veterinária\|Centro de Memória da Veterinária]]
 - [[Portfólio online/Espaços/Centro de Memória da Medicina\|Centro de Memória da Medicina]]
 - [[Portfólio online/Espaços/Centro de Memória da Farmácia\|Centro de Memória da Farmácia]]
-- [[Portfólio online/Espaços/Centro de Memória da Odontologia\|Centro de Memória da Odontologia]]
 - [[Portfólio online/Espaços/Centro de Memória da Faculdade de Letras\|Centro de Memória da Faculdade de Letras]]
+- [[Portfólio online/Espaços/Centro de Memória da Odontologia\|Centro de Memória da Odontologia]]
 - [[Portfólio online/Espaços/Centro de Memória da Escola de Enfermagem\|Centro de Memória da Escola de Enfermagem]]
-- [[Portfólio online/Espaços/Centro de Memória da Educação Física, do Esporte e do Lazer\|Centro de Memória da Educação Física, do Esporte e do Lazer]]
 - [[Portfólio online/Espaços/Centro da Memória da Engenharia\|Centro da Memória da Engenharia]]
 - [[Portfólio online/Espaços/Acervo Imagens de Minas\|Acervo Imagens de Minas]]
+- [[Portfólio online/Espaços/Centro de Memória da Educação Física, do Esporte e do Lazer\|Centro de Memória da Educação Física, do Esporte e do Lazer]]
 - [[Portfólio online/Espaços/Acervo Curt Lange\|Acervo Curt Lange]]
 
 { .block-language-dataview}
@@ -156,8 +156,8 @@
 
 
 ## `#💼/📇` Visita ou estande: quantidade de visitantes
-- [[Portfólio online/Publico/2023-03-17 - Ciências Biológicas da Universidade de Montes Claros\|2023-03-17 - Ciências Biológicas da Universidade de Montes Claros]]: 25
 - [[Portfólio online/Publico/2023-05-18 - Escola Municipal Maria das Neves\|2023-05-18 - Escola Municipal Maria das Neves]]: 29
+- [[Portfólio online/Publico/2023-03-17 - Ciências Biológicas da Universidade de Montes Claros\|2023-03-17 - Ciências Biológicas da Universidade de Montes Claros]]: 25
 - [[Portfólio online/Publico/2023-05-18 - Ieda International School\|2023-05-18 - Ieda International School]]: 20
 - [[Portfólio online/Publico/2023-06-05 - Escola Estadual Américo Martins\|2023-06-05 - Escola Estadual Américo Martins]]: 38
 - [[Portfólio online/Publico/2023-06-05 - Escola Estadual Antônio Canela\|2023-06-05 - Escola Estadual Antônio Canela]]: 38
@@ -167,35 +167,35 @@
 - [[Portfólio online/Publico/2023-08-24 - Escola Municipal Sérgio Miranda\|2023-08-24 - Escola Municipal Sérgio Miranda]]: 40
 - [[Portfólio online/Publico/2023-08-25 - Escola Estadual Mamede Pacífico de Almeida\|2023-08-25 - Escola Estadual Mamede Pacífico de Almeida]]: 40
 - [[Portfólio online/Publico/2023-09-19 - Universidade Federal de Viçosa - Campus Florestal\|2023-09-19 - Universidade Federal de Viçosa - Campus Florestal]]: 15
-- [[Portfólio online/Publico/2023-09-07 - Domingo no Campus\|2023-09-07 - Domingo no Campus]]: 500
 - [[Portfólio online/Publico/2023-08-31 - Escola Estadual de Ensino Médio de Vila Nova de Minas\|2023-08-31 - Escola Estadual de Ensino Médio de Vila Nova de Minas]]: 32
-- [[Portfólio online/Publico/2023-09-27 - Escola Estadual Professora Cristina Guimarães - Evento Biotemas\|2023-09-27 - Escola Estadual Professora Cristina Guimarães - Evento Biotemas]]: 100
+- [[Portfólio online/Publico/2023-09-07 - Domingo no Campus\|2023-09-07 - Domingo no Campus]]: 500
 - [[Portfólio online/Publico/2023-09-24 - Escola Municipal Professora Alice Nacif\|2023-09-24 - Escola Municipal Professora Alice Nacif]]: 40
 - [[Portfólio online/Publico/2023-09-20 - Escola Estadual Rui Barbosa\|2023-09-20 - Escola Estadual Rui Barbosa]]: 30
-- [[Portfólio online/Publico/2023-09-29 - Escola Estadual Monsenhor Gustavo - Evento Biotemas\|2023-09-29 - Escola Estadual Monsenhor Gustavo - Evento Biotemas]]: 200
 - [[Portfólio online/Publico/2023-09-21 - Escola Estadual Trajano Procópio Alvarenga Silva Monteiro\|2023-09-21 - Escola Estadual Trajano Procópio Alvarenga Silva Monteiro]]: 30
+- [[Portfólio online/Publico/2023-09-27 - Escola Estadual Professora Cristina Guimarães - Evento Biotemas\|2023-09-27 - Escola Estadual Professora Cristina Guimarães - Evento Biotemas]]: 100
+- [[Portfólio online/Publico/2023-10-18 -  Herbário Norte Mineiro na 20a Semana Nacional da Ciência e Tecnologia\|2023-10-18 -  Herbário Norte Mineiro na 20a Semana Nacional da Ciência e Tecnologia]]: 20
+- [[Portfólio online/Publico/2023-09-29 - Escola Estadual Monsenhor Gustavo - Evento Biotemas\|2023-09-29 - Escola Estadual Monsenhor Gustavo - Evento Biotemas]]: 200
 - [[Portfólio online/Publico/2023-10-13 - Escola Municipal Monsenhor Artur de Oliveira\|2023-10-13 - Escola Municipal Monsenhor Artur de Oliveira]]: 20
 - [[Portfólio online/Publico/2023-10-17 - Instituto Federal do Norte de Minas Gerais\|2023-10-17 - Instituto Federal do Norte de Minas Gerais]]: 30
 - [[Portfólio online/Publico/2023-10-18 - Escola Municipal Anne Frank\|2023-10-18 - Escola Municipal Anne Frank]]: 35
-- [[Portfólio online/Publico/2023-10-18 -  Herbário Norte Mineiro na 20a Semana Nacional da Ciência e Tecnologia\|2023-10-18 -  Herbário Norte Mineiro na 20a Semana Nacional da Ciência e Tecnologia]]: 20
 - [[Portfólio online/Publico/2023-10-19 -  Herbário Norte Mineiro na 20a Semana Nacional da Ciência e Tecnologia\|2023-10-19 -  Herbário Norte Mineiro na 20a Semana Nacional da Ciência e Tecnologia]]: 20
 - [[Portfólio online/Publico/2023-10-26 - 10ª Feira de Ciências do Norte de Minas Gerais e Vales do Jequitinhonha e Mucuri\|2023-10-26 - 10ª Feira de Ciências do Norte de Minas Gerais e Vales do Jequitinhonha e Mucuri]]: 100
 - [[Portfólio online/Publico/2023-11-14 - Escola Municipal Dom Orione\|2023-11-14 - Escola Municipal Dom Orione]]: 31
-- [[Portfólio online/Publico/2023-10-31 - Centro Pedagógico Capelo Gaivota\|2023-10-31 - Centro Pedagógico Capelo Gaivota]]: 50
-- [[Portfólio online/Publico/2023-11-01 - Escola Estadual Lauro Epifânio\|2023-11-01 - Escola Estadual Lauro Epifânio]]: 90
-- [[Portfólio online/Publico/2023-11-09 - Escola Municipal Dom Orione\|2023-11-09 - Escola Municipal Dom Orione]]: 30
 - [[Portfólio online/Publico/2023-11-16 - Escola Municipal Dom Orione\|2023-11-16 - Escola Municipal Dom Orione]]: 30
 - [[Portfólio online/Publico/2023-11-21 - EM José Madureira Horta\|2023-11-21 - EM José Madureira Horta]]: 140
+- [[Portfólio online/Publico/2023-10-31 - Centro Pedagógico Capelo Gaivota\|2023-10-31 - Centro Pedagógico Capelo Gaivota]]: 50
+- [[Portfólio online/Publico/2023-11-09 - Escola Municipal Dom Orione\|2023-11-09 - Escola Municipal Dom Orione]]: 30
+- [[Portfólio online/Publico/2023-11-01 - Escola Estadual Lauro Epifânio\|2023-11-01 - Escola Estadual Lauro Epifânio]]: 90
 - [[Portfólio online/Publico/2023-11-21 - Escola Municipal Dom Orione\|2023-11-21 - Escola Municipal Dom Orione]]: 31
-- [[Portfólio online/Publico/2023-11-24 - 1ª Feira de Profissões + Técnica da Cidade dos Meninos São Vicente de Paulo\|2023-11-24 - 1ª Feira de Profissões + Técnica da Cidade dos Meninos São Vicente de Paulo]]: 3000
 - [[Portfólio online/Publico/2023-11-22 - Escola Estadual Armênio Veloso\|2023-11-22 - Escola Estadual Armênio Veloso]]: 28
+- [[Portfólio online/Publico/2023-11-24 - 1ª Feira de Profissões + Técnica da Cidade dos Meninos São Vicente de Paulo\|2023-11-24 - 1ª Feira de Profissões + Técnica da Cidade dos Meninos São Vicente de Paulo]]: 3000
 - [[Portfólio online/Publico/2023-11-23 - Escola Estadual Jovem Protagonista\|2023-11-23 - Escola Estadual Jovem Protagonista]]: 5
 - [[Portfólio online/Publico/2023-11-23 - Escola Municipal Dom Orione\|2023-11-23 - Escola Municipal Dom Orione]]: 30
+- [[Portfólio online/Publico/2023-11-28 - Escola Municipal Dom Orione\|2023-11-28 - Escola Municipal Dom Orione]]: 31
 - [[Portfólio online/Publico/2023-11-28 - Escola Municipal Dom Orione 2\|2023-11-28 - Escola Municipal Dom Orione 2]]: 31
 - [[Portfólio online/Publico/2023-12-05 - Yaksibith Yohana Conde Artigas\|2023-12-05 - Yaksibith Yohana Conde Artigas]]: 3
-- [[Portfólio online/Publico/2023-12-13 - Escola Estadual Interventor Alcides Lins\|2023-12-13 - Escola Estadual Interventor Alcides Lins]]: 31
-- [[Portfólio online/Publico/2023-11-28 - Escola Municipal Dom Orione\|2023-11-28 - Escola Municipal Dom Orione]]: 31
 - [[Portfólio online/Publico/2023-12-13 - Escola Estadual Interventor Alcides Lins 2\|2023-12-13 - Escola Estadual Interventor Alcides Lins 2]]: 32
+- [[Portfólio online/Publico/2023-12-13 - Escola Estadual Interventor Alcides Lins\|2023-12-13 - Escola Estadual Interventor Alcides Lins]]: 31
 
 { .block-language-dataview}
 ## `#☎️`  Colaboradores do projeto
